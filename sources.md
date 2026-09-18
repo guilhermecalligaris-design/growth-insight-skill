@@ -15,11 +15,11 @@
 - [ ] https://growthinsight.com.br/p/ancoras-e-eletrons
 - [ ] https://growthinsight.com.br/p/aprendendo-a-pensar-e-aprender-deep-growth
 - [ ] https://growthinsight.com.br/p/aprendizado
-- [ ] https://growthinsight.com.br/p/arroz-feijao-mkt-2026
+- [x] https://growthinsight.com.br/p/arroz-feijao-mkt-2026
 - [ ] https://growthinsight.com.br/p/b2boring-parte1
 - [ ] https://growthinsight.com.br/p/b2boring-parte2
 - [ ] https://growthinsight.com.br/p/bowling-pin-strategy
-- [ ] https://growthinsight.com.br/p/branding-como-criar-uma-marca-do-zero-ou-mudar-a-sua
+- [x] https://growthinsight.com.br/p/branding-como-criar-uma-marca-do-zero-ou-mudar-a-sua
 - [ ] https://growthinsight.com.br/p/campanha-cancelamento-havaianas
 - [ ] https://growthinsight.com.br/p/canais-de-marketing
 - [ ] https://growthinsight.com.br/p/case-notion-clg-parte3
@@ -47,7 +47,7 @@
 - [ ] https://growthinsight.com.br/p/contextual-outbound
 - [ ] https://growthinsight.com.br/p/criacao-da-marca
 - [ ] https://growthinsight.com.br/p/criar-programa-de-indicacao
-- [ ] https://growthinsight.com.br/p/criar-time-marketing-zero
+- [x] https://growthinsight.com.br/p/criar-time-marketing-zero
 - [ ] https://growthinsight.com.br/p/criatividade
 - [ ] https://growthinsight.com.br/p/crise-reputacional-marketing
 - [ ] https://growthinsight.com.br/p/cro-tedio-psych-fomu
@@ -79,18 +79,18 @@
 - [ ] https://growthinsight.com.br/p/hubspot-plg-global
 - [ ] https://growthinsight.com.br/p/ia-onboarding-cro
 - [ ] https://growthinsight.com.br/p/ia-vibe-marketing
-- [ ] https://growthinsight.com.br/p/loop-marketing-hubspot
+- [x] https://growthinsight.com.br/p/loop-marketing-hubspot
 - [ ] https://growthinsight.com.br/p/manifesto
 - [ ] https://growthinsight.com.br/p/marketing-de-conteudo-1
 - [ ] https://growthinsight.com.br/p/marketing-de-conteudo-2
-- [ ] https://growthinsight.com.br/p/marketing-de-guerrilha-emboscada
+- [x] https://growthinsight.com.br/p/marketing-de-guerrilha-emboscada
 - [ ] https://growthinsight.com.br/p/melhore-resultados-gen-ia
 - [ ] https://growthinsight.com.br/p/melhores-livros-por-especialidade-de-marketing
 - [ ] https://growthinsight.com.br/p/mentira
 - [ ] https://growthinsight.com.br/p/mentoria-premium-high-ic-zero-click
 - [ ] https://growthinsight.com.br/p/metodo-meyvn-consultoria
 - [ ] https://growthinsight.com.br/p/mito-growth-hacker
-- [ ] https://growthinsight.com.br/p/moats-defensibilidade-2026
+- [x] https://growthinsight.com.br/p/moats-defensibilidade-2026
 - [ ] https://growthinsight.com.br/p/modelo-competencias-growth
 - [ ] https://growthinsight.com.br/p/monetizacao-parte1
 - [ ] https://growthinsight.com.br/p/monetizacao-parte2
@@ -98,7 +98,7 @@
 - [ ] https://growthinsight.com.br/p/network-effects-principalidade-ai
 - [ ] https://growthinsight.com.br/p/newsletter-business
 - [ ] https://growthinsight.com.br/p/nichos-novo-oceano-azul
-- [ ] https://growthinsight.com.br/p/novo-marketing-ia-gen-marketer
+- [x] https://growthinsight.com.br/p/novo-marketing-ia-gen-marketer
 - [ ] https://growthinsight.com.br/p/o-fim-do-fim-dos-cookies
 - [ ] https://growthinsight.com.br/p/os-melhores-livros-para-profissionais-de-marketing
 - [ ] https://growthinsight.com.br/p/papo-de-gestao-g4-witt
@@ -117,9 +117,9 @@
 - [ ] https://growthinsight.com.br/p/positioning-messaging-copy
 - [ ] https://growthinsight.com.br/p/premium-e-ano-novo
 - [ ] https://growthinsight.com.br/p/product-market-fit
-- [ ] https://growthinsight.com.br/p/product-marketing
+- [x] https://growthinsight.com.br/p/product-marketing
 - [ ] https://growthinsight.com.br/p/proximo-passo-carreira
-- [ ] https://growthinsight.com.br/p/rebranding
+- [x] https://growthinsight.com.br/p/rebranding
 - [ ] https://growthinsight.com.br/p/reputacao-relacionamento-alcance-resultado-marketing-b2b
 - [ ] https://growthinsight.com.br/p/retrospectiva-2025
 - [ ] https://growthinsight.com.br/p/reunioes-rotinas-rituais
@@ -130,6 +130,6 @@
 - [ ] https://growthinsight.com.br/p/semanas-caoticas
 - [ ] https://growthinsight.com.br/p/time-de-marketing
 - [ ] https://growthinsight.com.br/p/trabalho-focado
-- [ ] https://growthinsight.com.br/p/trilema-marketing-ia
-- [ ] https://growthinsight.com.br/p/zero-click-marketing
+- [x] https://growthinsight.com.br/p/trilema-marketing-ia
+- [x] https://growthinsight.com.br/p/zero-click-marketing
 - [ ] https://growthinsight.com.br/p/zirp-boring-growth
