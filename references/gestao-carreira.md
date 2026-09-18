@@ -20,3 +20,13 @@ Gestão/estrutura · [fonte](https://growthinsight.com.br/p/fuel-engine-framewor
 **Exemplo:** transição do autor Swile (B2B, vale-refeição) → STLFLIX (B2C, assinatura de impressão 3D), com decisão estrutural em <3 semanas.
 **Anti-padrões:** supor que estratégia de marketing transfere direto entre B2B e B2C sem avaliação; adiar decisão estrutural sem framework de avaliação.
 **Takeaway:** framework estruturado reduz risco de onboarding de líder ao permitir leitura rápida de contexto e decisão informada sobre composição de time.
+
+## Finanças para marketing — conquistar a confiança do CFO
+Gestão/finanças · [fonte](https://growthinsight.com.br/p/financas-para-marketing) · Felipe Collins
+
+**Tese:** Marketer vira líder estratégico quando domina finanças e unit economics e **traduz impacto em linguagem financeira** — o passaporte pra "mesa dos adultos".
+**Frameworks:** *DRE* — Receita bruta → Lucro bruto → EBITDA → Lucro líquido (COGS variável, despesa fixa, imposto). *Unit economics* — CAC, LTV, churn (logo/dollar), ARPU, payback = CAC ÷ margem do cliente. *Caixa & runway* — runway = caixa ÷ burn mensal.
+**Táticas:** traduzir métrica de marketing em impacto financeiro ("pipeline R$2,8M, ROI 280%, payback 4 meses" > "leads +40%"); separar orçamento em bolsos (growth/aquisição × branding/institucional) com retorno esperado por linha; cohort mensal pra ver mudança de jornada; auditar linha pequena que corrói budget (ferramenta cara subutilizada); crescer ARPU dos atuais (cross/upsell) antes de acelerar aquisição; CAC com custos indiretos (time, ferramenta, comissão), não só mídia.
+**Exemplos:** Sadia (unit economics ruim escondido por câmbio → quebrou, comprada pela Perdigão) · Vivo anos 2000 (perdeu share mas subiu lucro ao reposicionar) · CMO Insights 2025 (37% dos CMOs com colaboração "muito efetiva" com Finanças vs 22% em 2023).
+**Anti-padrões:** vender "a qualquer custo" ignorando LTV/payback; CAC > ⅓ do LTV; payback > runway; trazer cliente errado (alto churn/baixo LTV); usar só ROAS sem custo operacional; forçar crescimento sem PMF (CAC subindo + churn acelerando).
+**Takeaway:** fale a língua do CFO — traduza ação de marketing em lucro e valor da empresa — pra influenciar decisão estratégica.

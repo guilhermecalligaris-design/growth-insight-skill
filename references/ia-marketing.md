@@ -32,3 +32,13 @@ IA/growth ops · [fonte](https://growthinsight.com.br/p/loop-marketing-hubspot) 
 **Quando NÃO usar:** modelo puro outbound (cold call, eventos, ciclo longo, ICP estreito). Melhor pra growth-stage (50–500 pessoas).
 **Anti-padrões:** pular Express (output genérico); {first_name} ≠ personalização real; SEO clássico em vez de AEO paralelo; campanha de 6 meses com medição só no fim; silo criador×dado.
 **Takeaway:** 60% das buscas terminam sem clique; AI Overviews em 26% das queries informacionais → **AEO (otimizar pra citação de LLM, não tráfego) é o moat sensível ao tempo**.
+
+## SaaSpocalypse — agentes de IA e o colapso do SaaS
+IA/estratégia · [fonte](https://growthinsight.com.br/p/saaspocalypse-agentes-ia) · Felipe Witt
+
+**Tese:** Agentes de IA substituem a interface do software e viram o SaaS de ferramenta protagonista em **backend invisível** — o que demole a monetização por licença/seat.
+**Frameworks:** *Transição de valor* — era SaaS (usuário clica, software organiza) → era agente (usuário descreve intenção, agente atravessa os sistemas); o software perde protagonismo. *3 pilares de sobrevivência:* 1) trocar a unidade de valor (seat → resultado/resolução) · 2) distribuição como moat · 3) API como produto (catálogo de "movimentos" de negócio pro agente consumir).
+**Táticas:** precificar por resultado do agente (Intercom/Zendesk testando por resolução); estruturar API em movimentos de negócio (qualificar, aprovar, cobrar), não objetos técnicos; investir em distribuição/GTM como defesa; virar dado crítico + permissão + trilha de auditoria em valor residual.
+**Exemplos:** "Claude Cowork" (2026, gatilho do pânico, ~US$285bi evaporados) · Klarna (trocou Salesforce+Workday por ferramenta interna) · Gartner (40% dos projetos agênticos cancelados).
+**Anti-padrões:** manter preço por seat onde o agente reduz gente; "agent washing" (chamar qualquer automação de agente); API feita pra humano, não pra máquina; achar que "copiar software ficou barato" resolve sem distribuição.
+**Takeaway:** o software sobrevive se **guardar dado crítico, controlar permissão e viabilizar execução**; morre se só organiza trabalho manual. (Complementa Gen Marketer e Trilema neste arquivo.)

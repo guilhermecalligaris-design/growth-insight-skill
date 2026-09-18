@@ -22,3 +22,33 @@ Persuasão/estratégia · [fonte](https://growthinsight.com.br/p/economia-compor
 **Exemplos:** doação de órgãos no UK (~70% via opt-in default pré-marcado) · SaaS 3 tiers (plano do meio ancora) · estudo Black Sheep vodka (ordem de adjetivos, +11% de percepção).
 **Anti-padrões:** supor decisão racional (homo economicus não existe); ignorar componentes subconscientes (design, tom); argumentar lógica quando o Sistema 1 decide; opção sem âncora de comparação.
 **Takeaway:** eficácia compõe ao **sistematizar persuasão baseada em cérebro** na arquitetura de decisão, sequência da informação e design do ambiente — não só no conteúdo da mensagem.
+
+## Good copy vs Bad copy — os 5 elementos
+Copywriting · [fonte](https://growthinsight.com.br/p/good-copy-bad-copy) · Felipe Witt *(bônus "evite 3 coisas" é premium; corpo visível)*
+
+**Tese:** Copy que vende é ofício estruturado (público + contexto + headline + capacidade + AIDA), não criatividade artística.
+**Frameworks:** *AIDA (Elmo Lewis, 1898)* — Atenção → Interesse → Desejo → Ação. *Feature → Capability → Benefit* — feature (aspecto técnico) → capability (o que o cliente passa a conseguir fazer) → benefit (a mudança); a **capability específica** é o elo que falta na maioria das copies.
+**Táticas:** falar com cliente real (ligações de venda, tickets de suporte) antes de escrever; investir ~80% do esforço na **headline** (leem em F, só 20-28% das palavras); trocar benefício vago por capability concreta ("1.000 músicas no seu bolso"); testar headline isolada com persona; respeitar o contexto (onde veicula, estado emocional, momento de uso).
+**Exemplos:** Rolls-Royce 1957 ("a 60 mph o barulho mais alto vem do relógio elétrico", 719 palavras de fato) · iPod "1.000 músicas no bolso" (capability ideal) · Notion/Slack (crítica: headline abstrata "aqui o trabalho acontece" não comunica) · Ogilvy (43% não entendiam "obsoleto" — validar vocabulário).
+**Anti-padrões:** escrever sem conhecer o cliente; headline conceitual que depende de texto que ninguém lê; vender benefício abstrato em vez de capability; abandonar a mentalidade de vendedor pela de artista; palavra sofisticada sem validar compreensão.
+**Takeaway:** copy persuasiva = dados + fato + a **capability específica** que você entrega, não elegância. (Complementa Positioning·Messaging·Copy e ELMR.)
+
+## Quem escreve bem, pensa bem
+Escrita/craft · [fonte](https://growthinsight.com.br/p/como-escrever-bem) · Felipe Collins
+
+**Tese:** Escrever bem é superpoder desproporcional porque **força clareza de pensamento** — exige leitura intencional, prática deliberada e edição impiedosa.
+**Frameworks:** *Pirâmide invertida* (lead com o quê/quem/quando/onde/porquê; informação central primeiro). *MOO — Main Objection Overcome (Wes Kao)* (antecipar a objeção antes de escrever). *Dual Coding* (contexto + processamento; consolida no sono). *Audience of One (Lieberman)* (escrever pra uma pessoa específica). *Jornada do herói* (tensão → plot twist → resolução; reordenar a cronologia). **Estruturas prontas:** Proposta = Problema→Impacto→Solução→Benefícios · Relatório = Resultado→Contexto→Detalhe→Próximos passos · Feedback = Situação→Comportamento→Impacto→Solução · Documento = SCRAP (Situação→Complicação→Resolução→Ação→Resultado).
+**Táticas:** destravar gravando áudio → transcrever → editar; aquecer copiando texto admirado ("imitate, then innovate"); preso no detalhe → subir ao geral (e vice-versa); deixar descansar uma noite antes de editar; cortar até 50% do rascunho; entregar a um leitor-beta com o perfil do público; voz ativa; especificidade mata vaga.
+**Exemplos:** Seinfeld (3h/dia escrevendo à mão) · Bradbury (1º draft rápido, sem julgar) · Amazon (baniu PowerPoint por documento estruturado) · Zinsser/Pinker (referências de clareza).
+**Anti-padrões:** *doninhas* (weasel words: "estudos mostram", "há quem diga"); *pavões* (pomposo: "disruptivo", "AI-powered"); "nariz de cera" (contexto inútil na abertura); ordem cronológica em vez de narrativa; voz passiva; gerúndio em excesso; maldição do conhecimento.
+**Takeaway:** leia com intenção, escreva todo dia com rigor, edite sem dó e **priorize clareza sobre elegância**.
+
+## Posicionamento, mensagem e copy (diagnóstico antes da tática)
+Posicionamento/copy · [fonte](https://growthinsight.com.br/p/positioning-messaging-copy) · Felipe Witt
+
+**Tese:** Problema de venda pede **diagnóstico estratégico** antes de ação tática — descobrir se o gargalo é de posicionamento, de mensagem ou de copy (estratégia precede tática).
+**Frameworks:** *April Dunford (5 componentes, base em JTBD)* — alternativas competitivas · capacidades diferenciadoras · valor · quem valoriza · mercado onde você vence. *Sean Ellis Test (regra dos 40%)* — "como se sentiria sem [produto]?" A) muito decepcionado ≥40% = PMF.
+**Táticas:** *teste dos 3 segundos* (mostrar o site por 3s e pedir pra explicar); *teste das headlines* (só os títulos — dá pra dizer o que é o produto?); *win-loss* (estudar por que perde, foco em perda pra concorrente); AIDA com experimentação contínua; cortar jargão, superlativo e negativa.
+**Exemplos:** Swile (onde o autor foi diretor de marketing); "all-in-one sales platform" / "AI-powered revenue orchestration" como headlines genéricas/vazias a evitar.
+**Anti-padrões:** tratar posicionamento/mensagem/copy como a mesma coisa; sair testando A/B e criativo sem diagnosticar o tipo de problema; headline genérica; negativa que confunde ("não é feito com..."); iterar copy sem âncora estratégica (deriva após 4-5 ciclos).
+**Takeaway:** **posicionamento e mensagem vêm muito antes da copy** — e são os mais ignorados.

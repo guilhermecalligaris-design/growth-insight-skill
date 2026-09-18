@@ -42,3 +42,13 @@ GTM · [fonte](https://growthinsight.com.br/p/gotomarket-slg-mlg-plg) · Felipe 
 **Exemplos:** SLG (EmCasa, Oracle, Salesforce) · MLG (Gympass, HubSpot, RD Station) · PLG (Arc, Calendly, Canva, Slack, Notion).
 **Anti-padrões:** derivar pra mistura de GTM sem estratégia consciente; copiar empresa de contexto diferente; ignorar dependência de pessoas (risco SLG) ou de plataforma (risco MLG/PLG).
 **Takeaway:** seleção deliberada de GTM alinhada à economia do produto sustenta o crescimento — avalie seus sinais antes de comprometer recurso.
+
+## Scorecard de ICP orientado a valor
+GTM/ICP · [fonte](https://growthinsight.com.br/p/scorecard-icp) · Felipe Witt
+
+**Tese:** ICP bom não nasce de persona demográfica ("Carla, 29, ama café e yoga") e sim de **situação econômica mensurável** que liga comportamento, preferência e rentabilidade.
+**Framework — Scorecard ICP (4 pilares):** 1) **Jobs to be Done** — situação + progresso desejado + restrições + alternativas ("quando [situação], quero [resultado]") · 2) **Prova de preferência** — conjoint test com 5-8 atributos e 150-300 respondentes pra pesar o que importa · 3) **CEPs (Category Entry Points)** — mapear 5 esferas (temas, contextos, restrições, companhias, requisitos) pelos 3 C's (Credibilidade, Competição, Comunalidade): o **quando** comprar · 4) **Unit Economics** — LTV, CAC, LTV/CAC ≥ 3:1, payback.
+**Táticas:** traduzir persona em declaração comportamental; forçar escolha entre alternativas no conjoint pra achar o peso real de cada atributo; teste de sensibilidade (simular +10% churn e +15% CAC pra ver a fragilidade do ICP); CAC com custos incrementais (mídia, SDR, comissão), sem overhead fixo.
+**Exemplos:** advisory do autor em universidade, clínica derma, ótica, proteção veicular, startups R$10M-500M; CRO na STLFLIX (impressão 3D global).
+**Anti-padrões:** só demografia (idade/gênero/renda); persona psicográfica sem validação econômica; ignorar o "quando" (CEPs); romantizar mercado sem fechar a conta; confundir CAC com custo de mídia; escalar sem teste de sensibilidade.
+**Takeaway:** ICP acionável une **comportamento situacional + preferência validada + retorno econômico** numa única declaração.

@@ -31,3 +31,11 @@ Growth/CRO · [fonte](https://growthinsight.com.br/p/cro-tedio-psych-fomu) · Fe
 **Táticas:** teste dos 5 segundos (mostrar copy, tirar, pedir pra explicar a oferta); extração de headline (só H1/H2 — dá pra saber o negócio?); auditoria de energia (+Psych: carga rápida, prova, clareza; −Psych: forms, valor obscuro, preço alto); reordenar fricção (juntar energia antes de pedir dado sensível).
 **Anti-padrões:** supor que o prospect sabe o que você sabe; abusar de FOMO quando o usuário prioriza **FOMU** ("fear of messing up"); remover toda fricção (pode sinalizar valor baixo); layout entulhado e pop-ups.
 **Takeaway:** otimize auditando o consumo de energia psicológica, validando clareza com quem é de fora e sequenciando elementos pra sustentar engajamento até o CTA — não à base de gatilho agressivo.
+
+## Case Notion (1K → 100M usuários) — série PLG + CLG
+Growth/case · fontes: [parte 1](https://growthinsight.com.br/p/case-notion-parte1) · [parte 2 (PLG)](https://growthinsight.com.br/p/case-notion-plg-parte2) · [parte 3 (CLG)](https://growthinsight.com.br/p/case-notion-clg-parte3) · Felipe Witt *(premium 👑 — corpo detalhado dos 3 é pago; lacuna)*
+
+**Tese (parte visível):** A Notion chegou a 100M de usuários por **execução precisa e consistente** ao longo de +10 anos, combinando começo estratégico, captação deliberada, pivôs calculados e a dobradinha Product-Led + Community-Led.
+**Linha do tempo (visível):** 2016 = 1.000 usuários → 2020 = 1.000.000 (1000×) → 2024 = 100.000.000 (100×). Fundador/CEO: Ivan Zhao.
+**Estratégias nomeadas (rótulos visíveis, mecânica premium):** *PLG* (produto como motor, foco na qualidade das iniciativas) · *CLG* (comunidade vibrante que alimenta o roadmap; ~85% do tráfego inicial vinha de templates da comunidade — ver Community-Led Growth acima) · integração híbrida PLG/CLG/SLG.
+**Takeaway:** produto bem construído + comunidade proposital + tempo = composição exponencial; **a mecânica passo-a-passo dos 3 artigos é premium (lacuna)**.

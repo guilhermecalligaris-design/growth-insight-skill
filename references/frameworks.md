@@ -31,3 +31,13 @@
 | Bowling Pin Strategy (3 passos) | Dominar nicho antes de expandir | [bowling](https://growthinsight.com.br/p/bowling-pin-strategy) | gtm.md |
 | GTM SLG/MLG/PLG (Joel York + Balfour) | Escolher modelo por complexidade/ARPU | [gtm-models](https://growthinsight.com.br/p/gotomarket-slg-mlg-plg) | gtm.md |
 | Mapa de alternativas competitivas | Competir contra incumbente (status quo/indecisão) | [incumbentes](https://growthinsight.com.br/p/como-competir-contra-incumbentes) | estrategia.md |
+| Product-Market-Channel-Model Fit + 5 filtros de canal | Escolher/validar canal com rigor | [canais](https://growthinsight.com.br/p/canais-de-marketing) | canais-taticas.md |
+| 4 filtros + 5 etapas (PMF→Power Law→Double Down→Explore&Exploit) | Diversificar canal de aquisição | [diversificar](https://growthinsight.com.br/p/diversificar-canais-aquisicao) | canais-taticas.md |
+| Referral: persona 3 filtros + recompensa 4 categorias + mecânicas | Programa de indicação estruturado | [indicacao](https://growthinsight.com.br/p/criar-programa-de-indicacao) | canais-taticas.md |
+| K-W-A + Zero-Click UX + diagnóstico de intenção | AEO/SEO para AI Overviews | [ai-overview](https://growthinsight.com.br/p/ai-overview-seo) | canais-taticas.md |
+| AIDA + Feature·Capability·Benefit | Estrutura de copy que vende | [good-bad-copy](https://growthinsight.com.br/p/good-copy-bad-copy) | copywriting.md |
+| Pirâmide invertida + MOO + SCRAP + Audience of One | Escrever bem / clareza de pensamento | [escrever-bem](https://growthinsight.com.br/p/como-escrever-bem) | copywriting.md |
+| April Dunford (5 comp.) + Sean Ellis 40% + teste 3s | Posicionamento×mensagem×copy | [pos-msg-copy](https://growthinsight.com.br/p/positioning-messaging-copy) | copywriting.md |
+| Scorecard ICP (JTBD + conjoint + CEPs/3C + unit econ.) | Definir ICP por valor, não demografia | [scorecard-icp](https://growthinsight.com.br/p/scorecard-icp) | gtm.md |
+| DRE + Unit economics + Runway | Finanças para marketers (CFO) | [financas](https://growthinsight.com.br/p/financas-para-marketing) | gestao-carreira.md |
+| Transição de valor + 3 pilares (unidade/distribuição/API) | Sobreviver à era dos agentes de IA | [saaspocalypse](https://growthinsight.com.br/p/saaspocalypse-agentes-ia) | ia-marketing.md |

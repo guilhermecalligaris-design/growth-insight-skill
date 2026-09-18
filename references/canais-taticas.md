@@ -23,3 +23,50 @@ Canais/guerrilha · [fonte](https://growthinsight.com.br/p/marketing-de-guerrilh
 **Exemplos:** Swile ("la carte la plus inutile" em 5.570 OOH no lockdown de Paris, +25.000% em busca) · Barte (bloco de gelo de 1t com dinheiro na Faria Lima) · Swile #VaiTerFeriadoSim (45 matérias + TV, zero mídia paga) · Billie Eilish (110M no Close Friends → exclusividade percebida).
 **Anti-padrões:** super-digitalizar (só métrica rastreável; guerrilha vive em PR/busca/earned); vácuo de repertório (só sabe growth-hacking de dashboard); aversão a risco (ignora o custo da invisibilidade); ação isolada sem cadência; esquecer amplificação (físico sem registro = desperdício).
 **Takeaway:** feed saturado, CPM subindo, CTR caindo — pense **criatividade como alavanca de resultado assimétrico**, fora da tela.
+
+## Escolha e validação de canais de marketing (2025)
+Canais/estratégia · [fonte](https://growthinsight.com.br/p/canais-de-marketing) · Felipe Collins
+
+**Tese:** A saturação dos canais não é o fim deles — morreu o playbook genérico; canal exige execução rigorosa e escolha científica.
+**Frameworks:** *Product-Market-Channel-Model Fit (Balfour/Reforge)* — produto, mercado, canal e modelo alinhados; mudar um quadrante força revalidar os outros. *Ciclo de vida da tática (Reforge)* — descoberta → eficiência → saturação → declínio (curvas cada vez mais abruptas; quem chega cedo colhe). *Matriz 2×2 custo × tempo-de-resultado* — equilibrar canal rápido e de construção. *5 filtros de validação:* 1) há demanda pelo produto nesse canal? · 2) traz cliente qualificado? · 3) move o ponteiro (métrica-mãe)? · 4) unit economics saudável? · 5) qualidade real (uso, satisfação, churn)?
+**Táticas:** começar por low-hanging fruit + founder-led antes de escalar; usar material de inbound como sales enablement do outbound; distribuir 1 conteúdo em várias plataformas (YouTube alimenta SEO); orçar entre canal rápido (paga) e de construção (SEO/comunidade); criar alavancas entre canais (viralidade do produto → CLG); aceitar "custo de aprendizado" que fura o unit economics por tempo limitado.
+**Exemplos:** Stripe (developer-led, conteúdo técnico) · Alice (pivô B2C→B2B + LinkedIn/eventos, captou R$127M) · Company Hero (parceria com contadores no momento de compra) · Wise (performance + SEO longo) · Gong (cold email personalizado, 11% resposta) · Victoria Beckham Beauty (ROAS +627% YoY).
+**Anti-padrões:** síndrome do "objeto dourado" (canal novo sem critério); playbook de livro sem contexto; só canal rápido (sem base perene) OU só canal lento (sem caixa curto); gastar desproporcional ao ticket (R$10k pra vender R$100); dispersar em N canais sem checar audiência/recurso; ignorar regulação do setor.
+**Takeaway:** escolha canal com rigor científico — audiência, caixa, timing, qualidade, regulação — equilibrando velocidade e sustentabilidade, não modismo.
+
+## Diversificar canais de aquisição em 5 etapas
+Canais/aquisição · [fonte](https://growthinsight.com.br/p/diversificar-canais-aquisicao) · Felipe Witt
+
+**Tese:** A maioria falha ao diversificar porque age aleatório (spray-and-pray); estruturar em 5 etapas sequenciais troca intuição por dado.
+**Framework — 4 filtros do canal:** 1) a audiência se congrega nele? · 2) o negócio bate com as regras do canal? · 3) suporta a estrutura de custos? · 4) entrega no prazo que você tem? **5 etapas:** 1) **Zero ao PMF** (não diversifique antes) · 2) **Preparar o terreno** (produto/site/time/messaging/processo antes de aquisição) · 3) **Power Law** (achar 1 canal ideal, não N medianos) · 4) **Double Down** (aprofundar no que funciona) · 5) **Explore & Exploit** (80% no que funciona / 20% em teste).
+**Táticas:** não contratar growth specialist antes do PMF; corrigir os gargalos internos antes de comprar tráfego; buscar "fumaça" (sinal) num teste barato antes de escalar; procurar sinergia entre canais (Search + Social pra remarketing).
+**Exemplos:** Lei de Pareto (20%/80%); referência à Astella sobre canal previsível pós-PMF.
+**Anti-padrões:** shotgun/spray-and-pray; investir em aquisição sem PMF; escalar antes de resolver site/CRM/messaging; **abandonar canal que funciona pra testar novidade**; confundir limitação pessoal com limitação do canal.
+**Takeaway:** "ser consciente da pressão por resultado rápido importa mais que ser perfeito" — diversifique depois de dominar o primeiro canal.
+
+## Criar um programa de indicação (referral como canal)
+Canais/referral · [fonte](https://growthinsight.com.br/p/criar-programa-de-indicacao) · Felipe Witt
+
+**Tese:** Indicação é canal de aquisição estruturado, com otimização contínua — não projeto pontual de "set & forget".
+**Frameworks:** *Persona (3 filtros)* — NPS 9-10 + maior LTV + padrão demográfico (cargo/segmento/porte). *Recompensas (4 categorias)* — financeira · produto (upgrade/feature) · experiência (exclusividade) · brinde de marca. *Mecânicas* — *Indique-e-Ganhe* (1:1, simples, controle alto) × *Milestones* (viralidade maior, complexidade alta). *Implementação (3+1)* — 1) achar o público certo · 2) definir recompensa · 3) escolher mecânica · 4) otimizar sempre.
+**Táticas:** 3 perguntas de persona (que recompensa querem? qual o benefício-mãe do produto? quais as dores?); começar em MVP (Google Forms serve) antes de ferramenta cara; priorizar base qualificada (evita fraude); tratar como canal com métrica e cadência.
+**Exemplos:** Dropbox/Airbnb/The News (sucesso) · EmCasa (3× capturas/mês em 4-6 meses via Google Forms, depois solução interna) · iFood Pago (contraexemplo: regra complexa + público errado).
+**Anti-padrões:** recompensa cara/aleatória sem critério (atrai fraudador); "set & forget" (programa escondido); apostar em ferramenta sofisticada pra salvar conceito fraco.
+**Takeaway:** estruture pra um grupo engajado específico, defina recompensa conversando com ele, escolha a mecânica coerente e otimize como qualquer canal.
+
+## Estratégia de PR e imprensa
+Canais/PR · [fonte](https://growthinsight.com.br/p/estrategia-de-pr-e-imprensa) · Felipe Collins *(premium 👑 — corpo principal pago; lacuna)*
+
+**Tese (parte visível):** PR efetivo depende de **credibilidade mútua** entre empresa, agência e redação, construída por relacionamento autêntico — abordagem jornalística verdadeira, não campanha pontual.
+**Método (referenciado):** entrevistas com os três lados (empresas, agências, redações) buscando o "fio condutor" comum; frameworks e erros a evitar ficam atrás do paywall.
+**Takeaway:** aproximação autêntica com profissionais qualificados constrói credibilidade midiática sustentável (mecânica completa é premium — **lacuna**).
+
+## AI Overviews: o tráfego refém da IA do Google
+Canais/SEO-AEO · [fonte](https://growthinsight.com.br/p/ai-overview-seo) · Felipe Witt
+
+**Tese:** O Google migra de "ganhar o clique" pra "ganhar a citação útil" nos AI Overviews — a estratégia de conteúdo passa a mirar visibilidade e captura sem clique.
+**Frameworks:** *K-W-A (bloco de resposta)* — **K**nowledge (resposta em ≤2 linhas) · **W**hy/When (quando aplicar) · **A**ction (CTA/ferramenta). *Diagnóstico de intenção* — informacional / comercial / transacional / navegacional (Overview morde mais o informacional). *Zero-Click UX* — capturar lead no micro-momento, oferecer próximo passo sem sair da SERP, virar visibilidade em dado first-party.
+**Táticas:** trocar conteúdo topo-de-funil por ferramenta-como-conteúdo (calculadora/quiz/template); Schema estruturado (HowTo, SoftwareApplication, Book); blocos FAQ com a pergunta literal do cliente; UTM `?prompt=` pra rastrear tráfego de Overview; revisar ranking por trimestre conforme a intenção muda.
+**Exemplos:** Ahrefs (CTR da #1 caiu 5,6%→3,1%; com Overview 7,3%→2,6%) · MailOnline (−56% CTR quando aparece Overview) · **Expedia** (Trip Budget Calculator + Conversational Shopping Ads −17% CPA, US$11M via ferramentas zero-click, recuperou 19pp de CTR).
+**Anti-padrões:** ignorar keyword informacional; conteúdo sem Schema; manter só métrica antiga (CTR/pageview); responder o prompt em linguagem diferente da pergunta; evergreen sem revisão trimestral.
+**Takeaway:** rentabilidade em 2025 depende menos de ranking e mais de **capturar intenção via citação confiável** e converter visibilidade zero-clique em lead first-party. (Complementa Zero-Click Marketing e o AEO do Loop Marketing.)

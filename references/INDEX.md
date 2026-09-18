@@ -29,3 +29,15 @@
 | [como-competir-contra-incumbentes](https://growthinsight.com.br/p/como-competir-contra-incumbentes) | Competir contra incumbentes | estrategia.md |
 | [estudo-softbank-performance-vs-branding](https://growthinsight.com.br/p/estudo-softbank-performance-vs-branding) | Performance vs Branding (SoftBank) | estrategia.md |
 | [como-criar-...-8-etapas](https://growthinsight.com.br/p/como-criar-um-plano-de-marketing-que-funciona-em-8-etapas) | Plano de marketing em 8 etapas | estrategia.md |
+| [canais-de-marketing](https://growthinsight.com.br/p/canais-de-marketing) | Escolha/validação de canais (5 filtros) | canais-taticas.md |
+| [diversificar-canais-aquisicao](https://growthinsight.com.br/p/diversificar-canais-aquisicao) | Diversificar canais em 5 etapas | canais-taticas.md |
+| [criar-programa-de-indicacao](https://growthinsight.com.br/p/criar-programa-de-indicacao) | Programa de indicação (referral) | canais-taticas.md |
+| [estrategia-de-pr-e-imprensa](https://growthinsight.com.br/p/estrategia-de-pr-e-imprensa) | PR e imprensa (lacuna premium) | canais-taticas.md |
+| [ai-overview-seo](https://growthinsight.com.br/p/ai-overview-seo) | AI Overviews / SEO-AEO zero-click | canais-taticas.md |
+| [good-copy-bad-copy](https://growthinsight.com.br/p/good-copy-bad-copy) | Good/Bad copy (AIDA + capability) | copywriting.md |
+| [como-escrever-bem](https://growthinsight.com.br/p/como-escrever-bem) | Quem escreve bem pensa bem | copywriting.md |
+| [positioning-messaging-copy](https://growthinsight.com.br/p/positioning-messaging-copy) | Posicionamento×mensagem×copy (Dunford) | copywriting.md |
+| [scorecard-icp](https://growthinsight.com.br/p/scorecard-icp) | Scorecard de ICP (JTBD/CEPs) | gtm.md |
+| [financas-para-marketing](https://growthinsight.com.br/p/financas-para-marketing) | Finanças p/ marketing (confiança do CFO) | gestao-carreira.md |
+| [saaspocalypse-agentes-ia](https://growthinsight.com.br/p/saaspocalypse-agentes-ia) | SaaSpocalypse (agentes de IA) | ia-marketing.md |
+| [case-notion (1/2/3)](https://growthinsight.com.br/p/case-notion-parte1) | Case Notion PLG+CLG (lacuna premium) | growth.md |
