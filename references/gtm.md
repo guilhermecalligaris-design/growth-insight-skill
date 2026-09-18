@@ -52,3 +52,12 @@ GTM/ICP · [fonte](https://growthinsight.com.br/p/scorecard-icp) · Felipe Witt
 **Exemplos:** advisory do autor em universidade, clínica derma, ótica, proteção veicular, startups R$10M-500M; CRO na STLFLIX (impressão 3D global).
 **Anti-padrões:** só demografia (idade/gênero/renda); persona psicográfica sem validação econômica; ignorar o "quando" (CEPs); romantizar mercado sem fechar a conta; confundir CAC com custo de mídia; escalar sem teste de sensibilidade.
 **Takeaway:** ICP acionável une **comportamento situacional + preferência validada + retorno econômico** numa única declaração.
+
+## Método MEYVN — estruturar antes de executar (tese de marketing)
+GTM/estruturação · [fonte](https://growthinsight.com.br/p/metodo-meyvn-consultoria) · Felipe Witt
+
+**Tese:** A maioria não tem marketing estruturado — antes de tática, é preciso **fundação + estrutura + acompanhamento na execução**.
+**Framework — 3 blocos:** 1) **Fundamentos** — audiência (ICP) + mensagem (USP) · 2) **Estrutura** — tese de marketing com canais, alavancagem e recurso · 3) **Execução** — acompanhamento pra remover barreira de implementação.
+**Táticas:** mapear audiência (firmografia, champion, use case, alternativa competitiva); análise de concorrente pra achar o diferencial; posicionamento na interseção empresa × concorrente × cliente ideal; ciclo de acompanhamento na execução.
+**Anti-padrões:** "Random Acts of Marketing" (ação solta); contratar agência/freela sem fundação; tática (mídia paga) sem definir audiência/mensagem; consultoria que entrega recomendação e não acompanha.
+**Takeaway:** clareza sobre "com quem falar" e "o que dizer" precede qualquer tática. (Casa com "criar time do zero" e o Scorecard de ICP acima.)

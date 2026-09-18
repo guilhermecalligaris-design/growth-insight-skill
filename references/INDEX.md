@@ -85,3 +85,12 @@
 | [competencias-storytelling-networking](https://growthinsight.com.br/p/competencias-storytelling-e-networking-carreira) | Transição de carreira 3 pilares (lacuna premium) | gestao-carreira.md |
 | [os-melhores-livros-...marketing](https://growthinsight.com.br/p/os-melhores-livros-para-profissionais-de-marketing) | Livros por estágio de carreira | livros-curadoria.md |
 | [melhores-livros-por-especialidade](https://growthinsight.com.br/p/melhores-livros-por-especialidade-de-marketing) | Livros por especialidade | livros-curadoria.md |
+| [checklist-arroz-feijao](https://growthinsight.com.br/p/checklist-arroz-feijao) | Checklist arroz-feijão (11 categorias) | estrategia.md |
+| [3-duvidas-marketing-4000-empresarios](https://growthinsight.com.br/p/3-duvidas-marketing-4000-empresarios) | 3 dúvidas de marketing | estrategia.md |
+| [curadoria-7-temas](https://growthinsight.com.br/p/curadoria-7-temas) | Síntese dos 7 temas do corpus | estrategia.md |
+| [metodo-meyvn-consultoria](https://growthinsight.com.br/p/metodo-meyvn-consultoria) | Método MEYVN (estruturar antes) | gtm.md |
+| [mentira](https://growthinsight.com.br/p/mentira) | Detecção de mentira/manipulação | copywriting.md |
+| [aprendizado](https://growthinsight.com.br/p/aprendizado) | Como o cérebro aprende | gestao-carreira.md |
+| [dizer-não/deep-work/caos/resoluções](https://growthinsight.com.br/p/como-dizer-nao) | Produtividade & foco | gestao-carreira.md |
+| [carreira: próximo passo/transição/proposta](https://growthinsight.com.br/p/proximo-passo-carreira) | Decidir o próximo passo de carreira | gestao-carreira.md |
+| [combinado-founders](https://growthinsight.com.br/p/combinado-founders) | Alinhamento de founders (lacuna premium) | gestao-carreira.md |

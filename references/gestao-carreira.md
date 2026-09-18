@@ -129,3 +129,36 @@ Gestão/carreira · [fonte](https://growthinsight.com.br/p/competencias-storytel
 
 **Tese (parte visível):** Evoluir/trocar de emprego em marketing se estrutura em 3 pilares interligados — **competências** (mapear atuais × desejadas), **storytelling** (contar a própria história de forma estratégica) e **networking** (relacionamento no setor) — num framework visual (Miro).
 **Takeaway:** os três pilares operam juntos, não isolados; exemplos e detalhe são premium (**lacuna**). (Usa o modelo de competências em growth acima.)
+
+## Como o cérebro aprende (aprender a aprender)
+Gestão/aprendizado · [fonte](https://growthinsight.com.br/p/aprendizado) · Felipe Collins
+
+**Tese:** Velocidade de aprendizado é vantagem competitiva — dominar **como** aprender (não só o quê) importa quando o ciclo de inovação encolhe de anos pra meses.
+**Frameworks:** *Neuroplasticidade* · *3 memórias* (episódica/semântica/procedural) · *Curva do esquecimento (Ebbinghaus)* (~50% em 1h, ~70% em 24h) · *Carga cognitiva (Sweller)* (intrínseca/extrínseca/pertinente) · *Modo focado × difuso* · *Prática deliberada (Ericsson)* · *Teste de Feynman* (explicar pra criança de 8 anos) · *Repetição espaçada* (1/3/7/21 dias).
+**Táticas:** limitar a 3 fontes primárias + 5 secundárias (zero terciárias); consumo ativo (anotar, grifar, questionar); 90min foco + 20min recuperação (máx. 3 blocos/dia); testar a memória antes de revisar; métrica clara ("rankear 3 keywords top 10 em 60 dias"); praticar 25min/dia.
+**Anti-padrões:** consumo passivo ("ilusão de aprendizagem"); fonte terciária (thread do Twitter, TikTok, post motivacional); feedback vago/tardio; múltiplas distrações (carga extrínseca).
+**Takeaway:** aprender é prática — habilidade específica → métrica → fonte → 25min/dia → teste de Feynman. (Casa com deep growth acima.)
+
+## Produtividade & foco: dizer não, deep work, semanas caóticas e sistemas > metas
+Gestão/produtividade · [dizer não](https://growthinsight.com.br/p/como-dizer-nao) · [trabalho focado](https://growthinsight.com.br/p/trabalho-focado) · [semanas caóticas](https://growthinsight.com.br/p/semanas-caoticas) · [resoluções](https://growthinsight.com.br/p/abandone-resolucoes-ano-novo) · Felipe Collins & Felipe Witt
+
+**Tese:** Fazer **menos e melhor** — proteger o foco, priorizar com critério e apostar em consistência (sistema), não intensidade (meta).
+**Frameworks:** *A arte do não* — perguntas calibradas (Chris Voss), 5 porquês (Ishikawa), 3 tipos de não (Wes Kao: "não agora / não assim / não mesmo"), trade-off explícito, Hell Yes or No (Sivers). *Trabalho focado (Cal Newport)* — 4 regras (defina o método monástico/bimodal/rítmico/jornalístico; abrace o tédio; saia das redes; drene o superficial). *Semanas caóticas ("Ferrado e Funcional")* — LNO (Shreyas Doshi: Leverage 10-100× / Neutral 1× / Overhead), matriz de Eisenhower, escrever × editar (Rabois), recombinar prazo/escopo (v0.8 > v1.0), gerir energia (sono/exercício). *Resoluções* — consistência > intensidade (3×/semana por 52 semanas > 6×/semana só em janeiro), jogo finito × infinito (Carse), ciclo virtuoso minimalista, definir meta num dia aleatório (não em janeiro eufórico).
+**Táticas:** produtizar pedido repetitivo (template); transparência de roadmap/KPI; deep work em coworking sem carregador; deletar app de rede 30 dias; delegar com contexto; começar minimalista (3 páginas, não 30) e parar antes de cansar.
+**Anti-padrões:** "sim" como padrão; síndrome do objeto brilhante; HiPPO sem dado; multitarefa; centralizar tudo em semana intensa; ignorar privação de sono ("você fica mais burro"); decidir sob euforia.
+**Takeaway:** "dizer não a um pedido ruim é ato de lealdade à companhia"; e o resultado vem da **consistência**, não do surto. (Casa com Reuniões/rotinas/rituais acima.)
+
+## Carreira: próximo passo, tipo de transição e escolher a proposta
+Gestão/carreira · [próximo passo](https://growthinsight.com.br/p/proximo-passo-carreira) · [mudanças de carreira](https://growthinsight.com.br/p/mudancas-de-carreira) · [6 dicas de proposta](https://growthinsight.com.br/p/6-dicas-proposta-emprego) · Felipe Collins & Felipe Witt
+
+**Tese:** Acertar o próximo passo é reduzir incerteza num jogo de **informação assimétrica** (o empregador sabe mais) — comece pelo que você **não** quer/pode.
+**Frameworks:** *Mapa de carreira* — Princípio da inversão (Munger: partir do que não quer) + matriz competência × satisfação + escala de competência (abaixo da média → classe mundial); "o inegociável não é o que você não quer, é o que você não pode". *Tipos de transição* — Discreta (mesmo cargo, outro cenário, 1-3m) · Vertical (mesmo domínio, +senioridade, 3-6m) · Horizontal (troca de área, 6-12m) · Diagonal (sobe e muda de lado, 6-12m). *6 dicas de proposta* — 1) founder-market fit · 2) GTM (SLG/MLG/PLG) · 3) expectativa real da função · 4) fit candidato × modelo de negócio · 5) papel do trabalho na sua vida · 6) proposta financeira (total comp, não só base).
+**Táticas:** listar mercados/modelos/culturas que **não** atraem; estudar quem já ocupa a posição no LinkedIn e as vagas-alvo; pedir feedback honesto; fazer movimento lateral iterativo (não esperar bala de prata); alinhar narrativa à nova realidade.
+**Anti-padrões:** plano rígido de longo prazo; esperar promoção automática; ignorar o "preço" da transição e os códigos culturais novos; oferta de "retorno alto com esforço baixo" (golpe) ou "todo retorno no futuro, nada no presente".
+**Takeaway:** "uma meta sem plano é só um desejo" — transição pede data, Definition of Done, tarefa e responsável. (Usa o modelo de competências e o storytelling/networking acima.)
+
+## Combinado entre founders (alinhamento de sócios)
+Gestão/founders · [fonte](https://growthinsight.com.br/p/combinado-founders) · Felipe Collins *(premium 👑 — corpo pago; lacuna)*
+
+**Tese (parte visível):** Desalinhamento entre sócios mata startup — alinhar expectativa e valor cedo evita o conflito. Usa o **template do Hampton** com 4 eixos: "o que é importante pra mim", "o que penso de um projeto de conteúdo", "o que eu não quero", "como é trabalhar comigo" (≤8 bullets cada).
+**Takeaway:** documentar expectativa mútua antes de operar previne o "cada um puxando pra um lado" (detalhe é premium — **lacuna**).

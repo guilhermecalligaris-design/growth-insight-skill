@@ -62,3 +62,13 @@ Craft/criatividade · [fonte](https://growthinsight.com.br/p/criatividade) · Fe
 **Exemplos:** estudo NASA/George Land (98% das crianças criativas aos 5 anos → 2% aos 25) · Gmail/Maps (os "20% do Google") · Frozen/Pixar (Elsa era vilã até o Braintrust) · Seinfeld (2h/dia).
 **Anti-padrões:** rotina sem espaço reflexivo; medo de julgamento; excesso de estímulo (mata o modo difuso); pressa por resultado imediato; ambiente hierárquico e punitivo.
 **Takeaway:** desbloquear criatividade = **acúmulo intencional de referência + ambiente seguro + prática disciplinada**. (Complementa "quem escreve bem, pensa bem" acima.)
+
+## Detecção de mentira e manipulação (persuasão honesta)
+Persuasão/ética · [fonte](https://growthinsight.com.br/p/mentira) · Felipe Collins (com Juliana Faddul)
+
+**Tese:** Saber detectar mentira, meia-verdade e manipulação protege o consumidor **e** aperfeiçoa o profissional honesto — "a linha entre persuasão e manipulação está no que você diz ou omite conscientemente".
+**Framework — 5 níveis de manipulação:** verdade pela metade · gráfico enganoso · IA que alucina · autoridade "de aluguel" · incentivo oculto. Apoiado por *Survivorship bias*, *WYSIATI* (Kahneman), *deepfake* e o gatilho de autoridade (Cialdini).
+**Táticas:** perguntar "o que não está sendo mostrado?"; checar eixo Y truncado e recorte de período; confirmar link/base original (PubMed, Scholar); busca reversa de imagem; questionar o incentivo financeiro; pausar antes de compartilhar o indignante.
+**Exemplos:** Folha 1987 (Hitler descrito com fatos verdadeiros) · Colgate "80% dos dentistas recomendam" (omite recomendação múltipla) · deepfake da Arup (CFO falso, US$25M) · MIT (fake news espalha 6× mais rápido).
+**Anti-padrões:** aceitar dado que confirma a crença; confiar em gráfico sem checar eixo; número sem denominador/contexto; invocar autoridade sem evidência; ignorar o incentivo de quem recomenda.
+**Takeaway:** o protocolo é bidirecional — use pra não ser enganado e pra comunicar com honestidade falsificável. (Complementa Economia comportamental e ELMR acima.)

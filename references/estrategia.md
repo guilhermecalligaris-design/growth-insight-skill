@@ -76,3 +76,34 @@ Estratégia/planejamento · [fonte](https://growthinsight.com.br/p/planejamento-
 **Exemplos:** Meta sobe imposto do anunciante 12% → CAC +12% → testar canal alternativo · lei amplia teto MEI → base +30% → adaptar produto · evento bem feito → LinkedIn amplificado → mais convite (loop).
 **Anti-padrões:** começar pela tática (podcast/SEO/TikTok) sem diagnóstico; confundir estratégia com meta ambiciosa; cortar 20% do marketing e subir 20% a meta de vendas; publicar o plano e esperar leitura automática; subestimar moat na era IA; o "eu avisei" pós-aprovação (quebra execução).
 **Takeaway:** o que separa planejamento de ato aleatório é a **escolha coerente baseada em premissa validada**, não o volume de iniciativas.
+
+## Arroz com feijão: o checklist (11 categorias, ~72 itens)
+Estratégia/fundamentos · [fonte](https://growthinsight.com.br/p/checklist-arroz-feijao) · Felipe Collins
+
+**Tese:** Marketing eficaz repousa em fundamento sólido, não em tendência — sem o "arroz com feijão", a estratégia sofisticada fracassa ("sobremesa sem sustança").
+**Checklist — 11+ categorias:** Estratégia (6) · Marca (7) · Design (4) · Site (11) · Vendas (7) · Comunicação & Social (11) · Métricas (5) · Eventos (3) · Mídia Paga (7) · Gestão & Rotinas (7) · Produto & CS (4) · Time da Cozinha (6).
+**Táticas:** CRM conectado ao formulário; conteúdo semanal; reunião mensal de resultado; mapa de concorrente/posicionamento; GA + Meta Pixel + GTM; material de venda testado; monitorar SEO.
+**Anti-padrões:** tendência sem base; marketing-vendas desintegrados; processo não documentado; não medir satisfação do cliente; comunicação despadronizada.
+**Takeaway:** domine o fundamento antes de inovar — é o que dá maior ROI. (Companheiro operacional do arroz-feijão 2026 acima.)
+
+## 3 dúvidas de marketing de 4.000 empresários
+Estratégia/fundamentos · [fonte](https://growthinsight.com.br/p/3-duvidas-marketing-4000-empresarios) · Felipe Witt
+
+**Tese:** Empresário insatisfeito com marketing costuma confundi-lo com "mercadologia/perfumaria" — marketing é disciplina estratégica ligada ao negócio.
+**As 3 dúvidas:** 1) *"Definir ICP limita o mercado?"* → ICP é **bússola, não cerca** (mais eficiência de gasto e clareza de comunicação). 2) *"Marca é coisa de empresa grande?"* → marca é percepção e vira **argumento de venda** (McDonald's agrega ~50% de valor). 3) *"Quais os melhores canais?"* → framework de 3 passos: definir o motor de crescimento → escolher a etapa da jornada → filtrar por audiência/regra/custo/tempo.
+**Táticas:** concentrar receita em 2-3 segmentos (não dispersar em 5); criar demanda antes de capturar; aplicar os 4 filtros de canal.
+**Anti-padrões:** vender "pra todo mundo" (dilui); confundir intuição com expertise; perseguir canal popular sem validar contexto.
+**Takeaway:** marketing é negócio técnico — exige especialista, não achismo.
+
+## Síntese: os 7 temas do Growth Insight
+Estratégia/mapa · [fonte](https://growthinsight.com.br/p/curadoria-7-temas) · Felipe Collins
+
+**Mapa dos throughlines do corpus (1 linha por tema):**
+- **Branding & comunicação:** marca é "o que sobra na cabeça do cliente quando você não está na sala".
+- **Growth & PMF:** PMF é quando "comprar é comprar"; abandonar growth-at-all-costs.
+- **Canais & táticas:** "não é o canal, é você"; Power Law (~80% vem de 1 canal).
+- **B2B & negócio:** sustância antes da campanha; poucas âncoras cercadas de elétrons.
+- **Carreira & desenvolvimento:** competência × satisfação; T-shape é armadilha.
+- **Time & liderança:** CMO dura ~18 meses; ~80% dos CEOs não confiam em marketing.
+- **IA & futuro:** o Gen Marketer gera US$2-4M/funcionário (vs ~US$300k do SaaS tradicional).
+**Takeaway:** marketing moderno = rigor financeiro + clareza estratégica + fim do hype; **sustância vence campanha bonita**; IA multiplica expertise, não substitui repertório.

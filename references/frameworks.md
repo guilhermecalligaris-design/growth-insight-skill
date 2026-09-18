@@ -77,3 +77,10 @@
 | RACI + RAPID + Maker/Manager Schedule | Reuniões, rotinas e rituais | [rituais](https://growthinsight.com.br/p/reunioes-rotinas-rituais) | gestao-carreira.md |
 | Modelo Emily Kramer + estrutura Gary Vee | Montar time de marketing | [time](https://growthinsight.com.br/p/time-de-marketing) | gestao-carreira.md |
 | Lógica da inversão + diferenciação×paridade + arquiteto/síndico | Aprender a pensar e aprender | [deep-growth](https://growthinsight.com.br/p/aprendendo-a-pensar-e-aprender-deep-growth) | gestao-carreira.md |
+| Checklist arroz-feijão (11 categorias) | Auditoria de fundamentos de marketing | [checklist](https://growthinsight.com.br/p/checklist-arroz-feijao) | estrategia.md |
+| ICP=bússola + marca=argumento + 3 passos de canal | 3 dúvidas de marketing | [3-duvidas](https://growthinsight.com.br/p/3-duvidas-marketing-4000-empresarios) | estrategia.md |
+| MEYVN 3 blocos (fundamento/estrutura/execução) | Estruturar marketing antes da tática | [meyvn](https://growthinsight.com.br/p/metodo-meyvn-consultoria) | gtm.md |
+| 5 níveis de manipulação + WYSIATI/survivorship | Detectar mentira / persuasão honesta | [mentira](https://growthinsight.com.br/p/mentira) | copywriting.md |
+| Feynman + repetição espaçada + prática deliberada + carga cognitiva | Aprender a aprender | [aprendizado](https://growthinsight.com.br/p/aprendizado) | gestao-carreira.md |
+| Arte do não (Voss/Kao/Sivers) + Deep Work (Newport) + LNO | Produtividade & foco | [dizer-nao](https://growthinsight.com.br/p/como-dizer-nao) | gestao-carreira.md |
+| Inversão + competência×satisfação + 4 tipos de transição + 6 dicas | Decidir o próximo passo de carreira | [carreira](https://growthinsight.com.br/p/proximo-passo-carreira) | gestao-carreira.md |

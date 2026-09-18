@@ -4,17 +4,17 @@
 
 - [ ] https://growthinsight.com.br/p/100-edicoes-growth-insight
 - [ ] https://growthinsight.com.br/p/2024-retrospectiva
-- [ ] https://growthinsight.com.br/p/3-duvidas-marketing-4000-empresarios
+- [x] https://growthinsight.com.br/p/3-duvidas-marketing-4000-empresarios
 - [x] https://growthinsight.com.br/p/5-skills-para-claude
-- [ ] https://growthinsight.com.br/p/6-dicas-proposta-emprego
+- [x] https://growthinsight.com.br/p/6-dicas-proposta-emprego
 - [P] https://growthinsight.com.br/p/7-licoes-5-anos-diretor-marketing-swile
 - [ ] https://growthinsight.com.br/p/8-podcasts-impacto-2025
-- [ ] https://growthinsight.com.br/p/abandone-resolucoes-ano-novo
+- [x] https://growthinsight.com.br/p/abandone-resolucoes-ano-novo
 - [x] https://growthinsight.com.br/p/agile-marketing
 - [x] https://growthinsight.com.br/p/ai-overview-seo
 - [x] https://growthinsight.com.br/p/ancoras-e-eletrons
 - [x] https://growthinsight.com.br/p/aprendendo-a-pensar-e-aprender-deep-growth
-- [ ] https://growthinsight.com.br/p/aprendizado
+- [x] https://growthinsight.com.br/p/aprendizado
 - [x] https://growthinsight.com.br/p/arroz-feijao-mkt-2026
 - [x] https://growthinsight.com.br/p/b2boring-parte1
 - [P] https://growthinsight.com.br/p/b2boring-parte2
@@ -26,16 +26,16 @@
 - [P] https://growthinsight.com.br/p/case-notion-parte1
 - [P] https://growthinsight.com.br/p/case-notion-plg-parte2
 - [x] https://growthinsight.com.br/p/ceo-nao-confia
-- [ ] https://growthinsight.com.br/p/checklist-arroz-feijao
+- [x] https://growthinsight.com.br/p/checklist-arroz-feijao
 - [x] https://growthinsight.com.br/p/claude-code
 - [x] https://growthinsight.com.br/p/cmo-as-a-service
 - [x] https://growthinsight.com.br/p/cmo-interino-teste-real-diminui-o-risco-de-contrata-es-erradas
-- [ ] https://growthinsight.com.br/p/combinado-founders
+- [P] https://growthinsight.com.br/p/combinado-founders
 - [x] https://growthinsight.com.br/p/community-led-growth
 - [x] https://growthinsight.com.br/p/como-competir-contra-incumbentes
 - [x] https://growthinsight.com.br/p/como-contratar-time-marketing
 - [x] https://growthinsight.com.br/p/como-criar-um-plano-de-marketing-que-funciona-em-8-etapas
-- [ ] https://growthinsight.com.br/p/como-dizer-nao
+- [x] https://growthinsight.com.br/p/como-dizer-nao
 - [x] https://growthinsight.com.br/p/como-escrever-bem
 - [ ] https://growthinsight.com.br/p/como-surgiu
 - [P] https://growthinsight.com.br/p/competencias-storytelling-e-networking-carreira
@@ -51,7 +51,7 @@
 - [x] https://growthinsight.com.br/p/criatividade
 - [x] https://growthinsight.com.br/p/crise-reputacional-marketing
 - [x] https://growthinsight.com.br/p/cro-tedio-psych-fomu
-- [ ] https://growthinsight.com.br/p/curadoria-7-temas
+- [x] https://growthinsight.com.br/p/curadoria-7-temas
 - [ ] https://growthinsight.com.br/p/cyberpunk2077
 - [x] https://growthinsight.com.br/p/demand-gen-95-5
 - [x] https://growthinsight.com.br/p/derrubando-gigantes-rd-summit
@@ -86,15 +86,15 @@
 - [x] https://growthinsight.com.br/p/marketing-de-guerrilha-emboscada
 - [x] https://growthinsight.com.br/p/melhore-resultados-gen-ia
 - [x] https://growthinsight.com.br/p/melhores-livros-por-especialidade-de-marketing
-- [ ] https://growthinsight.com.br/p/mentira
+- [x] https://growthinsight.com.br/p/mentira
 - [ ] https://growthinsight.com.br/p/mentoria-premium-high-ic-zero-click
-- [ ] https://growthinsight.com.br/p/metodo-meyvn-consultoria
+- [x] https://growthinsight.com.br/p/metodo-meyvn-consultoria
 - [x] https://growthinsight.com.br/p/mito-growth-hacker
 - [x] https://growthinsight.com.br/p/moats-defensibilidade-2026
 - [x] https://growthinsight.com.br/p/modelo-competencias-growth
 - [x] https://growthinsight.com.br/p/monetizacao-parte1
 - [x] https://growthinsight.com.br/p/monetizacao-parte2
-- [ ] https://growthinsight.com.br/p/mudancas-de-carreira
+- [x] https://growthinsight.com.br/p/mudancas-de-carreira
 - [x] https://growthinsight.com.br/p/network-effects-principalidade-ai
 - [ ] https://growthinsight.com.br/p/newsletter-business
 - [x] https://growthinsight.com.br/p/nichos-novo-oceano-azul
@@ -118,7 +118,7 @@
 - [ ] https://growthinsight.com.br/p/premium-e-ano-novo
 - [x] https://growthinsight.com.br/p/product-market-fit
 - [x] https://growthinsight.com.br/p/product-marketing
-- [ ] https://growthinsight.com.br/p/proximo-passo-carreira
+- [x] https://growthinsight.com.br/p/proximo-passo-carreira
 - [x] https://growthinsight.com.br/p/rebranding
 - [x] https://growthinsight.com.br/p/reputacao-relacionamento-alcance-resultado-marketing-b2b
 - [ ] https://growthinsight.com.br/p/retrospectiva-2025
@@ -127,9 +127,9 @@
 - [x] https://growthinsight.com.br/p/sales-buyer-enablement
 - [x] https://growthinsight.com.br/p/say-name-tcnicas-para-construir-o-nome-de-marca-ideal
 - [x] https://growthinsight.com.br/p/scorecard-icp
-- [ ] https://growthinsight.com.br/p/semanas-caoticas
+- [x] https://growthinsight.com.br/p/semanas-caoticas
 - [x] https://growthinsight.com.br/p/time-de-marketing
-- [ ] https://growthinsight.com.br/p/trabalho-focado
+- [x] https://growthinsight.com.br/p/trabalho-focado
 - [x] https://growthinsight.com.br/p/trilema-marketing-ia
 - [x] https://growthinsight.com.br/p/zero-click-marketing
 - [x] https://growthinsight.com.br/p/zirp-boring-growth
