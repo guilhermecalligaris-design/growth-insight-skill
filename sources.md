@@ -7,7 +7,7 @@
 - [ ] https://growthinsight.com.br/p/3-duvidas-marketing-4000-empresarios
 - [ ] https://growthinsight.com.br/p/5-skills-para-claude
 - [ ] https://growthinsight.com.br/p/6-dicas-proposta-emprego
-- [ ] https://growthinsight.com.br/p/7-licoes-5-anos-diretor-marketing-swile
+- [P] https://growthinsight.com.br/p/7-licoes-5-anos-diretor-marketing-swile
 - [ ] https://growthinsight.com.br/p/8-podcasts-impacto-2025
 - [ ] https://growthinsight.com.br/p/abandone-resolucoes-ano-novo
 - [x] https://growthinsight.com.br/p/agile-marketing
@@ -28,12 +28,12 @@
 - [ ] https://growthinsight.com.br/p/ceo-nao-confia
 - [ ] https://growthinsight.com.br/p/checklist-arroz-feijao
 - [ ] https://growthinsight.com.br/p/claude-code
-- [ ] https://growthinsight.com.br/p/cmo-as-a-service
-- [ ] https://growthinsight.com.br/p/cmo-interino-teste-real-diminui-o-risco-de-contrata-es-erradas
+- [x] https://growthinsight.com.br/p/cmo-as-a-service
+- [x] https://growthinsight.com.br/p/cmo-interino-teste-real-diminui-o-risco-de-contrata-es-erradas
 - [ ] https://growthinsight.com.br/p/combinado-founders
 - [x] https://growthinsight.com.br/p/community-led-growth
 - [x] https://growthinsight.com.br/p/como-competir-contra-incumbentes
-- [ ] https://growthinsight.com.br/p/como-contratar-time-marketing
+- [x] https://growthinsight.com.br/p/como-contratar-time-marketing
 - [x] https://growthinsight.com.br/p/como-criar-um-plano-de-marketing-que-funciona-em-8-etapas
 - [ ] https://growthinsight.com.br/p/como-dizer-nao
 - [x] https://growthinsight.com.br/p/como-escrever-bem
@@ -41,9 +41,9 @@
 - [ ] https://growthinsight.com.br/p/competencias-storytelling-e-networking-carreira
 - [x] https://growthinsight.com.br/p/comunidades-tatica
 - [ ] https://growthinsight.com.br/p/conectar-os-pontos
-- [ ] https://growthinsight.com.br/p/confianca
-- [ ] https://growthinsight.com.br/p/confianca-13-comportamentos-1
-- [ ] https://growthinsight.com.br/p/confianca-parte-3
+- [x] https://growthinsight.com.br/p/confianca
+- [x] https://growthinsight.com.br/p/confianca-13-comportamentos-1
+- [x] https://growthinsight.com.br/p/confianca-parte-3
 - [x] https://growthinsight.com.br/p/contextual-outbound
 - [ ] https://growthinsight.com.br/p/criacao-da-marca
 - [x] https://growthinsight.com.br/p/criar-programa-de-indicacao
@@ -71,12 +71,12 @@
 - [x] https://growthinsight.com.br/p/good-copy-bad-copy
 - [x] https://growthinsight.com.br/p/gotomarket-slg-mlg-plg
 - [ ] https://growthinsight.com.br/p/growth-insight-advisory
-- [ ] https://growthinsight.com.br/p/guia-entrevista-marketing
+- [x] https://growthinsight.com.br/p/guia-entrevista-marketing
 - [x] https://growthinsight.com.br/p/guia-product-market-fit
-- [ ] https://growthinsight.com.br/p/hubspot-conteudo-ia
-- [ ] https://growthinsight.com.br/p/hubspot-fundacao
-- [ ] https://growthinsight.com.br/p/hubspot-parcerias-educacao
-- [ ] https://growthinsight.com.br/p/hubspot-plg-global
+- [x] https://growthinsight.com.br/p/hubspot-conteudo-ia
+- [P] https://growthinsight.com.br/p/hubspot-fundacao
+- [P] https://growthinsight.com.br/p/hubspot-parcerias-educacao
+- [P] https://growthinsight.com.br/p/hubspot-plg-global
 - [ ] https://growthinsight.com.br/p/ia-onboarding-cro
 - [ ] https://growthinsight.com.br/p/ia-vibe-marketing
 - [x] https://growthinsight.com.br/p/loop-marketing-hubspot
@@ -91,7 +91,7 @@
 - [ ] https://growthinsight.com.br/p/metodo-meyvn-consultoria
 - [ ] https://growthinsight.com.br/p/mito-growth-hacker
 - [x] https://growthinsight.com.br/p/moats-defensibilidade-2026
-- [ ] https://growthinsight.com.br/p/modelo-competencias-growth
+- [x] https://growthinsight.com.br/p/modelo-competencias-growth
 - [x] https://growthinsight.com.br/p/monetizacao-parte1
 - [x] https://growthinsight.com.br/p/monetizacao-parte2
 - [ ] https://growthinsight.com.br/p/mudancas-de-carreira
@@ -105,7 +105,7 @@
 - [x] https://growthinsight.com.br/p/patrocinio-paixao
 - [ ] https://growthinsight.com.br/p/pedi-demissao-esmagado
 - [x] https://growthinsight.com.br/p/planejamento-estrategico
-- [ ] https://growthinsight.com.br/p/plano-306090-como-se-dar-bem-no-incio-como-cmo
+- [x] https://growthinsight.com.br/p/plano-306090-como-se-dar-bem-no-incio-como-cmo
 - [x] https://growthinsight.com.br/p/playbook-events-marketing-parte1
 - [ ] https://growthinsight.com.br/p/playbook-events-marketing-parte2
 - [ ] https://growthinsight.com.br/p/playbook-events-marketing-parte3

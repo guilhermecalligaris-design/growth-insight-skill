@@ -52,3 +52,9 @@
 | Principalidade + 16 network effects (NfX) + winner-takes-most | Vantagem de rede na era IA | [network-effects](https://growthinsight.com.br/p/network-effects-principalidade-ai) | estrategia.md |
 | Rumelt (3 pilares) + 70-20-10 + PESTLE + Brilliant Basics | Planejamento estratégico coerente | [planejamento](https://growthinsight.com.br/p/planejamento-estrategico) | estrategia.md |
 | 3 pilares de monetização + Max-Diff + Van Westendorp | Monetização como alavanca de growth | [monetizacao](https://growthinsight.com.br/p/monetizacao-parte2) | growth.md |
+| HubSpot: juros compostos de canal + precificação evolutiva | Case de canais empilhados | [hubspot](https://growthinsight.com.br/p/hubspot-conteudo-ia) | growth.md |
+| Speed of Trust: 4 núcleos + 5 ondas + 13 comportamentos | Confiança como multiplicador de resultado | [confianca](https://growthinsight.com.br/p/confianca) | b2b.md |
+| Advisor×Fracional×Interino + 3 premissas + escada de valor | CMO sob demanda / try-before-buy | [cmo](https://growthinsight.com.br/p/cmo-as-a-service) | gestao-carreira.md |
+| Foto Zero + V2MOM + Microscópio×Luneta (30-60-90) | Onboarding de líder de marketing | [30-60-90](https://growthinsight.com.br/p/plano-306090-como-se-dar-bem-no-incio-como-cmo) | gestao-carreira.md |
+| Matriz 3×2 GTM×fase + funil 5 etapas + 4 competências | Contratar e entrevistar em marketing | [contratar](https://growthinsight.com.br/p/como-contratar-time-marketing) | gestao-carreira.md |
+| 4 quadrantes de competência em growth | Desenvolver time (vs T-shape) | [competencias](https://growthinsight.com.br/p/modelo-competencias-growth) | gestao-carreira.md |

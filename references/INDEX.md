@@ -53,3 +53,10 @@
 | [network-effects-principalidade-ai](https://growthinsight.com.br/p/network-effects-principalidade-ai) | Network effects & principalidade (IA) | estrategia.md |
 | [planejamento-estrategico](https://growthinsight.com.br/p/planejamento-estrategico) | Planejamento estratégico (Rumelt/70-20-10) | estrategia.md |
 | [monetizacao-parte1/2](https://growthinsight.com.br/p/monetizacao-parte1) | Monetização (3 pilares: como/o que/quanto) | growth.md |
+| [hubspot (4 partes)](https://growthinsight.com.br/p/hubspot-conteudo-ia) | Case HubSpot: canal composto (3 pt premium) | growth.md |
+| [confianca (trilogia)](https://growthinsight.com.br/p/confianca) | Confiança / Speed of Trust no marketing | b2b.md |
+| [cmo-as-a-service / cmo-interino](https://growthinsight.com.br/p/cmo-as-a-service) | CMO fracional e interino | gestao-carreira.md |
+| [plano-306090](https://growthinsight.com.br/p/plano-306090-como-se-dar-bem-no-incio-como-cmo) | Plano 30-60-90 do novo CMO | gestao-carreira.md |
+| [como-contratar / guia-entrevista](https://growthinsight.com.br/p/guia-entrevista-marketing) | Contratar + entrevista estruturada | gestao-carreira.md |
+| [modelo-competencias-growth](https://growthinsight.com.br/p/modelo-competencias-growth) | Modelo de competências em growth | gestao-carreira.md |
+| [7-licoes-swile](https://growthinsight.com.br/p/7-licoes-5-anos-diretor-marketing-swile) | 7 lições Swile (lacuna premium) | gestao-carreira.md |
