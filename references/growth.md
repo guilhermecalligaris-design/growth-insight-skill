@@ -39,3 +39,13 @@ Growth/case · fontes: [parte 1](https://growthinsight.com.br/p/case-notion-part
 **Linha do tempo (visível):** 2016 = 1.000 usuários → 2020 = 1.000.000 (1000×) → 2024 = 100.000.000 (100×). Fundador/CEO: Ivan Zhao.
 **Estratégias nomeadas (rótulos visíveis, mecânica premium):** *PLG* (produto como motor, foco na qualidade das iniciativas) · *CLG* (comunidade vibrante que alimenta o roadmap; ~85% do tráfego inicial vinha de templates da comunidade — ver Community-Led Growth acima) · integração híbrida PLG/CLG/SLG.
 **Takeaway:** produto bem construído + comunidade proposital + tempo = composição exponencial; **a mecânica passo-a-passo dos 3 artigos é premium (lacuna)**.
+
+## Monetização como alavanca de crescimento (3 pilares)
+Growth/pricing · [parte 1](https://growthinsight.com.br/p/monetizacao-parte1) · [parte 2](https://growthinsight.com.br/p/monetizacao-parte2) · Felipe Witt
+
+**Tese:** Monetização é alavanca de crescimento como aquisição e retenção — e a mais ignorada (efeito espalhado pelas "entranhas" da empresa); **preço ≠ monetização**.
+**Framework — 3 pilares:** 1) **COMO cobrar** — formato (transação / assinatura / anúncio) + momento (imediato / antecipado / trial / freemium) · 2) **O QUE cobrar** — segmentação de plano (por feature ou por caso de uso) + métrica de valor (consumo / funcionalidade / resultado) · 3) **QUANTO cobrar** — faixa aceitável pela sensibilidade do cliente. **Equação:** Valor percebido > Fricção + Preço (só funciona com os 3 pilares integrados).
+**Táticas:** *Max-Diff* pra achar a métrica de valor (avaliar atributos marcando só melhor/pior → taxa de adesão + cobertura); *Van Westendorp* pra faixa de preço (muito barato / barganha / caro / caro demais → ponto ótimo entre os limites); lembrar por que é ignorada = modelo herdado, difícil de mexer, consequência invisível.
+**Exemplos:** Netflix (fim do compartilhamento de senha + anúncio → +39,3M assinantes em 2024, só atrás de 2020) · Salesforce (licença → assinatura) · Adobe Creative Cloud (transição de modelo) · Slack (freemium viral, cobra por usuário) · Mailchimp (cobra por nº de contatos = resultado) · HubSpot (híbrido usuário + feature).
+**Anti-padrões:** confundir monetização com preço; definir preço arbitrário ou só olhando concorrente; depender só do preço; ignorar a sensibilidade psicológica; cobrar antes de o cliente sentir o valor (quebra adoção); momento de cobrança desconectado do caixa e do valor.
+**Takeaway:** trabalhe os 3 pilares juntos (como + o que + quanto); mexer só no preço é a parte pequena do jogo.

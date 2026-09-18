@@ -70,3 +70,40 @@ Canais/SEO-AEO · [fonte](https://growthinsight.com.br/p/ai-overview-seo) · Fel
 **Exemplos:** Ahrefs (CTR da #1 caiu 5,6%→3,1%; com Overview 7,3%→2,6%) · MailOnline (−56% CTR quando aparece Overview) · **Expedia** (Trip Budget Calculator + Conversational Shopping Ads −17% CPA, US$11M via ferramentas zero-click, recuperou 19pp de CTR).
 **Anti-padrões:** ignorar keyword informacional; conteúdo sem Schema; manter só métrica antiga (CTR/pageview); responder o prompt em linguagem diferente da pergunta; evergreen sem revisão trimestral.
 **Takeaway:** rentabilidade em 2025 depende menos de ranking e mais de **capturar intenção via citação confiável** e converter visibilidade zero-clique em lead first-party. (Complementa Zero-Click Marketing e o AEO do Loop Marketing.)
+
+## Playbook de Event Marketing — evento como canal de demanda
+Canais/eventos · [fonte](https://growthinsight.com.br/p/playbook-events-marketing-parte1) · Felipe Witt
+
+**Tese:** Evento é canal de **growth** (não só branding) e gera demanda imediata quando estruturado sob captura de demanda, com mensuração rígida de ROI.
+**Frameworks:** *3 tipos de evento* — *Feira* (indústria específica, maior densidade de ICP por m²) · *Congresso* (educacional; palestrante interno/SME vale mais que estande) · *Relacionamento* (network/ABM, "líder de trincheira", ROI de longo prazo). *2 objetivos* — *Awareness* (alcance, % ativado, % ICP, share of voice) × *Vendas* (oportunidade, % MQL, conversão de funil, pipeline R$, pipeline velocity).
+**Táticas:** colocar evento sob demand-gen, não branding; escanear crachá/check-in pra medir alcance frio; ativação interativa (ex.: "tarô corporativo" no CONARH) em vez de estande passivo; garantir palestrante interno em congresso; monitorar share of voice até de concorrente ausente; usar pipeline gerado (R$) como leading indicator e comparar pipeline velocity entre canais.
+**Exemplos:** Swile (64 eventos/ano com só 2 especialistas; feira como principal gerador; estande de 3-5 mil visitantes) · CONARH 2024 (mesa de tarô no lugar do estande) · RD Summit / congresso de RH 50k+.
+**Anti-padrões:** tratar evento como só branding; pôr sob liderança de branding; não medir/atribuir; estande passivo em congresso; ICP mal definido; ignorar pipeline velocity.
+**Takeaway:** evento é dark funnel de demanda — exige mentalidade de vendas, arquitetura de dados e operação enxuta pra pagar o investimento alto.
+
+## Comunidades — a tática (operação > ferramenta)
+Canais/comunidade · [fonte](https://growthinsight.com.br/p/comunidades-tatica) · Felipe Collins (com Eduardo Belotti, Scarf) *(vira premium após a semana de publicação)*
+
+**Tese:** Comunidade prospera quando junta propósito claro, operação estruturada e métrica definida — a ferramenta importa menos que a operação.
+**Frameworks:** *CARPA* (Conexão · Autonomia · Reconhecimento · Propósito · Aprendizado) · *7 P's* (Pessoas, Propósito, Praça, Participação, Política, Promoção, Performance) · *SNAP* (Status · Networking · Access · Perks — as 4 motivações pra entrar) · *Gatilho-Rotina-Recompensa* (hábito) · *Ciclo de identidade social* (Identificação → Participação → Validação).
+**Táticas:** convidar os primeiros membros pessoalmente; criar fricção na entrada (aumenta valor percebido); ritual semanal recorrente; sistema de status/ranking; onboarding que responde "o que saber, sentir e fazer"; ações por período (diário/semanal/mensal/anual); medir Atividade + Valor + Pertencimento.
+**Exemplos:** Growth Leaders Academy (ciclo "Ouro Branco") · Exit Five (10× valor percebido após migrar pra plataforma fechada).
+**Anti-padrões:** comunidade passiva (morre); **falta de recurso é a causa #1 de fracasso** (não o engajamento); ferramenta sofisticada sem operação; deixar o membro "adivinhar" no onboarding.
+**Takeaway:** operação consistente e reconhecimento do membro importam mais que a ferramenta. (Complementa Community-Led Growth em growth.md.)
+
+## Patrocínio, paixão e marketing esportivo
+Canais/patrocínio · [fonte](https://growthinsight.com.br/p/patrocinio-paixao) · Felipe Collins (com Ivan Martinho e Shayene Metri)
+
+**Tese:** Patrocínio funciona quando conecta a identidade da marca à paixão do público — é estratégia de comunidade, não só mídia.
+**Frameworks:** *Decisão (3 pilares — Ivan Martinho)* — clareza de objetivo (awareness/consideração/conversão) + fit cultural (ativo × marca × audiência) + ativação consistente (é a essência, não complemento). *Avaliação pré-patrocínio* — tem fundamento de negócio? métrica de sucesso? tese de público? alinha com valores/storytelling? *Proporção (conta de padeiro)* — 1 parte em cota/naming : **2 partes em ativação** (mínimo).
+**Táticas:** começar pequeno e específico (nicho de paixão concentrada); escolher ativo onde o ICP concentra "atenção emocional fora do trabalho"; ativar como criador de conteúdo (história, não só logo); medir consideração por segmento (corredor × não-corredor); parceria long-term.
+**Exemplos (sucesso):** Allianz+Palmeiras (equity 10 anos, vendeu ativo 3,4×) · Nubank+Palmeiras/Inter Miami · Pepsi+Corinthians (+20% vendas SP) · TCS+maratona (consideração 67% em maratonista vs 27% em não) · BB+vôlei (retorno 5,2×, 30+ anos). **(fracasso):** FTX+Larry David · Adidas+Yeezy (−US$63M) · Lance Armstrong (−US$75M) · Bud Light+Mulvaney (−29,9% vendas, perdeu liderança de 22 anos).
+**Anti-padrões:** começar pelo ativo/preço antes do objetivo; tratar ativo de nicho como mídia de massa; ignorar fit cultural; 100% em cota / 0% em ativação; quebrar o contrato tácito de identidade sem transição.
+**Takeaway:** patrocínio bem feito revela quem a marca é; mal feito expõe incoerência e destrói reputação.
+
+## Marketing de conteúdo — a transformação (parte 1)
+Canais/conteúdo · [fonte](https://growthinsight.com.br/p/marketing-de-conteudo-1) · Felipe Collins *(premium 👑 — corpo pago; lacuna)*
+
+**Tese (parte visível):** O marketing de conteúdo passa por transformação radical (tecnologia, algoritmo, comportamento) e virou commodity — as barreiras de entrada caíram, exigindo reposicionamento estratégico.
+**Contexto (visível):** fatores de mudança = internet móvel, social, busca, fim dos cookies; players históricos Rock Content (1ª onda) e RD Station (maior inbound BR).
+**Takeaway:** entender a trajetória histórica é pré-requisito pra navegar a saturação atual (o desenvolvimento estratégico é premium — **lacuna**).

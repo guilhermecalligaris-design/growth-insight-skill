@@ -41,3 +41,15 @@
 | [financas-para-marketing](https://growthinsight.com.br/p/financas-para-marketing) | Finanças p/ marketing (confiança do CFO) | gestao-carreira.md |
 | [saaspocalypse-agentes-ia](https://growthinsight.com.br/p/saaspocalypse-agentes-ia) | SaaSpocalypse (agentes de IA) | ia-marketing.md |
 | [case-notion (1/2/3)](https://growthinsight.com.br/p/case-notion-parte1) | Case Notion PLG+CLG (lacuna premium) | growth.md |
+| [b2boring-parte1/2](https://growthinsight.com.br/p/b2boring-parte1) | B2Boring (3 armadilhas + Mad Math); pt2 lacuna | b2b.md |
+| [playbook-outbound-2025](https://growthinsight.com.br/p/playbook-outbound-2025) | Playbook de outbound 2025 | b2b.md |
+| [sales-buyer-enablement](https://growthinsight.com.br/p/sales-buyer-enablement) | Sales + Buyer Enablement (Jolt Effect) | b2b.md |
+| [reputacao-...-marketing-b2b](https://growthinsight.com.br/p/reputacao-relacionamento-alcance-resultado-marketing-b2b) | Os 4 R's do marketing B2B | b2b.md |
+| [playbook-events-marketing-parte1](https://growthinsight.com.br/p/playbook-events-marketing-parte1) | Event marketing (3 tipos + 2 objetivos) | canais-taticas.md |
+| [comunidades-tatica](https://growthinsight.com.br/p/comunidades-tatica) | Comunidades tática (CARPA/7P/SNAP) | canais-taticas.md |
+| [patrocinio-paixao](https://growthinsight.com.br/p/patrocinio-paixao) | Patrocínio & marketing esportivo | canais-taticas.md |
+| [marketing-de-conteudo-1](https://growthinsight.com.br/p/marketing-de-conteudo-1) | Marketing de conteúdo pt1 (lacuna premium) | canais-taticas.md |
+| [nichos-novo-oceano-azul](https://growthinsight.com.br/p/nichos-novo-oceano-azul) | Nichos = novo oceano azul (GEL) | estrategia.md |
+| [network-effects-principalidade-ai](https://growthinsight.com.br/p/network-effects-principalidade-ai) | Network effects & principalidade (IA) | estrategia.md |
+| [planejamento-estrategico](https://growthinsight.com.br/p/planejamento-estrategico) | Planejamento estratégico (Rumelt/70-20-10) | estrategia.md |
+| [monetizacao-parte1/2](https://growthinsight.com.br/p/monetizacao-parte1) | Monetização (3 pilares: como/o que/quanto) | growth.md |

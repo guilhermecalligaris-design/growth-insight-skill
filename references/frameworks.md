@@ -41,3 +41,14 @@
 | Scorecard ICP (JTBD + conjoint + CEPs/3C + unit econ.) | Definir ICP por valor, não demografia | [scorecard-icp](https://growthinsight.com.br/p/scorecard-icp) | gtm.md |
 | DRE + Unit economics + Runway | Finanças para marketers (CFO) | [financas](https://growthinsight.com.br/p/financas-para-marketing) | gestao-carreira.md |
 | Transição de valor + 3 pilares (unidade/distribuição/API) | Sobreviver à era dos agentes de IA | [saaspocalypse](https://growthinsight.com.br/p/saaspocalypse-agentes-ia) | ia-marketing.md |
+| 3 armadilhas do B2Boring + Mad Math | Marca B2B que foge do genérico | [b2boring](https://growthinsight.com.br/p/b2boring-parte1) | b2b.md |
+| ICP 3 perguntas + papéis de compra (campeão/influ/decisor) | Outbound 2025 que respeita a jornada | [outbound-2025](https://growthinsight.com.br/p/playbook-outbound-2025) | b2b.md |
+| Sales × Buyer Enablement + Jolt Effect (33% indecisão) | Reduzir paralisia decisória do comprador | [enablement](https://growthinsight.com.br/p/sales-buyer-enablement) | b2b.md |
+| Os 4 R's (Reputação/Relacionamento/Raio/Resultado) | Motor de marketing B2B | [4rs](https://growthinsight.com.br/p/reputacao-relacionamento-alcance-resultado-marketing-b2b) | b2b.md |
+| Event Marketing: 3 tipos + 2 objetivos + pipeline velocity | Evento como canal de demanda | [event-mkt](https://growthinsight.com.br/p/playbook-events-marketing-parte1) | canais-taticas.md |
+| CARPA + 7 P's + SNAP + Gatilho-Rotina-Recompensa | Operar comunidade (tática) | [comunidades](https://growthinsight.com.br/p/comunidades-tatica) | canais-taticas.md |
+| Patrocínio: decisão 3 pilares + proporção 1:2 cota:ativação | Patrocínio/marketing esportivo | [patrocinio](https://growthinsight.com.br/p/patrocinio-paixao) | canais-taticas.md |
+| GEL + TAM-SAM-SOM upgrade + Bowling Pin | Achar e dominar nicho (oceano azul) | [nichos](https://growthinsight.com.br/p/nichos-novo-oceano-azul) | estrategia.md |
+| Principalidade + 16 network effects (NfX) + winner-takes-most | Vantagem de rede na era IA | [network-effects](https://growthinsight.com.br/p/network-effects-principalidade-ai) | estrategia.md |
+| Rumelt (3 pilares) + 70-20-10 + PESTLE + Brilliant Basics | Planejamento estratégico coerente | [planejamento](https://growthinsight.com.br/p/planejamento-estrategico) | estrategia.md |
+| 3 pilares de monetização + Max-Diff + Van Westendorp | Monetização como alavanca de growth | [monetizacao](https://growthinsight.com.br/p/monetizacao-parte2) | growth.md |

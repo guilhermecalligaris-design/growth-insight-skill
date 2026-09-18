@@ -46,3 +46,33 @@ Estratégia/planejamento · [fonte](https://growthinsight.com.br/p/como-criar-um
 **Táticas (parte visível):** fazer o exercício de planejamento deliberadamente (não adiar); priorizar resultado funcional sobre processo perfeito; construir iterativo com feedback do time, não isolado.
 **Anti-padrões:** paralisia por perfeccionismo; framework complexo demais quando bastava direção; tratar planejamento como evento único em vez de trabalho iterativo.
 **Takeaway:** sob pressão de prazo, **direção importa mais que perfeição** (as 8 etapas detalhadas são premium).
+
+## Nenhum nicho é pequeno demais — especialização como oceano azul
+Estratégia/nicho · [fonte](https://growthinsight.com.br/p/nichos-novo-oceano-azul) · Felipe Witt
+
+**Tese:** Especializar-se num nicho específico constrói vantagem competitiva superior a tentar dominar mercado amplo e genérico.
+**Frameworks:** *GEL (achar o nicho)* — Growing (mercado em crescimento) + Experience (onde você tem experiência) + Love (paixão pelo segmento). *TAM-SAM-SOM upgrade* — recortar por indústria (vertical) → departamento → caso de uso. *Bowling Pin (Geoffrey Moore)* — dominar um pino pequeno por completo e expandir em cadeia. *Iterar* — nichar um pouco → testar → nichar mais.
+**Táticas:** UVP específica do nicho; conteúdo niche-centric (não genérico); presença nas comunidades do segmento; SEO de cauda longa; parceria complementar; validar com feedback direto.
+**Exemplos:** Porch Pumpkins (decoração de abóbora no Halloween → US$600k em 2 meses) · Amazon (começou em livros) · Tesla (esportivo premium) · Airbnb (viajante de orçamento).
+**Anti-padrões:** *armadilha do generalismo* ("tudo pra todos = nada pra ninguém"); *armadilha do TAM* (VC pressiona por mercado gigante → perde foco); mensagem ampla que desperdiça recurso; falta de posicionamento confunde público e time.
+**Takeaway:** nicho gera lealdade, autoridade e margem maiores que competir no genérico. (Ver Bowling Pin em gtm.md e "competir contra incumbentes" acima.)
+
+## Network effects & principalidade — a corrida da IA
+Estratégia/moats · [fonte](https://growthinsight.com.br/p/network-effects-principalidade-ai) · Felipe Collins
+
+**Tese:** Em mercado em transformação com hábito não consolidado, quem vence agora a corrida por **principalidade** ativa efeitos de rede exponenciais e captura 70-90% do share futuro — a janela é crítica.
+**Frameworks:** *Principalidade* — ser o ponto primário de contato (1º app aberto, default); define coleta de dado, experiência e barreira. *Network effects (catálogo NfX, 16 tipos)* — *Diretos* (mais usuário = melhor pra todos: WhatsApp, Figma) · *Dois lados* (grupos criam valor mútuo: iFood, Uber) · *Dados* (mais dado → produto melhor → mais usuário: Waze, Google, LLMs). *Winner-takes-all/most* — líder fica com 60-90% e margem 2-3× maior.
+**Táticas:** *sem canal consolidado* (OpenAI/Claude/Perplexity) — navegador próprio, queimar caixa em marketing de massa, atacar caso de uso específico (Claude→dev, Perplexity→pesquisa). *com canal* (Google/Meta/Apple) — embutir IA no que já existe (Gemini no Gmail, Meta AI no WhatsApp), usar inércia e ecossistema, defender via switching cost.
+**Exemplos:** Google paga ~US$20bi/ano à Apple pra ser default no Safari · Teams 320M vs Slack 39M (distribuição > produto) · iFood ~70% share · MySpace/Orkut perderam principalidade quando o Facebook mudou o paradigma · Netflix fragmentou streaming por moat fraco (conteúdo não-exclusivo, switching cost baixo).
+**Anti-padrões:** subestimar mudança de paradigma (Yahoo→Google); moat fraco de rede (Netflix); achar que principalidade garante vitória eterna sem inovação defensiva.
+**Takeaway:** posicionar-se cedo, com hábito em formação e mercado a capturar, consolida vantagem duradoura. (Complementa Moats/Defensive Score acima.)
+
+## Planejamento estratégico que funciona
+Estratégia/planejamento · [fonte](https://growthinsight.com.br/p/planejamento-estrategico) · Felipe Collins & Felipe Witt
+
+**Tese:** Estratégia é escolha deliberada do que fazer e do que **não** fazer — deriva de diagnóstico, não de uma lista de táticas.
+**Frameworks:** *Rumelt (3 pilares)* — diagnóstico claro do problema central + políticas direcionadoras + ações coerentes. *Sequência de 5 etapas* — 1) visão dos founders · 2) análise externa (PESTLE) · 3) análise interna (moats, brilliant basics) · 4) GTM + unit economics · 5) bottom-up × top-down. *Alocação 70-20-10* — 70% core validado / 20% adjacente / 10% moonshot.
+**Táticas:** mapear premissa externa via PESTLE; identificar moat econômico (marca, switching cost, network effect); definir Brilliant Basics (3 competências intransferíveis); checar coesão entre meta de vendas e budget de marketing; criar loop sinérgico entre canais (evento + LinkedIn); comunicar o plano repetidamente (não só subir no Drive); revisar premissa por trimestre.
+**Exemplos:** Meta sobe imposto do anunciante 12% → CAC +12% → testar canal alternativo · lei amplia teto MEI → base +30% → adaptar produto · evento bem feito → LinkedIn amplificado → mais convite (loop).
+**Anti-padrões:** começar pela tática (podcast/SEO/TikTok) sem diagnóstico; confundir estratégia com meta ambiciosa; cortar 20% do marketing e subir 20% a meta de vendas; publicar o plano e esperar leitura automática; subestimar moat na era IA; o "eu avisei" pós-aprovação (quebra execução).
+**Takeaway:** o que separa planejamento de ato aleatório é a **escolha coerente baseada em premissa validada**, não o volume de iniciativas.

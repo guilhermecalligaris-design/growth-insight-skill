@@ -21,3 +21,43 @@ B2B/outbound · [fonte](https://growthinsight.com.br/p/contextual-outbound) · F
 **Táticas:** rejeitar template genérico e falsa personalização ("Oi <first name>"); pesquisar sinais específicos do prospect antes de abordar; segmentar por vertical/caso de uso, não só firmográfico; reforçar com conteúdo; coordenar outbound com os outros canais.
 **Anti-padrões:** subject genérico com placeholder; case irrelevante ("empresas nada relacionadas ao seu setor"); dor supervendida ("precisa vender mais"); volume sobre qualidade (150+ contatos idênticos); playbook de 2011 aplicado sem critério.
 **Takeaway:** "o outbound morreu" é preguiça — invista esforço em abordagem contextualizada que converte 2%+ **sem** alienar os outros 98%.
+
+## B2Boring — por que marcas B2B são todas iguais (+ B2Bold: cases)
+B2B/branding · [parte 1](https://growthinsight.com.br/p/b2boring-parte1) · [parte 2 (cases) 👑](https://growthinsight.com.br/p/b2boring-parte2) · Felipe Witt *(parte 2 é premium; lacuna)*
+
+**Tese:** Marca B2B fica genérica não por falta de criatividade, mas por 3 armadilhas organizacionais que matam a ousadia.
+**Framework — 3 armadilhas do B2Boring:** 1) falsa inferência de que a compra B2B é 100% racional · 2) superficialidade no discurso de marca · 3) trocar o "Mad Man" (criatividade) pelo "Math Man" (só dado/ROI). *Mad Math* = equilíbrio entre criatividade e otimização (nem 100% de um). *Dunning-Kruger em marketing* — executivo sem repertório de branding veta a ideia ousada.
+**Táticas:** assumir a narrativa em crise via marketing emocional (não institucional); ativar thought leaders e funcionários pra amplificar de forma pessoal; construir marca ao longo de anos pra a ação soar genuína; priorizar disponibilidade mental sobre "racionalidade pura".
+**Exemplos:** Swile "Exposed" (virou processo judicial em campanha de +5M impressões, posição underdog) · Liquid Death (água comum, +100%/ano, US$1,4B pela marca) · IBM ("ninguém é demitido por comprar IBM" — compra como CYA) · Kantar 2024 (anúncio emocional no quartil superior de performance B2B).
+**Anti-padrões:** combo visual padrão (azul + terno + power pose); esconder crise por medo; vetar criatividade por falta de expertise; maximizar só ROI imediato; achar que B2B não pode ter personalidade.
+**Takeaway:** marca B2B ganha ao casar **coragem criativa + rigor analítico** (Mad Math); os 3 cases detalhados da parte 2 são premium (lacuna).
+
+## Playbook de Outbound 2025 (o outbound que respeita a jornada)
+B2B/outbound · [fonte](https://growthinsight.com.br/p/playbook-outbound-2025) · Felipe Witt
+
+**Tese:** O outbound tradicional se desgastou; só funciona com transparência, clareza e respeito à jornada do prospect.
+**Frameworks:** *ICP em 3 perguntas* — quem são meus melhores clientes (ROI/LTV/churn)? o que têm em comum (segmento/porte/maturidade)? como é a mesa decisora? *Papéis na compra* — Campeão (alvo direto) · Influenciador (acelera/freia) · Decisor (assina, ignora o operacional). *4 R's do B2B* — Reputação, Relacionamento, Raio de alcance, Resultado.
+**Táticas:** ser transparente sobre a intenção comercial desde a conexão; cortar jargão e superlativo ("revolucionar/transformar"); CTA de baixa fricção (não pedir call de 30min de cara); anexar material curto/didático; encerrar com cordialidade e permissão pra voltar em ~6 meses; oferecer "saída honrosa" (indicar um colega) no follow-up.
+**Exemplos:** roteiro de conexão + mensagem principal com 1-3 takeaways numerados + CTA claro de timing; encerramento com cases/depoimentos e contato aberto.
+**Anti-padrões:** fingir interesse no perfil; produto descrito em termos vagos; bait-and-switch no CTA; mensagem passivo-agressiva; SDR júnior forjando thought leadership; spray-and-pray (50+ ligações/dia por força bruta).
+**Takeaway:** automação com humanidade — transparência + clareza + respeito à jornada convertem mais que falsidade sofisticada. (Ver Contextual Outbound e os 4 R's neste arquivo.)
+
+## Enablement — a alavanca de crescimento desprezada (sales + buyer)
+B2B/enablement · [fonte](https://growthinsight.com.br/p/sales-buyer-enablement) · Felipe Witt
+
+**Tese:** Enablement (capacitar vendedor E comprador) é alavanca esquecida que recupera até ~30% dos negócios perdidos por indecisão.
+**Frameworks:** *Enablement (def. Swile)* = recomendação acionável + suporte prático + inteligência de mercado + métrica de impacto. *2 categorias* — *Sales Enablement* (equipar o time comercial) × *Buyer Enablement* (facilitar a jornada do comprador). *Jornada Gartner* — não-linear e constante (não mais awareness→consideração→conversão linear). *Anti-FOMU* — informar em vez de pressionar (FOMO reduz negociação).
+**Táticas:** Sales — deck interativo, follow-up contextual, arquitetura de CRM, análise competitiva. Buyer — calculadora/simulador, estudo de caso, demo autônoma, persona detalhada. Ferramentas citadas: Genially (apresentação interativa), Distribute (deal room + monitoramento).
+**Exemplos:** Jolt Effect (33% das oportunidades perdidas por indecisão/medo de errar, base 2,5M ligações) · Gartner (77% acham a última compra "extremamente difícil"; comprador passa só 17% da jornada com fornecedores).
+**Anti-padrões:** ignorar enablement (foco só em aquisição/retenção); responsabilidade difusa (sem dono); PPT linear e genérico na demo; material solto sem estratégia; usar FOMO pra pressionar.
+**Takeaway:** marketing deve liderar o enablement como disciplina central pra reduzir a paralisia decisória do comprador. (Complementa FOMU/PSYCH em growth.md.)
+
+## Os 4 R's do marketing B2B
+B2B/estratégia · [fonte](https://growthinsight.com.br/p/reputacao-relacionamento-alcance-resultado-marketing-b2b) · Felipe Collins
+
+**Tese:** Reputação + Relacionamento + Raio de alcance, combinados, geram o 4º R — Resultado de negócio mensurável.
+**Framework — 4 R's:** *Reputação* (percepção sobre a empresa) · *Relacionamento* (conexão genuína e confiança) · *Raio de alcance* (quantas pessoas você impacta) · *Resultado* (receita, conversão, CAC). (+2 implícitos: *Relevância* — mensagem certa ao público; *Retrospecto* — histórico de consistência.)
+**Táticas:** consistência ("falar o que faz e fazer o que fala"); conteúdo/podcast/newsletter/social como motor de reputação; validação externa (imprensa, review, comunidade); networking sem expectativa comercial imediata; matriz de relacionamento pra medir proximidade; canais próprios + mídia paga segmentada pro alcance.
+**Exemplos:** Stripe (reputação "developer-friendly" via doc excepcional → sai da guerra de preço) · Clube CMO/EXAME (comunidade de líderes) · Harry Stebbings/20VC (podcast consistente → fundo de US$140M + US$400M).
+**Anti-padrões:** sensacionalismo com promessa exagerada (corrói reputação); relacionamento só por interesse comercial (é detectável); audiência enorme sem relevância; falta de paciência com indicador que demora a tracionar.
+**Takeaway:** construa reputação consistente, relacionamento genuíno e alcance estratégico — o resultado é consequência.

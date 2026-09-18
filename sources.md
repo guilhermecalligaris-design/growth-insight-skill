@@ -16,8 +16,8 @@
 - [ ] https://growthinsight.com.br/p/aprendendo-a-pensar-e-aprender-deep-growth
 - [ ] https://growthinsight.com.br/p/aprendizado
 - [x] https://growthinsight.com.br/p/arroz-feijao-mkt-2026
-- [ ] https://growthinsight.com.br/p/b2boring-parte1
-- [ ] https://growthinsight.com.br/p/b2boring-parte2
+- [x] https://growthinsight.com.br/p/b2boring-parte1
+- [P] https://growthinsight.com.br/p/b2boring-parte2
 - [x] https://growthinsight.com.br/p/bowling-pin-strategy
 - [x] https://growthinsight.com.br/p/branding-como-criar-uma-marca-do-zero-ou-mudar-a-sua
 - [ ] https://growthinsight.com.br/p/campanha-cancelamento-havaianas
@@ -39,7 +39,7 @@
 - [x] https://growthinsight.com.br/p/como-escrever-bem
 - [ ] https://growthinsight.com.br/p/como-surgiu
 - [ ] https://growthinsight.com.br/p/competencias-storytelling-e-networking-carreira
-- [ ] https://growthinsight.com.br/p/comunidades-tatica
+- [x] https://growthinsight.com.br/p/comunidades-tatica
 - [ ] https://growthinsight.com.br/p/conectar-os-pontos
 - [ ] https://growthinsight.com.br/p/confianca
 - [ ] https://growthinsight.com.br/p/confianca-13-comportamentos-1
@@ -81,7 +81,7 @@
 - [ ] https://growthinsight.com.br/p/ia-vibe-marketing
 - [x] https://growthinsight.com.br/p/loop-marketing-hubspot
 - [ ] https://growthinsight.com.br/p/manifesto
-- [ ] https://growthinsight.com.br/p/marketing-de-conteudo-1
+- [P] https://growthinsight.com.br/p/marketing-de-conteudo-1
 - [ ] https://growthinsight.com.br/p/marketing-de-conteudo-2
 - [x] https://growthinsight.com.br/p/marketing-de-guerrilha-emboscada
 - [ ] https://growthinsight.com.br/p/melhore-resultados-gen-ia
@@ -92,24 +92,24 @@
 - [ ] https://growthinsight.com.br/p/mito-growth-hacker
 - [x] https://growthinsight.com.br/p/moats-defensibilidade-2026
 - [ ] https://growthinsight.com.br/p/modelo-competencias-growth
-- [ ] https://growthinsight.com.br/p/monetizacao-parte1
-- [ ] https://growthinsight.com.br/p/monetizacao-parte2
+- [x] https://growthinsight.com.br/p/monetizacao-parte1
+- [x] https://growthinsight.com.br/p/monetizacao-parte2
 - [ ] https://growthinsight.com.br/p/mudancas-de-carreira
-- [ ] https://growthinsight.com.br/p/network-effects-principalidade-ai
+- [x] https://growthinsight.com.br/p/network-effects-principalidade-ai
 - [ ] https://growthinsight.com.br/p/newsletter-business
-- [ ] https://growthinsight.com.br/p/nichos-novo-oceano-azul
+- [x] https://growthinsight.com.br/p/nichos-novo-oceano-azul
 - [x] https://growthinsight.com.br/p/novo-marketing-ia-gen-marketer
 - [ ] https://growthinsight.com.br/p/o-fim-do-fim-dos-cookies
 - [ ] https://growthinsight.com.br/p/os-melhores-livros-para-profissionais-de-marketing
 - [ ] https://growthinsight.com.br/p/papo-de-gestao-g4-witt
-- [ ] https://growthinsight.com.br/p/patrocinio-paixao
+- [x] https://growthinsight.com.br/p/patrocinio-paixao
 - [ ] https://growthinsight.com.br/p/pedi-demissao-esmagado
-- [ ] https://growthinsight.com.br/p/planejamento-estrategico
+- [x] https://growthinsight.com.br/p/planejamento-estrategico
 - [ ] https://growthinsight.com.br/p/plano-306090-como-se-dar-bem-no-incio-como-cmo
-- [ ] https://growthinsight.com.br/p/playbook-events-marketing-parte1
+- [x] https://growthinsight.com.br/p/playbook-events-marketing-parte1
 - [ ] https://growthinsight.com.br/p/playbook-events-marketing-parte2
 - [ ] https://growthinsight.com.br/p/playbook-events-marketing-parte3
-- [ ] https://growthinsight.com.br/p/playbook-outbound-2025
+- [x] https://growthinsight.com.br/p/playbook-outbound-2025
 - [ ] https://growthinsight.com.br/p/podcast-001-marketing-negocio
 - [ ] https://growthinsight.com.br/p/podcast-004-copywriting
 - [ ] https://growthinsight.com.br/p/podcast-005-product-market-fit
@@ -120,11 +120,11 @@
 - [x] https://growthinsight.com.br/p/product-marketing
 - [ ] https://growthinsight.com.br/p/proximo-passo-carreira
 - [x] https://growthinsight.com.br/p/rebranding
-- [ ] https://growthinsight.com.br/p/reputacao-relacionamento-alcance-resultado-marketing-b2b
+- [x] https://growthinsight.com.br/p/reputacao-relacionamento-alcance-resultado-marketing-b2b
 - [ ] https://growthinsight.com.br/p/retrospectiva-2025
 - [ ] https://growthinsight.com.br/p/reunioes-rotinas-rituais
 - [x] https://growthinsight.com.br/p/saaspocalypse-agentes-ia
-- [ ] https://growthinsight.com.br/p/sales-buyer-enablement
+- [x] https://growthinsight.com.br/p/sales-buyer-enablement
 - [ ] https://growthinsight.com.br/p/say-name-tcnicas-para-construir-o-nome-de-marca-ideal
 - [x] https://growthinsight.com.br/p/scorecard-icp
 - [ ] https://growthinsight.com.br/p/semanas-caoticas
