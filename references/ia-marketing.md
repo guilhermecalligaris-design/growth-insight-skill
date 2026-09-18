@@ -1,6 +1,6 @@
 # ia-marketing — IA no marketing · gen-marketer · agentes · zero-click · SaaSpocalypse
 
-> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Em construção por lotes.*
+> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Corpus completo — 131 edições.*
 
 ## O Gen Marketer (o novo profissional de marketing com IA)
 IA/carreira · [fonte](https://growthinsight.com.br/p/novo-marketing-ia-gen-marketer) · Felipe Witt

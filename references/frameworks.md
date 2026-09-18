@@ -1,6 +1,6 @@
 # Catálogo de frameworks nomeados — Growth Insight
 
-> Consulta rápida cross-tema. Cada framework aponta pra edição-fonte e pro arquivo de referência com o detalhe. *Em construção.*
+> Consulta rápida cross-tema. Cada framework aponta pra edição-fonte e pro arquivo de referência com o detalhe. *Catálogo completo.*
 
 | Framework | O que é (1 linha) | Fonte | Detalhe em |
 |---|---|---|---|
@@ -87,3 +87,4 @@
 | 7 apostas de tendência 2025 (IA/branding/creator) | Futurospectiva (previsão auditada) | [futuro](https://growthinsight.com.br/p/futurospectiva-o-acerto-de-contas-de-2025) | tendencias.md |
 | Formatos + 3 modelos de monetização de newsletter | Newsletter como canal e negócio | [newsletter](https://growthinsight.com.br/p/newsletter-business) | canais-taticas.md |
 | Risco×Retorno + armadilha do otimismo + 3 opções | Decisão de carreira sob incerteza | [demissao](https://growthinsight.com.br/p/pedi-demissao-esmagado) | gestao-carreira.md |
+| Podcast B2B: 3 usos + 4 formatos + 2 agendas ocultas | Podcast como canal | [podcast](https://growthinsight.com.br/p/podcast-analise) | canais-taticas.md |

@@ -1,6 +1,6 @@
 # canais-taticas — Canais & táticas · SEO · paid · eventos · comunidade · guerrilha · patrocínio
 
-> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Em construção por lotes.*
+> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Corpus completo — 131 edições.*
 
 ## Zero-Click Marketing (disponibilidade mental > clique)
 Distribuição/canais · [fonte](https://growthinsight.com.br/p/zero-click-marketing) · Felipe Collins *(premium 👑; conteúdo principal visível)*
@@ -173,3 +173,13 @@ Canais/newsletter · [fonte](https://growthinsight.com.br/p/newsletter-business)
 **Exemplos:** Morning Brew/TLDR (curadoria) · No Mercy No Malice / Growth Insight (autoral) · Lenny's (US$2M/ano) · First Round Review (thought leadership).
 **Anti-padrões:** forçar vários modelos de receita ao mesmo tempo; e-mail promocional disfarçado; scraping/disparo em massa (ilegal, queima reputação); falta de consistência.
 **Takeaway:** conteúdo bom pra audiência nichada + consistência = crescimento; newsletter prospera no relacional, não só no alcance. (Casa com Zero-Click e a camada de mídia própria.)
+
+## Podcast como canal de marketing B2B (mídia, PR ou próprio)
+Canais/podcast · [fonte](https://growthinsight.com.br/p/podcast-analise) · Felipe Collins & Felipe Witt
+
+**Tese:** Podcast é propulsor de marketing B2B (reputação + relacionamento + alcance) — vale investir, mas exige estratégia além da audiência do episódio.
+**Frameworks:** *3 formas de uso* — comprar mídia em podcast existente · ser convidado (PR) · ter podcast próprio. *4 formatos* — entrevista · mesa de debate · solo/narrativa · ficção/storytelling. *2 agendas ocultas* — relacionamento com conta-chave (convidar o decisor) + aproveitamento massivo de conteúdo (cortes).
+**Táticas:** gerar cortes com Opus Clip/Descript (corte rende até ~100× mais audiência que o episódio cheio); virar transcrição em post/carrossel/infográfico; patrocinar temporada inteira (não episódio isolado); mínimo de 20-25 episódios pra ver resultado.
+**Dados:** Brasil é 3º em consumo mundial (51,8M ouvintes; mercado +21,6%/ano); **44% dos podcasts são abandonados após o 3º episódio**.
+**Anti-padrões:** medir só pela audiência do episódio; desistir cedo; patrocínio de episódio avulso; não reaproveitar em corte/texto.
+**Takeaway:** "demora pra engrenar — tenha paciência"; sucesso vem da longevidade + integração com o resto do marketing. (Casa com Âncoras & elétrons e Eventos.)

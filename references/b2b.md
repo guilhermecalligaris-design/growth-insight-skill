@@ -1,6 +1,6 @@
 # b2b — Marketing B2B · demand gen · ABM · outbound · ciclo de vendas
 
-> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Em construção por lotes.*
+> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Corpus completo — 131 edições.*
 
 ## Demand Gen e a regra 95-5
 B2B/demand gen · [fonte](https://growthinsight.com.br/p/demand-gen-95-5) · Felipe Witt

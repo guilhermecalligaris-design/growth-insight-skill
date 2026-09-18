@@ -1,6 +1,6 @@
 # estrategia — Estratégia · defensibilidade/moats · competição · precificação · tese de mercado
 
-> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Em construção por lotes.*
+> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Corpus completo — 131 edições.*
 
 ## Arroz com feijão: o checklist básico de marketing (2026)
 Estratégia/fundamentos · [fonte](https://growthinsight.com.br/p/arroz-feijao-mkt-2026) · Felipe Collins

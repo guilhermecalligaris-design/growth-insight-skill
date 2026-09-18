@@ -1,6 +1,6 @@
 # gtm — Go-to-market · product marketing · posicionamento · lançamentos
 
-> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Em construção por lotes.*
+> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Corpus completo — 131 edições.*
 
 ## Criar um time de marketing do zero (tese de GTM antes de contratar)
 GTM/estratégia · [fonte](https://growthinsight.com.br/p/criar-time-marketing-zero) · Felipe Witt

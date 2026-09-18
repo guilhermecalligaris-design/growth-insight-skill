@@ -1,8 +1,8 @@
 # Fontes — Growth Insight (growthinsight.com.br)
 
-131 edições. Status: [ ] pendente · [x] condensado · [P] premium/paywall (lacuna).
+131 edições — **113 condensadas · 18 lacunas premium (`[P]`) · 0 pendentes**. Legenda: [ ] pendente · [x] condensado · [P] premium/paywall (lacuna).
 
-- [ ] https://growthinsight.com.br/p/100-edicoes-growth-insight
+- [x] https://growthinsight.com.br/p/100-edicoes-growth-insight
 - [x] https://growthinsight.com.br/p/2024-retrospectiva
 - [x] https://growthinsight.com.br/p/3-duvidas-marketing-4000-empresarios
 - [x] https://growthinsight.com.br/p/5-skills-para-claude
@@ -37,7 +37,7 @@
 - [x] https://growthinsight.com.br/p/como-criar-um-plano-de-marketing-que-funciona-em-8-etapas
 - [x] https://growthinsight.com.br/p/como-dizer-nao
 - [x] https://growthinsight.com.br/p/como-escrever-bem
-- [ ] https://growthinsight.com.br/p/como-surgiu
+- [x] https://growthinsight.com.br/p/como-surgiu
 - [P] https://growthinsight.com.br/p/competencias-storytelling-e-networking-carreira
 - [x] https://growthinsight.com.br/p/comunidades-tatica
 - [x] https://growthinsight.com.br/p/conectar-os-pontos
@@ -58,7 +58,7 @@
 - [x] https://growthinsight.com.br/p/diversificar-canais-aquisicao
 - [x] https://growthinsight.com.br/p/economia-comportamental-neuromarketing
 - [x] https://growthinsight.com.br/p/elmr-framework
-- [ ] https://growthinsight.com.br/p/especial-rebranding-material-sem-cortes
+- [P] https://growthinsight.com.br/p/especial-rebranding-material-sem-cortes
 - [P] https://growthinsight.com.br/p/estrategia-de-pr-e-imprensa
 - [x] https://growthinsight.com.br/p/estudo-softbank-performance-vs-branding
 - [x] https://growthinsight.com.br/p/eventos-podcast
@@ -70,7 +70,7 @@
 - [x] https://growthinsight.com.br/p/futurospectiva-o-acerto-de-contas-de-2025
 - [x] https://growthinsight.com.br/p/good-copy-bad-copy
 - [x] https://growthinsight.com.br/p/gotomarket-slg-mlg-plg
-- [ ] https://growthinsight.com.br/p/growth-insight-advisory
+- [x] https://growthinsight.com.br/p/growth-insight-advisory
 - [x] https://growthinsight.com.br/p/guia-entrevista-marketing
 - [x] https://growthinsight.com.br/p/guia-product-market-fit
 - [x] https://growthinsight.com.br/p/hubspot-conteudo-ia
@@ -80,14 +80,14 @@
 - [x] https://growthinsight.com.br/p/ia-onboarding-cro
 - [x] https://growthinsight.com.br/p/ia-vibe-marketing
 - [x] https://growthinsight.com.br/p/loop-marketing-hubspot
-- [ ] https://growthinsight.com.br/p/manifesto
+- [x] https://growthinsight.com.br/p/manifesto
 - [P] https://growthinsight.com.br/p/marketing-de-conteudo-1
 - [P] https://growthinsight.com.br/p/marketing-de-conteudo-2
 - [x] https://growthinsight.com.br/p/marketing-de-guerrilha-emboscada
 - [x] https://growthinsight.com.br/p/melhore-resultados-gen-ia
 - [x] https://growthinsight.com.br/p/melhores-livros-por-especialidade-de-marketing
 - [x] https://growthinsight.com.br/p/mentira
-- [ ] https://growthinsight.com.br/p/mentoria-premium-high-ic-zero-click
+- [x] https://growthinsight.com.br/p/mentoria-premium-high-ic-zero-click
 - [x] https://growthinsight.com.br/p/metodo-meyvn-consultoria
 - [x] https://growthinsight.com.br/p/mito-growth-hacker
 - [x] https://growthinsight.com.br/p/moats-defensibilidade-2026
@@ -113,9 +113,9 @@
 - [x] https://growthinsight.com.br/p/podcast-001-marketing-negocio
 - [x] https://growthinsight.com.br/p/podcast-004-copywriting
 - [x] https://growthinsight.com.br/p/podcast-005-product-market-fit
-- [ ] https://growthinsight.com.br/p/podcast-analise
+- [x] https://growthinsight.com.br/p/podcast-analise
 - [x] https://growthinsight.com.br/p/positioning-messaging-copy
-- [ ] https://growthinsight.com.br/p/premium-e-ano-novo
+- [x] https://growthinsight.com.br/p/premium-e-ano-novo
 - [x] https://growthinsight.com.br/p/product-market-fit
 - [x] https://growthinsight.com.br/p/product-marketing
 - [x] https://growthinsight.com.br/p/proximo-passo-carreira

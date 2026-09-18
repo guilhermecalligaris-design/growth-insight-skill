@@ -1,6 +1,6 @@
 # livros-curadoria — Curadoria de livros de marketing/growth (Growth Insight)
 
-> Destilado de [Growth Insight](https://growthinsight.com.br). Recomendações de leitura do autor (Felipe Collins). O Premium tem um database Notion com 211+ livros categorizados. *Em construção por lotes.*
+> Destilado de [Growth Insight](https://growthinsight.com.br). Recomendações de leitura do autor (Felipe Collins). O Premium tem um database Notion com 211+ livros categorizados. *Corpus completo — 131 edições.*
 
 ## Livros por estágio de carreira
 Referência/livros · [fonte](https://growthinsight.com.br/p/os-melhores-livros-para-profissionais-de-marketing) · Felipe Collins

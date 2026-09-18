@@ -1,6 +1,6 @@
 # growth — Growth loops & engines · aquisição · retenção · ativação · PLG · CRO · métricas
 
-> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Em construção por lotes.*
+> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Corpus completo — 131 edições.*
 
 ## Guia de Product-Market Fit (PMF)
 Growth/PMF · [fonte](https://growthinsight.com.br/p/guia-product-market-fit) · Felipe Witt *(premium 👑; conteúdo visível)*

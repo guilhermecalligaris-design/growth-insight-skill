@@ -1,6 +1,6 @@
 # copywriting — Copywriting · mensagem · narrativa · persuasão · economia comportamental
 
-> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Em construção por lotes.*
+> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Corpus completo — 131 edições.*
 
 ## ELMR — Emotion · Logic · Motivation · Reward (a arquitetura da decisão)
 Persuasão · [fonte](https://growthinsight.com.br/p/elmr-framework) · Felipe Witt *(premium 👑; conteúdo visível)*

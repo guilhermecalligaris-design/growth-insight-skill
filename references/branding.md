@@ -1,6 +1,6 @@
 # branding — Branding · rebranding · construção de marca · crise reputacional
 
-> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Em construção por lotes.*
+> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Corpus completo — 131 edições.*
 
 ## Como criar uma marca do zero (ou mudar a sua)
 Branding · [fonte](https://growthinsight.com.br/p/branding-como-criar-uma-marca-do-zero-ou-mudar-a-sua) · Felipe Collins
@@ -57,3 +57,9 @@ Branding/case · [fonte](https://growthinsight.com.br/p/cyberpunk2077) · Felipe
 **Tese (parte visível):** A trajetória do Cyberpunk 2077 é um case de negócio em 4 atos — hype pré-lançamento → fracasso (expectativa frustrada) → transformação operacional radical → redenção da marca (arco do herói corporativo).
 **Lições (visíveis):** gestão de expectativa em lançamento grande; recuperação de reputação pós-falha exige **mudança operacional real**, não só comunicação; entrega consistente reconstrói confiança.
 **Takeaway:** redenção de marca é possível via transformação operacional + entrega consistente (detalhe é premium — **lacuna**). (Casa com Confiança e reputação acima.)
+
+## Especial rebranding — material sem cortes (entrevistas)
+Branding/case · [fonte](https://growthinsight.com.br/p/especial-rebranding-material-sem-cortes) · Felipe Collins *(premium 👑 — entrevistas completas são pagas; lacuna)*
+
+**Do que se trata (visível):** entrevistas completas e sem cortes com líderes de marca (Itaú, Alura, BrandGym, Piadino) sobre rebranding — material bruto complementar ao artigo de [rebranding](https://growthinsight.com.br/p/rebranding) acima.
+**Takeaway:** aprofundamento em rebranding via especialistas; o corpo é premium (**lacuna**).

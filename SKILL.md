@@ -47,9 +47,10 @@ framework de verdade. É a camada de *como pensar*; as skills de execução (fun
 | `canais-taticas.md` | Canais e táticas: SEO, paid, eventos, comunidade, guerrilha, patrocínio |
 | `ia-marketing.md` | IA no marketing, gen-marketer, agentes, zero-click, SaaSpocalypse |
 | `gestao-carreira.md` | Gestão, liderança, montar time de marketing, carreira |
-| `tendencias.md` | Tendências, retrospectivas, leituras de mercado, curadorias/livros |
+| `tendencias.md` | Tendências, retrospectivas, futurospectivas, leituras de mercado, manifesto |
+| `livros-curadoria.md` | Curadoria de livros (por estágio e por especialidade) e podcasts recomendados |
 
-`references/INDEX.md` = mapa completo edição → arquivo. `sources.md` = as 131 URLs com status de condensação.
+`references/INDEX.md` = mapa completo edição → arquivo. `sources.md` = as 131 URLs com status. **Corpus 100% processado: 113 edições condensadas + 18 lacunas premium (`[P]`) = 131.**
 
 ## Princípios de uso (do próprio Growth Insight)
 - **Fundamento antes de tática:** o "arroz com feijão" bem-feito vence o truque. Cheque o básico antes do avançado.
@@ -60,4 +61,4 @@ framework de verdade. É a camada de *como pensar*; as skills de execução (fun
 ---
 *Fonte: [Growth Insight](https://growthinsight.com.br) — Felipe Collins & Felipe Witt. Esta skill é uma
 destilação acionável com atribuição, para uso interno como repertório; o conteúdo integral pertence aos
-autores e vive nas edições linkadas. Status de construção em `sources.md`.*
+autores e vive nas edições linkadas. Corpus completo (131/131) — status por edição em `sources.md`.*

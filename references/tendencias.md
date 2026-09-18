@@ -1,6 +1,6 @@
 # tendencias — Tendências · retrospectivas · leituras de mercado · curadorias & livros
 
-> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Em construção por lotes.*
+> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Corpus completo — 131 edições.*
 
 ## Futurospectiva 2025 — as 7 apostas (acerto de contas)
 Tendências/previsão · [fonte](https://growthinsight.com.br/p/futurospectiva-o-acerto-de-contas-de-2025) · Felipe Collins
@@ -25,3 +25,9 @@ Tendências/retrospectiva · [fonte](https://growthinsight.com.br/p/retrospectiv
 **Táticas:** automação que avisa inativo (60d) e remove (90d); IA pra transcrever call e gerar insight; combinar timing + análise + fundamento; expandir pra podcast/YouTube Shorts/deep dive com convidado.
 **Marcos:** 50 edições, 118 mil palavras, 233 mil views.
 **Takeaway:** crescimento sustentável prioriza **engajamento sobre vanity metric**. (A edição de virada [Feliz Ano Novo 2026](https://growthinsight.com.br/p/feliz-ano-novo-2026) é festiva/promocional, sem framework acionável.)
+
+## Manifesto Growth Insight — consumir menos, mas melhor
+Tendências/editorial · [fonte](https://growthinsight.com.br/p/manifesto) · Felipe Witt & Felipe Collins
+
+**Princípios editoriais (a lente por trás do corpus):** *Paradoxo da abundância* — informação em excesso atrapalha; o profissional consciente busca "um único pedaço de conteúdo altamente nutritivo" em vez de migalha algorítmica. *Insight genuíno (Gary Klein)* — "uma mudança inesperada na forma como compreendemos as coisas", não curiosidade solta; reflexão sobre a experiência gera aprendizado real.
+**Takeaway:** "consumir menos, mas melhor" — qualidade > quantidade em marketing/growth/produto/gestão. É a régua de curadoria por trás de todo este corpus.

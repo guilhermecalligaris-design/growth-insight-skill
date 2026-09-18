@@ -1,6 +1,6 @@
 # Índice — edição → arquivo de referência
 
-> Mapa de cada uma das 131 edições pro arquivo onde foi condensada. *Preenchido conforme os lotes.*
+> Mapa de cada uma das 131 edições pro arquivo onde foi condensada. *Completo: todas as 131 edições mapeadas.*
 
 | Edição | Tema | Arquivo |
 |---|---|---|
@@ -106,3 +106,7 @@
 | [8-podcasts-impacto-2025](https://growthinsight.com.br/p/8-podcasts-impacto-2025) | 8 podcasts de impacto 2025 | livros-curadoria.md |
 | [podcast-004 + podcast-005](https://growthinsight.com.br/p/podcast-004-copywriting) | GI Podcast (copy, PMF) | livros-curadoria.md |
 | [cyberpunk2077](https://growthinsight.com.br/p/cyberpunk2077) | Redenção de marca (lacuna premium) | branding.md |
+| [podcast-analise](https://growthinsight.com.br/p/podcast-analise) | Podcast como canal B2B | canais-taticas.md |
+| [manifesto](https://growthinsight.com.br/p/manifesto) | Manifesto GI (consumir menos, melhor) | tendencias.md |
+| [especial-rebranding-sem-cortes](https://growthinsight.com.br/p/especial-rebranding-material-sem-cortes) | Rebranding: entrevistas (lacuna premium) | branding.md |
+| meta/institucional — [100-edições](https://growthinsight.com.br/p/100-edicoes-growth-insight) · [como-surgiu](https://growthinsight.com.br/p/como-surgiu) · [advisory](https://growthinsight.com.br/p/growth-insight-advisory) · [mentoria-premium](https://growthinsight.com.br/p/mentoria-premium-high-ic-zero-click) · [premium-e-ano-novo](https://growthinsight.com.br/p/premium-e-ano-novo) | Edições sobre a própria newsletter/ofertas (sem framework acionável) | — |

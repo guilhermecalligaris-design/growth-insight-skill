@@ -1,6 +1,6 @@
 # gestao-carreira — Gestão & liderança · montar/estruturar time · agile · carreira
 
-> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Em construção por lotes.*
+> Destilado de [Growth Insight](https://growthinsight.com.br). Cada bloco cita a edição-fonte. *Corpus completo — 131 edições.*
 
 ## Agile Marketing — organizar o time pra entregar mais com menos
 Gestão/agile · [fonte](https://growthinsight.com.br/p/agile-marketing) · Felipe Collins
