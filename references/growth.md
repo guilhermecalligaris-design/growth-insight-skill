@@ -68,3 +68,23 @@ Growth/cultura · [fonte](https://growthinsight.com.br/p/mito-growth-hacker) · 
 **Exemplos:** Hotmail (assinatura viral no rodapé) · Dropbox (referral) · Airbnb (listagem via Craigslist).
 **Anti-padrões:** contratar "growth hacker" como solução mágica; aplicar tática sem entender o contexto; confundir mentalidade com processo; ignorar o papel do capital.
 **Takeaway:** "é bom que suas unhas estejam sujas de terra" — o trabalho real de growth é processo fora das ferramentas. (Complementa o modelo de competências em growth.)
+
+## Boring Growth — o crescimento pós-ZIRP (default alive)
+Growth/unit economics · [fonte](https://growthinsight.com.br/p/zirp-boring-growth) · Felipe Witt
+
+**Tese:** O "crescimento a qualquer custo" morreu com o fim da ZIRP; a nova regra é **boring growth** — rentável, eficiente e independente de capital externo (default alive, não default dead).
+**Frameworks:** *ZIRP / ZIRBs* (juros zero 2008-2022 e as startups nascidas nela). *Default alive × default dead* (sobrevive sem rodada × depende dela). *4 métricas do boring growth* — **Burn Multiple** (cash queimado ÷ receita nova) · **CAC Payback** (<12m ótimo, <20m aceitável) · **NRR** (>100%) · **Rule of 40** (crescimento + margem ≥ 40).
+**Táticas:** concentrar em 2-3 canais (não "em todo lugar"); trocar vaidade (MQL/impressão) por pipeline qualificado e receita influenciada; priorizar lifecycle (ativação/adoção/cross-sell/win-back); construir NRR>100% expandindo a base; falar a língua do CFO.
+**Exemplos:** Notion (burn multiple ~1,0× mesmo em mercado apertado → mega-rodada) · Brasil 2025 (investimento −13%, US$4,5bi; equity puro despencou a US$1,74bi) · empresas com NRR alta + bom payback (crescimento 71%/ano, Rule of 40 = 47) vs baixas (10%, R40 = 5).
+**Anti-padrões:** burn rate como status; aquisição sem retenção ("funil peneira"); testar N canais sem profundidade; ignorar unit economics; marketing só de topo.
+**Takeaway:** "a startup viva em 2027 não é a que cresceu mais rápido, é a que cresceu **sem precisar de permissão de investidor**." (Casa com Finanças para marketing e Monetização.)
+
+## Product-Market Fit — mensurável, não etéreo (Vohra + Balfour)
+Growth/PMF · [fonte](https://growthinsight.com.br/p/product-market-fit) · Felipe Witt
+
+**Tese:** PMF é decorado mas raramente aplicado — nasce de validar uma hipótese de valor específica num segmento determinado, e é **mensurável** (retenção, NPS, engajamento), não sensação.
+**Frameworks:** *Sean Ellis/Rahul Vohra* — "como se sentiria sem o produto?" ≥40% "muito decepcionado". *Tripé Brian Balfour* — crescimento anormal + retenção estável + uso significativo mantido. *Curva de retenção* — estabiliza = PMF; declina = sem PMF.
+**Táticas:** focar no segmento que é 100% da receita (não 5 nichos de 20%); validar problema grande (não nice-to-have); otimizar monetização (quanto/como/quando/o quê); refinar o "pra quem" antes do "o quê".
+**Exemplos:** Figma ("arrancavam o notebook das mãos do Dylan") · Snapchat (200k downloads, 50% retenção diária, 10 fotos/dia) · Swile (6 anos, aportes, centenas de clientes — ainda sem PMF por NPS).
+**Anti-padrões:** spray-and-pray (criar e achar buyer depois); proposta genérica clonável; confundir "gostar" com "comprar"; monetização de alta fricção disfarçada de preço; expandir antes de dominar um segmento.
+**Takeaway:** PMF leva ~2 anos (Figma/Airtable/Slack, 4+); meça por retenção/NPS/engajamento. (Aprofunda o Guia de PMF acima.)

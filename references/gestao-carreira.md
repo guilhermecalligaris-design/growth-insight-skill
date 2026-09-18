@@ -84,3 +84,48 @@ Gestão/liderança · [fonte](https://growthinsight.com.br/p/crise-reputacional-
 **Exemplos:** Swile (marketing gerava 90% da demanda mas era visto como suporte) · STLFLIX (bônus 85% receita + assinatura) · Gartner (só 45% dos CEO/CFO acham que o marketing fez bom trabalho) · McKinsey (só 50% dos CMOs no planejamento estratégico).
 **Anti-padrões:** reportar em métrica de marketing em vez de receita; meta só de lead; IA por hype sem produtividade; marketing isolado em "caixa-preta".
 **Takeaway:** marketer ganha credibilidade virando **arquiteto de receita**, não produtor de tática. (Casa com Finanças para marketing acima.)
+
+## Reuniões, rotinas e rituais — a agenda como Lego
+Gestão/rituais · [fonte](https://growthinsight.com.br/p/reunioes-rotinas-rituais) · Felipe Collins
+
+**Tese:** A maioria desperdiça tempo em reunião desnecessária — agenda bem desenhada (formato certo pra cada informação) corta custo e preserva contexto.
+**Frameworks:** *RACI* (Responsible/Accountable/Consulted/Informed) · *RAPID* (Recommend/Agree/Perform/Input/Decide) pra decisão crítica · *Maker vs Manager Schedule* (criador precisa de bloco de concentração; gestor, de blocos administrativos) · *Matriz senioridade × frequência* (tier × tipo/periodicidade de reunião).
+**Táticas:** substituir reunião por assíncrono (newsletter interna, dashboard, thread de Slack como daily, Loom ≤5min, wiki); convocar só quem executa/aprova; deletar 30% do calendário proativamente ("se ninguém morreu sem ela, mantenha deletada"); distribuir ata em vez de comparecer; auditar mensalmente tempo × prioridade.
+**Exemplos:** daily via thread de Slack; post-mortem de campanha; 1-1 de desenvolvimento; all-hands com Q&A.
+**Anti-padrões:** reunião "que podia ser email"; 80 pessoas na call, 70 desnecessárias; sênior em reunião operacional sem decisão ("Rainha da Inglaterra"); calendário fragmentado (cérebro vira "patê"); improvisar 30min em vez de escrever 10min.
+**Takeaway:** tempo é o ativo mais precioso — monte a agenda como Lego (bloco definido, periodicidade clara, ator certo) e escolha síncrono/assíncrono por objetivo (decidir × informar). (Complementa Agile Marketing acima.)
+
+## Montar o time de marketing da startup (primeiras contratações)
+Gestão/time · [fonte](https://growthinsight.com.br/p/time-de-marketing) · Felipe Collins
+
+**Tese:** Estruturar marketing em startup é mais difícil (ambiguidade de produto/mercado/estratégia) — a ordem de contratação sai do modelo de negócio, do estágio e do GTM, não de um template.
+**Frameworks:** *Modelo Emily Kramer* — Fundação (Product Marketing) + Motor (Growth) + Gasolina (Conteúdo & Marca) + Conexão ("Producer" generalista que liga tudo). *Estrutura Gary Vee (4 especialistas)* — arte (design), números (analytics), escrita (copy), vídeo.
+**Táticas:** contratar por demanda observada/gargalo (custo × qualidade); manter o CORE do GTM dentro de casa; terceirizar por expertise/urgência/teste, sempre com um gerente interno do fornecedor; 1ª contratação com forte action bias e flexibilidade; diferenciar B2C (growth+digital) de B2B (conteúdo+relacionamento).
+**Exemplos:** ACE (autor foi "euquipe" → design → redator/social → operação de eventos → analista de métricas/outbound).
+**Anti-padrões:** trazer sênior demais cedo (expectativa incompatível com recurso); estrutura desequilibrada (só growth sem conteúdo); terceirizar 100% sem gerente interno; ignorar demanda operacional.
+**Takeaway:** primeiro defina GTM + maturidade → depois o perfil e a ordem. (Complementa "criar time do zero" em gtm.md e o guia de contratação acima.)
+
+## Aprender a pensar e a aprender (deep growth)
+Gestão/carreira · [fonte](https://growthinsight.com.br/p/aprendendo-a-pensar-e-aprender-deep-growth) · Felipe Collins (com Gabriel Costa/GLA)
+
+**Tese:** A **competência gera a paixão** (não o contrário) — desenvolva-se onde exige esforço mas flui, e use a "lógica da inversão" (definir o que NÃO quer) pra filtrar.
+**Frameworks:** *Lógica da inversão* (partir do que não se quer). *Diferenciação × paridade* (apostar alto na competência excepcional; buscar só suficiência nas fraquezas — ex.: CMO precisa de "ponto de paridade" em finanças). *Arquitetos × síndicos* (perfil estratégico × operacional).
+**Táticas:** escrever conteúdo profundo pra aprender (não pro algoritmo); trocar de área/emprego cedo pra otimizar descoberta; delegar o operacional se você é "péssimo síndico"; aprender informalmente ("pagar café e almoço pra turma"); focar em fundamento (cérebro, gestão) e não em ferramenta passageira.
+**Exemplos:** o autor escreve à noite ("trabalho pra eles, diversão pra mim"); trajetória jornalismo→esporte→agência revelou o "arquiteto".
+**Anti-padrões:** seguir "paixão inicial" sem competência; conteúdo raso pro algoritmo ("papagaio de pirata"); glorificar o fracasso; ficar na operação quando o perfil é estratégico.
+**Takeaway:** desenvolva-se onde flui, não onde promete romance — resiliência vem da "casca do fracasso" e do ambiente de pares ("orfanato de malucos").
+
+## Quando o CEO não confia no marketing
+Gestão/liderança · [fonte](https://growthinsight.com.br/p/ceo-nao-confia) · Felipe Collins
+
+**Tese:** ~80% dos CEOs não confiam no marketing — problema estrutural, mas superável com estratégia relacional, conexão com o negócio e resultado mensurável.
+**Frameworks:** *Bikeshedding* (discutir o fácil de entender em vez do complexo). *GTM* (mapear como a empresa adquire: SLG/MLG/PLG). *Apetite a risco* (conservador × inovador da organização).
+**Táticas:** investigar a raiz da desconfiança (experiência ruim prévia, preconceito, incompreensão); conectar a métrica financeira (CAC/LTV/margem); cortar jargão; quebrar silo com Vendas; empilhar pequenas vitórias documentadas; newsletter interna com correlações; não tomar crédito exclusivo de resultado colaborativo.
+**Anti-padrões:** falar "ABM", "growth loop" com quem não domina; reportar vaidade (impressão/curtida/NPS de evento); trabalhar isolado de Vendas; comparar-se a Google/Facebook (benchmark desproporcional).
+**Takeaway:** entenda o motivo → conecte a negócio/métrica/pessoas → fale o mesmo idioma → empilhe vitórias. (Mesma raiz de "posição do marketing em 2026" acima.)
+
+## Competências, storytelling e networking na transição de carreira
+Gestão/carreira · [fonte](https://growthinsight.com.br/p/competencias-storytelling-e-networking-carreira) · Felipe Collins *(premium 👑 — versão completa é paga; lacuna)*
+
+**Tese (parte visível):** Evoluir/trocar de emprego em marketing se estrutura em 3 pilares interligados — **competências** (mapear atuais × desejadas), **storytelling** (contar a própria história de forma estratégica) e **networking** (relacionamento no setor) — num framework visual (Miro).
+**Takeaway:** os três pilares operam juntos, não isolados; exemplos e detalhe são premium (**lacuna**). (Usa o modelo de competências em growth acima.)

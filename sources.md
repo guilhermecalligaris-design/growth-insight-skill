@@ -13,7 +13,7 @@
 - [x] https://growthinsight.com.br/p/agile-marketing
 - [x] https://growthinsight.com.br/p/ai-overview-seo
 - [x] https://growthinsight.com.br/p/ancoras-e-eletrons
-- [ ] https://growthinsight.com.br/p/aprendendo-a-pensar-e-aprender-deep-growth
+- [x] https://growthinsight.com.br/p/aprendendo-a-pensar-e-aprender-deep-growth
 - [ ] https://growthinsight.com.br/p/aprendizado
 - [x] https://growthinsight.com.br/p/arroz-feijao-mkt-2026
 - [x] https://growthinsight.com.br/p/b2boring-parte1
@@ -25,7 +25,7 @@
 - [P] https://growthinsight.com.br/p/case-notion-clg-parte3
 - [P] https://growthinsight.com.br/p/case-notion-parte1
 - [P] https://growthinsight.com.br/p/case-notion-plg-parte2
-- [ ] https://growthinsight.com.br/p/ceo-nao-confia
+- [x] https://growthinsight.com.br/p/ceo-nao-confia
 - [ ] https://growthinsight.com.br/p/checklist-arroz-feijao
 - [x] https://growthinsight.com.br/p/claude-code
 - [x] https://growthinsight.com.br/p/cmo-as-a-service
@@ -38,9 +38,9 @@
 - [ ] https://growthinsight.com.br/p/como-dizer-nao
 - [x] https://growthinsight.com.br/p/como-escrever-bem
 - [ ] https://growthinsight.com.br/p/como-surgiu
-- [ ] https://growthinsight.com.br/p/competencias-storytelling-e-networking-carreira
+- [P] https://growthinsight.com.br/p/competencias-storytelling-e-networking-carreira
 - [x] https://growthinsight.com.br/p/comunidades-tatica
-- [ ] https://growthinsight.com.br/p/conectar-os-pontos
+- [x] https://growthinsight.com.br/p/conectar-os-pontos
 - [x] https://growthinsight.com.br/p/confianca
 - [x] https://growthinsight.com.br/p/confianca-13-comportamentos-1
 - [x] https://growthinsight.com.br/p/confianca-parte-3
@@ -54,14 +54,14 @@
 - [ ] https://growthinsight.com.br/p/curadoria-7-temas
 - [ ] https://growthinsight.com.br/p/cyberpunk2077
 - [x] https://growthinsight.com.br/p/demand-gen-95-5
-- [ ] https://growthinsight.com.br/p/derrubando-gigantes-rd-summit
+- [x] https://growthinsight.com.br/p/derrubando-gigantes-rd-summit
 - [x] https://growthinsight.com.br/p/diversificar-canais-aquisicao
 - [x] https://growthinsight.com.br/p/economia-comportamental-neuromarketing
 - [x] https://growthinsight.com.br/p/elmr-framework
 - [ ] https://growthinsight.com.br/p/especial-rebranding-material-sem-cortes
 - [P] https://growthinsight.com.br/p/estrategia-de-pr-e-imprensa
 - [x] https://growthinsight.com.br/p/estudo-softbank-performance-vs-branding
-- [ ] https://growthinsight.com.br/p/eventos-podcast
+- [x] https://growthinsight.com.br/p/eventos-podcast
 - [ ] https://growthinsight.com.br/p/feliz-ano-novo-2026
 - [x] https://growthinsight.com.br/p/financas-para-marketing
 - [x] https://growthinsight.com.br/p/fuel-engine-framework
@@ -85,7 +85,7 @@
 - [P] https://growthinsight.com.br/p/marketing-de-conteudo-2
 - [x] https://growthinsight.com.br/p/marketing-de-guerrilha-emboscada
 - [x] https://growthinsight.com.br/p/melhore-resultados-gen-ia
-- [ ] https://growthinsight.com.br/p/melhores-livros-por-especialidade-de-marketing
+- [x] https://growthinsight.com.br/p/melhores-livros-por-especialidade-de-marketing
 - [ ] https://growthinsight.com.br/p/mentira
 - [ ] https://growthinsight.com.br/p/mentoria-premium-high-ic-zero-click
 - [ ] https://growthinsight.com.br/p/metodo-meyvn-consultoria
@@ -100,15 +100,15 @@
 - [x] https://growthinsight.com.br/p/nichos-novo-oceano-azul
 - [x] https://growthinsight.com.br/p/novo-marketing-ia-gen-marketer
 - [x] https://growthinsight.com.br/p/o-fim-do-fim-dos-cookies
-- [ ] https://growthinsight.com.br/p/os-melhores-livros-para-profissionais-de-marketing
+- [x] https://growthinsight.com.br/p/os-melhores-livros-para-profissionais-de-marketing
 - [ ] https://growthinsight.com.br/p/papo-de-gestao-g4-witt
 - [x] https://growthinsight.com.br/p/patrocinio-paixao
 - [ ] https://growthinsight.com.br/p/pedi-demissao-esmagado
 - [x] https://growthinsight.com.br/p/planejamento-estrategico
 - [x] https://growthinsight.com.br/p/plano-306090-como-se-dar-bem-no-incio-como-cmo
 - [x] https://growthinsight.com.br/p/playbook-events-marketing-parte1
-- [ ] https://growthinsight.com.br/p/playbook-events-marketing-parte2
-- [ ] https://growthinsight.com.br/p/playbook-events-marketing-parte3
+- [x] https://growthinsight.com.br/p/playbook-events-marketing-parte2
+- [x] https://growthinsight.com.br/p/playbook-events-marketing-parte3
 - [x] https://growthinsight.com.br/p/playbook-outbound-2025
 - [ ] https://growthinsight.com.br/p/podcast-001-marketing-negocio
 - [ ] https://growthinsight.com.br/p/podcast-004-copywriting
@@ -116,20 +116,20 @@
 - [ ] https://growthinsight.com.br/p/podcast-analise
 - [x] https://growthinsight.com.br/p/positioning-messaging-copy
 - [ ] https://growthinsight.com.br/p/premium-e-ano-novo
-- [ ] https://growthinsight.com.br/p/product-market-fit
+- [x] https://growthinsight.com.br/p/product-market-fit
 - [x] https://growthinsight.com.br/p/product-marketing
 - [ ] https://growthinsight.com.br/p/proximo-passo-carreira
 - [x] https://growthinsight.com.br/p/rebranding
 - [x] https://growthinsight.com.br/p/reputacao-relacionamento-alcance-resultado-marketing-b2b
 - [ ] https://growthinsight.com.br/p/retrospectiva-2025
-- [ ] https://growthinsight.com.br/p/reunioes-rotinas-rituais
+- [x] https://growthinsight.com.br/p/reunioes-rotinas-rituais
 - [x] https://growthinsight.com.br/p/saaspocalypse-agentes-ia
 - [x] https://growthinsight.com.br/p/sales-buyer-enablement
 - [x] https://growthinsight.com.br/p/say-name-tcnicas-para-construir-o-nome-de-marca-ideal
 - [x] https://growthinsight.com.br/p/scorecard-icp
 - [ ] https://growthinsight.com.br/p/semanas-caoticas
-- [ ] https://growthinsight.com.br/p/time-de-marketing
+- [x] https://growthinsight.com.br/p/time-de-marketing
 - [ ] https://growthinsight.com.br/p/trabalho-focado
 - [x] https://growthinsight.com.br/p/trilema-marketing-ia
 - [x] https://growthinsight.com.br/p/zero-click-marketing
-- [ ] https://growthinsight.com.br/p/zirp-boring-growth
+- [x] https://growthinsight.com.br/p/zirp-boring-growth

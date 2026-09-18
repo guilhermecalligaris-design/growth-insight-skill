@@ -69,3 +69,11 @@
 | Âncoras & elétrons + "Já que… e se…" | Concentrar + desdobrar/repurpose | [ancoras](https://growthinsight.com.br/p/ancoras-e-eletrons) | canais-taticas.md |
 | BIC + 3 pilares (idioma/skin-in-game/IA) | Marketing como arquiteto de receita | [posicao-2026](https://growthinsight.com.br/p/crise-reputacional-marketing) | gestao-carreira.md |
 | Sistema de crescimento (aq/ret/eng/mon) vs growth hacker | Growth é processo, não pessoa | [mito](https://growthinsight.com.br/p/mito-growth-hacker) | growth.md |
+| Eventos: eventos-chave + território + trio + 4 blocos + 50-10-2 | Selecionar/executar eventos | [events2](https://growthinsight.com.br/p/playbook-events-marketing-parte2) | canais-taticas.md |
+| PR como autoridade + subverter playbook (case Swile) | Guerrilha B2B / derrubar incumbente | [rd-summit](https://growthinsight.com.br/p/derrubando-gigantes-rd-summit) | canais-taticas.md |
+| Jornada 4 etapas + árvore de métricas + linha mestra | Coerência do funil (conectar os pontos) | [conectar](https://growthinsight.com.br/p/conectar-os-pontos) | canais-taticas.md |
+| Burn Multiple + CAC Payback + NRR + Rule of 40 | Boring growth / default alive | [zirp](https://growthinsight.com.br/p/zirp-boring-growth) | growth.md |
+| Vohra 40% + tripé Balfour + curva de retenção | Medir PMF | [pmf2](https://growthinsight.com.br/p/product-market-fit) | growth.md |
+| RACI + RAPID + Maker/Manager Schedule | Reuniões, rotinas e rituais | [rituais](https://growthinsight.com.br/p/reunioes-rotinas-rituais) | gestao-carreira.md |
+| Modelo Emily Kramer + estrutura Gary Vee | Montar time de marketing | [time](https://growthinsight.com.br/p/time-de-marketing) | gestao-carreira.md |
+| Lógica da inversão + diferenciação×paridade + arquiteto/síndico | Aprender a pensar e aprender | [deep-growth](https://growthinsight.com.br/p/aprendendo-a-pensar-e-aprender-deep-growth) | gestao-carreira.md |

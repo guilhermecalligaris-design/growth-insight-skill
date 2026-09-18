@@ -133,3 +133,33 @@ Canais/conteúdo · [fonte](https://growthinsight.com.br/p/marketing-de-conteudo
 
 **Tese (parte visível):** Conteúdo que funciona em 2025 depende de capturar atenção, nutrir relacionamento e montar uma "máquina de conteúdo" com métrica clara — via teste contextualizado, não fórmula universal ("se houvesse jeito infalível, teria zeros a mais na conta").
 **Takeaway:** a execução prática (frameworks e o "o que funciona/não funciona") é premium — **lacuna** (complementa Marketing de conteúdo pt1 acima).
+
+## Selecionar e executar eventos — playbook (partes 2-3)
+Canais/eventos · [pt2 (seleção)](https://growthinsight.com.br/p/playbook-events-marketing-parte2) · [pt3 (execução)](https://growthinsight.com.br/p/playbook-events-marketing-parte3) · [visão geral](https://growthinsight.com.br/p/eventos-podcast) · Felipe Witt & Felipe Collins
+
+**Tese:** O maior custo de evento é o **custo de oportunidade** — selecionar exige dizer não a bons eventos pra chegar nos excelentes; e **60% do sucesso é o trabalho invisível pré-evento**.
+**Frameworks (seleção, pt2):** *Eventos-chave* (vantagem competitiva × evitar desvantagem/invisibilidade × evento de mercado por paridade). *Estratégia de território* (zona de ataque: investe agressivo × zona de defesa: presença consistente pra barrar concorrente). *Trio de avaliação* (alinhamento de audiência/ICP + mindset de compra + potencial de ROI). *Retorno esperado por tipo* — Feira 70% venda/30% marca · Congresso 50/50 · Relacionamento 20/80.
+**Frameworks (execução, pt3):** *4 blocos pré-evento* — Projeto (stakeholder/timeline/orçamento) + Mensagem (1 posicionamento) + Criação (mensagem → experiência física) + Treinamento. *Regra 50-10-2* (mensagem legível a 50m → 10m → 2m). *ROI de 12 meses* (considera ciclo de venda e influência indireta).
+**Táticas:** mapear 200+ eventos/ano (ChatGPT + media kits + veteranos) → filtrar por restrição pra ~10-15; apresentar estratégia unificada antes de pedir budget, com Vendas de aliado; negociar exclusividade de segmento/contrato longo (defesa); no dia: lote de lead por temperatura, escala anti-fadiga, incentivo por captura, formulário offline em tablet (não ler crachá — LGPD); pós: fluxo de nutrição pro frio, lista vira audiência de anúncio, material de sales enablement.
+**Exemplos:** Swile (200+ → 10-15 eventos, 64/ano com 2 pessoas; painel com RH de Microsoft/Pepsi/Oracle) · concorrente com "limusine rosa" (stunt).
+**Anti-padrões:** ignorar custo de oportunidade / FOMO sem alinhamento; abandonar zona de defesa (concorrente infiltra); mensagem vazia ("abraçamos seus desafios", "sinergia"); ler crachá (LGPD); analisar só atribuição direta ignorando influência.
+**Takeaway:** calendário eficaz = mapear 200+ → filtrar por estratégia/restrição → eventos-chave → território → ROI multivariável; e ganhar o evento **antes** dele começar. (Estende Event Marketing pt1 acima.)
+
+## Derrubando gigantes — o case Swile no RD Summit (guerrilha B2B)
+Canais/guerrilha · [fonte](https://growthinsight.com.br/p/derrubando-gigantes-rd-summit) · Felipe Witt
+
+**Tese:** Incumbente fica preguiçoso pela hegemonia; a startup vence não por produto superior, mas por **marca, narrativa e reputação** subvertendo o playbook com criatividade em vez de verba.
+**Frameworks/táticas:** *Posicionamento B2C em produto B2B* ("cartão de comer", não "de benefícios"). *PR como canal de autoridade* (não aquisição — só pauta com valor pro jornalista). *Subverter playbook* (evento como festival, não conferência). *Controle de narrativa* + parceria Marketing × área especialista (RH/Produto).
+**Fatos:** 3 mil usuários (2020) → 30× depois; um evento top rendeu **2 meses de pipeline em 3 dias**; 136 publicações Tier 1/2 em 90 dias (~1,5 citação/dia orgânica); #VaiTerFeriadoSim = 45 matérias; **Effie 2024 ouro B2B** (única marca B2B premiada); +120 assinantes numa palestra.
+**Anti-padrões:** narrativa "novo vs velho" (novo = incerteza pro comprador); PR como aquisição ("outbound piorado", queima jornalista); defender produto em vez de construir reputação; esperar recurso abundante pra inovar.
+**Takeaway:** "questione tudo, execute com criatividade, comece hoje" — reputação como influenciador de tendência vira fator de compra duradouro. (Aplica Guerrilha & emboscada e Zero-Click acima.)
+
+## Criatividade é conectar os pontos (coerência do funil)
+Canais/integração · [fonte](https://growthinsight.com.br/p/conectar-os-pontos) · Felipe Collins
+
+**Tese:** Platô de crescimento vem da **desconexão** entre iniciativas, não da falta delas — integrar anúncio → LP → inside sales → produto sob uma narrativa central multiplica o mesmo esforço.
+**Frameworks:** *Jornada de 4 etapas* (Anúncio → Landing → Inside Sales → Produto). *Árvore de métricas* (KPI de cada área apontando pra receita). *Linha mestra de storytelling* (narrativa que atravessa todo ponto de contato). *Maldição do conhecimento* + *entropia organizacional* (silo + métrica desalinhada degradam o sistema).
+**Táticas:** criativo específico pro público (não genérico); tráfego pra LP que espelha o anúncio (não homepage), com o problema nas 2 primeiras dobras e form mínimo; inside sales que lê o histórico do lead (não repergunta) e cumpre a promessa do CTA; qualificar antes de vender; mapear conexões canal↔mensagem↔métrica (Miro) e alinhar bônus/KPI à receita.
+**Exemplos:** "Ace Ventura em DVD" (5 erros de desconexão: público errado → criativo solto → homepage → BDR reperguntando → cliente sem tocador de DVD) · Alice ("saúde como deve ser": reajuste 40% menor ancorado na narrativa de gestão proativa).
+**Anti-padrões:** fazer *mais* quando estagna (piora o desalinhamento); falar "baleiês" (jargão que o mercado não usa); conteúdo "teste Buzzfeed" só por tráfego; metrificar cada área isolada sem árvore central.
+**Takeaway:** foque na **qualidade da conexão**, não no volume de ações — pontos conectados rendem exponencialmente mais. (Casa com Âncoras & elétrons acima.)

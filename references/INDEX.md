@@ -73,3 +73,15 @@
 | [marketing-de-conteudo-2](https://growthinsight.com.br/p/marketing-de-conteudo-2) | Marketing de conteúdo pt2 (lacuna premium) | canais-taticas.md |
 | [crise-reputacional-marketing](https://growthinsight.com.br/p/crise-reputacional-marketing) | Marketing: de tático a arquiteto de receita | gestao-carreira.md |
 | [mito-growth-hacker](https://growthinsight.com.br/p/mito-growth-hacker) | O mito do growth hacker | growth.md |
+| [events pt2/pt3 + eventos-podcast](https://growthinsight.com.br/p/playbook-events-marketing-parte2) | Selecionar e executar eventos | canais-taticas.md |
+| [derrubando-gigantes-rd-summit](https://growthinsight.com.br/p/derrubando-gigantes-rd-summit) | Case Swile RD Summit (guerrilha B2B) | canais-taticas.md |
+| [conectar-os-pontos](https://growthinsight.com.br/p/conectar-os-pontos) | Criatividade = conectar os pontos | canais-taticas.md |
+| [zirp-boring-growth](https://growthinsight.com.br/p/zirp-boring-growth) | Boring Growth pós-ZIRP (Rule of 40) | growth.md |
+| [product-market-fit](https://growthinsight.com.br/p/product-market-fit) | PMF mensurável (Vohra/Balfour) | growth.md |
+| [reunioes-rotinas-rituais](https://growthinsight.com.br/p/reunioes-rotinas-rituais) | Reuniões/rotinas/rituais (RACI/RAPID) | gestao-carreira.md |
+| [time-de-marketing](https://growthinsight.com.br/p/time-de-marketing) | Montar time (Kramer/Gary Vee) | gestao-carreira.md |
+| [aprendendo-a-pensar...deep-growth](https://growthinsight.com.br/p/aprendendo-a-pensar-e-aprender-deep-growth) | Aprender a pensar e aprender | gestao-carreira.md |
+| [ceo-nao-confia](https://growthinsight.com.br/p/ceo-nao-confia) | Quando o CEO não confia no marketing | gestao-carreira.md |
+| [competencias-storytelling-networking](https://growthinsight.com.br/p/competencias-storytelling-e-networking-carreira) | Transição de carreira 3 pilares (lacuna premium) | gestao-carreira.md |
+| [os-melhores-livros-...marketing](https://growthinsight.com.br/p/os-melhores-livros-para-profissionais-de-marketing) | Livros por estágio de carreira | livros-curadoria.md |
+| [melhores-livros-por-especialidade](https://growthinsight.com.br/p/melhores-livros-por-especialidade-de-marketing) | Livros por especialidade | livros-curadoria.md |
