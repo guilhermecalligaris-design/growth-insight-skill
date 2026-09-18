@@ -163,3 +163,13 @@ Canais/integração · [fonte](https://growthinsight.com.br/p/conectar-os-pontos
 **Exemplos:** "Ace Ventura em DVD" (5 erros de desconexão: público errado → criativo solto → homepage → BDR reperguntando → cliente sem tocador de DVD) · Alice ("saúde como deve ser": reajuste 40% menor ancorado na narrativa de gestão proativa).
 **Anti-padrões:** fazer *mais* quando estagna (piora o desalinhamento); falar "baleiês" (jargão que o mercado não usa); conteúdo "teste Buzzfeed" só por tráfego; metrificar cada área isolada sem árvore central.
 **Takeaway:** foque na **qualidade da conexão**, não no volume de ações — pontos conectados rendem exponencialmente mais. (Casa com Âncoras & elétrons acima.)
+
+## O negócio das newsletters (canal e produto de conteúdo)
+Canais/newsletter · [fonte](https://growthinsight.com.br/p/newsletter-business) · Felipe Collins
+
+**Tese:** Newsletter é canal subestimado de relacionamento e negócio real — é **produto de conteúdo**, não e-mail marketing promocional.
+**Frameworks:** *Formatos* — curadoria de notícia · curadoria por tema · autoral (visão do criador) · analítica (deep dive). *Monetização* — assinatura paga (Lenny's, Stratechery) · publicidade (CPM por audiência qualificada) · ecossistema (vender curso/comunidade/evento). *Usos estratégicos* — editorial/thought leadership (reputação) · use cases (mostrar valor do produto).
+**Táticas:** opt-in com contexto (não spam); consistência de cadência/tema/tom; nicho sobre alcance massivo; lead magnet + mídia paga + social pra crescer; feedback contínuo.
+**Exemplos:** Morning Brew/TLDR (curadoria) · No Mercy No Malice / Growth Insight (autoral) · Lenny's (US$2M/ano) · First Round Review (thought leadership).
+**Anti-padrões:** forçar vários modelos de receita ao mesmo tempo; e-mail promocional disfarçado; scraping/disparo em massa (ilegal, queima reputação); falta de consistência.
+**Takeaway:** conteúdo bom pra audiência nichada + consistência = crescimento; newsletter prospera no relacional, não só no alcance. (Casa com Zero-Click e a camada de mídia própria.)

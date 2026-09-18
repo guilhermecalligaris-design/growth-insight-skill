@@ -50,3 +50,10 @@ Branding/case · [fonte](https://growthinsight.com.br/p/campanha-cancelamento-ha
 **Fatos:** 180M+ views totais; buscas explodiram (concorrente Ipanema não subiu); ALPA3 caiu e recuperou ao maior valor em 30 dias; LPA de setembro +58% vs projetado.
 **Anti-padrões:** entrar em pânico e tirar o conteúdo do ar; ler metáfora de atitude como mensagem política; achar que toda view negativa prejudica.
 **Takeaway:** marca democrática amplifica o efeito quando transforma controvérsia em curiosidade **sem ceder ao pânico reputacional**. (Complementa Confiança e reputação acima.)
+
+## Cyberpunk 2077 — redenção de marca (case, 4 atos)
+Branding/case · [fonte](https://growthinsight.com.br/p/cyberpunk2077) · Felipe Collins *(premium 👑 — corpo pago; lacuna)*
+
+**Tese (parte visível):** A trajetória do Cyberpunk 2077 é um case de negócio em 4 atos — hype pré-lançamento → fracasso (expectativa frustrada) → transformação operacional radical → redenção da marca (arco do herói corporativo).
+**Lições (visíveis):** gestão de expectativa em lançamento grande; recuperação de reputação pós-falha exige **mudança operacional real**, não só comunicação; entrega consistente reconstrói confiança.
+**Takeaway:** redenção de marca é possível via transformação operacional + entrega consistente (detalhe é premium — **lacuna**). (Casa com Confiança e reputação acima.)

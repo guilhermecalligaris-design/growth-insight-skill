@@ -162,3 +162,11 @@ Gestão/founders · [fonte](https://growthinsight.com.br/p/combinado-founders) �
 
 **Tese (parte visível):** Desalinhamento entre sócios mata startup — alinhar expectativa e valor cedo evita o conflito. Usa o **template do Hampton** com 4 eixos: "o que é importante pra mim", "o que penso de um projeto de conteúdo", "o que eu não quero", "como é trabalhar comigo" (≤8 bullets cada).
 **Takeaway:** documentar expectativa mútua antes de operar previne o "cada um puxando pra um lado" (detalhe é premium — **lacuna**).
+
+## Decisão de carreira sob incerteza (responsabilidade > culpa)
+Gestão/carreira · [fonte](https://growthinsight.com.br/p/pedi-demissao-esmagado) · Felipe Witt
+
+**Tese:** Decisão de carreira exige método e autoconsciência — mesmo uma boa decisão (com a informação de então) pode frustrar, e isso não invalida o raciocínio; o que importa depois é **responsabilidade (presente), não culpa (passado)**.
+**Frameworks:** *6 perspectivas* pra avaliar proposta (as mesmas 6 dicas acima) · *Risco × Retorno* (o retorno é proporcional ao risco?) · *Armadilha do otimismo* (imaginar futuro e passado alternativo melhores que o real) · *3 opções pragmáticas* (aceitar / lutar pra mudar / sair — rejeitar a reclamação passiva).
+**Táticas:** perguntar na entrevista sobre GTM, expectativa real e apoio × autonomia; alinhar decisão ao propósito (não só à motivação); relembrar a razão original quando frustrado.
+**Takeaway:** "você tomou a melhor decisão com a informação que tinha" — frustração posterior não invalida o raciocínio; aja no presente. (Usa as 6 dicas de proposta acima.)

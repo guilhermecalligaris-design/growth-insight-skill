@@ -107,3 +107,11 @@ Estratégia/mapa · [fonte](https://growthinsight.com.br/p/curadoria-7-temas) ·
 - **Time & liderança:** CMO dura ~18 meses; ~80% dos CEOs não confiam em marketing.
 - **IA & futuro:** o Gen Marketer gera US$2-4M/funcionário (vs ~US$300k do SaaS tradicional).
 **Takeaway:** marketing moderno = rigor financeiro + clareza estratégica + fim do hype; **sustância vence campanha bonita**; IA multiplica expertise, não substitui repertório.
+
+## Marketing é negócio (Growth Insight Podcast #001 + Papo de Gestão/G4)
+Estratégia/fundamentos · [podcast #001](https://growthinsight.com.br/p/podcast-001-marketing-negocio) · [Papo de Gestão G4](https://growthinsight.com.br/p/papo-de-gestao-g4-witt) · Felipe Collins & Felipe Witt (com Bruno Nardon)
+
+**Tese:** "O marketing fácil acabou" — marketing não é comunicação, é ferramenta estratégica ligada ao P&L; a virada é dominar fundamento (posicionamento, mercado endereçável, distribuição), não técnica da moda.
+**Ideias-chave:** desalinhamento de expectativa (esperam resultado imediato de ação promocional); silo (marketing isolado de vendas/produto/finanças); métrica inadequada (vaidade > receita); base teórica fraca (moda > clássico); marca como argumento de venda; especificidade gera conexão (mensagem clara pega ~20% visceralmente); Gen Marketer (generalista + IA).
+**Táticas:** amarrar meta a SAL/receita (não MQL); cortar o mercado pra criar mensagem específica; investir mais por pessoa gastando menos no total; "focar no tédio" (crescimento vem de processo bem executado, não de ideia genial); ler DRE e calcular ROI; entender o modelo de negócio antes da tática.
+**Takeaway:** "não estamos fazendo o básico bem feito" — a transformação é execução fundamentada, não revolução; a IA amplifica quem você já é. (Núcleo do corpus: casa com Arroz-feijão, 3 dúvidas e Gen Marketer.)

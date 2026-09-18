@@ -94,3 +94,15 @@
 | [dizer-não/deep-work/caos/resoluções](https://growthinsight.com.br/p/como-dizer-nao) | Produtividade & foco | gestao-carreira.md |
 | [carreira: próximo passo/transição/proposta](https://growthinsight.com.br/p/proximo-passo-carreira) | Decidir o próximo passo de carreira | gestao-carreira.md |
 | [combinado-founders](https://growthinsight.com.br/p/combinado-founders) | Alinhamento de founders (lacuna premium) | gestao-carreira.md |
+| [2024-retrospectiva](https://growthinsight.com.br/p/2024-retrospectiva) | Retrospectiva 2024 | tendencias.md |
+| [retrospectiva-2025](https://growthinsight.com.br/p/retrospectiva-2025) | Retrospectiva 2025 | tendencias.md |
+| [futurospectiva-acerto-de-contas](https://growthinsight.com.br/p/futurospectiva-o-acerto-de-contas-de-2025) | Futurospectiva 2025 (7 apostas) | tendencias.md |
+| [futurospectiva-2025-parte-2](https://growthinsight.com.br/p/futurospectiva-2025-parte-2) | Futurospectiva pt2 (lacuna premium) | tendencias.md |
+| [futurospectiva-2025-redes-sociais](https://growthinsight.com.br/p/futurospectiva-2025-redes-sociais) | Futurospectiva redes (lacuna premium) | tendencias.md |
+| [feliz-ano-novo-2026](https://growthinsight.com.br/p/feliz-ano-novo-2026) | Virada 2026 (edição festiva) | tendencias.md |
+| [newsletter-business](https://growthinsight.com.br/p/newsletter-business) | O negócio das newsletters | canais-taticas.md |
+| [pedi-demissao-esmagado](https://growthinsight.com.br/p/pedi-demissao-esmagado) | Decisão de carreira sob incerteza | gestao-carreira.md |
+| [podcast-001 + papo-de-gestao-g4](https://growthinsight.com.br/p/podcast-001-marketing-negocio) | Marketing é negócio | estrategia.md |
+| [8-podcasts-impacto-2025](https://growthinsight.com.br/p/8-podcasts-impacto-2025) | 8 podcasts de impacto 2025 | livros-curadoria.md |
+| [podcast-004 + podcast-005](https://growthinsight.com.br/p/podcast-004-copywriting) | GI Podcast (copy, PMF) | livros-curadoria.md |
+| [cyberpunk2077](https://growthinsight.com.br/p/cyberpunk2077) | Redenção de marca (lacuna premium) | branding.md |

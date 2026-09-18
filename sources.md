@@ -3,12 +3,12 @@
 131 edições. Status: [ ] pendente · [x] condensado · [P] premium/paywall (lacuna).
 
 - [ ] https://growthinsight.com.br/p/100-edicoes-growth-insight
-- [ ] https://growthinsight.com.br/p/2024-retrospectiva
+- [x] https://growthinsight.com.br/p/2024-retrospectiva
 - [x] https://growthinsight.com.br/p/3-duvidas-marketing-4000-empresarios
 - [x] https://growthinsight.com.br/p/5-skills-para-claude
 - [x] https://growthinsight.com.br/p/6-dicas-proposta-emprego
 - [P] https://growthinsight.com.br/p/7-licoes-5-anos-diretor-marketing-swile
-- [ ] https://growthinsight.com.br/p/8-podcasts-impacto-2025
+- [x] https://growthinsight.com.br/p/8-podcasts-impacto-2025
 - [x] https://growthinsight.com.br/p/abandone-resolucoes-ano-novo
 - [x] https://growthinsight.com.br/p/agile-marketing
 - [x] https://growthinsight.com.br/p/ai-overview-seo
@@ -52,7 +52,7 @@
 - [x] https://growthinsight.com.br/p/crise-reputacional-marketing
 - [x] https://growthinsight.com.br/p/cro-tedio-psych-fomu
 - [x] https://growthinsight.com.br/p/curadoria-7-temas
-- [ ] https://growthinsight.com.br/p/cyberpunk2077
+- [P] https://growthinsight.com.br/p/cyberpunk2077
 - [x] https://growthinsight.com.br/p/demand-gen-95-5
 - [x] https://growthinsight.com.br/p/derrubando-gigantes-rd-summit
 - [x] https://growthinsight.com.br/p/diversificar-canais-aquisicao
@@ -62,12 +62,12 @@
 - [P] https://growthinsight.com.br/p/estrategia-de-pr-e-imprensa
 - [x] https://growthinsight.com.br/p/estudo-softbank-performance-vs-branding
 - [x] https://growthinsight.com.br/p/eventos-podcast
-- [ ] https://growthinsight.com.br/p/feliz-ano-novo-2026
+- [x] https://growthinsight.com.br/p/feliz-ano-novo-2026
 - [x] https://growthinsight.com.br/p/financas-para-marketing
 - [x] https://growthinsight.com.br/p/fuel-engine-framework
-- [ ] https://growthinsight.com.br/p/futurospectiva-2025-parte-2
-- [ ] https://growthinsight.com.br/p/futurospectiva-2025-redes-sociais
-- [ ] https://growthinsight.com.br/p/futurospectiva-o-acerto-de-contas-de-2025
+- [P] https://growthinsight.com.br/p/futurospectiva-2025-parte-2
+- [P] https://growthinsight.com.br/p/futurospectiva-2025-redes-sociais
+- [x] https://growthinsight.com.br/p/futurospectiva-o-acerto-de-contas-de-2025
 - [x] https://growthinsight.com.br/p/good-copy-bad-copy
 - [x] https://growthinsight.com.br/p/gotomarket-slg-mlg-plg
 - [ ] https://growthinsight.com.br/p/growth-insight-advisory
@@ -96,23 +96,23 @@
 - [x] https://growthinsight.com.br/p/monetizacao-parte2
 - [x] https://growthinsight.com.br/p/mudancas-de-carreira
 - [x] https://growthinsight.com.br/p/network-effects-principalidade-ai
-- [ ] https://growthinsight.com.br/p/newsletter-business
+- [x] https://growthinsight.com.br/p/newsletter-business
 - [x] https://growthinsight.com.br/p/nichos-novo-oceano-azul
 - [x] https://growthinsight.com.br/p/novo-marketing-ia-gen-marketer
 - [x] https://growthinsight.com.br/p/o-fim-do-fim-dos-cookies
 - [x] https://growthinsight.com.br/p/os-melhores-livros-para-profissionais-de-marketing
-- [ ] https://growthinsight.com.br/p/papo-de-gestao-g4-witt
+- [x] https://growthinsight.com.br/p/papo-de-gestao-g4-witt
 - [x] https://growthinsight.com.br/p/patrocinio-paixao
-- [ ] https://growthinsight.com.br/p/pedi-demissao-esmagado
+- [x] https://growthinsight.com.br/p/pedi-demissao-esmagado
 - [x] https://growthinsight.com.br/p/planejamento-estrategico
 - [x] https://growthinsight.com.br/p/plano-306090-como-se-dar-bem-no-incio-como-cmo
 - [x] https://growthinsight.com.br/p/playbook-events-marketing-parte1
 - [x] https://growthinsight.com.br/p/playbook-events-marketing-parte2
 - [x] https://growthinsight.com.br/p/playbook-events-marketing-parte3
 - [x] https://growthinsight.com.br/p/playbook-outbound-2025
-- [ ] https://growthinsight.com.br/p/podcast-001-marketing-negocio
-- [ ] https://growthinsight.com.br/p/podcast-004-copywriting
-- [ ] https://growthinsight.com.br/p/podcast-005-product-market-fit
+- [x] https://growthinsight.com.br/p/podcast-001-marketing-negocio
+- [x] https://growthinsight.com.br/p/podcast-004-copywriting
+- [x] https://growthinsight.com.br/p/podcast-005-product-market-fit
 - [ ] https://growthinsight.com.br/p/podcast-analise
 - [x] https://growthinsight.com.br/p/positioning-messaging-copy
 - [ ] https://growthinsight.com.br/p/premium-e-ano-novo
@@ -121,7 +121,7 @@
 - [x] https://growthinsight.com.br/p/proximo-passo-carreira
 - [x] https://growthinsight.com.br/p/rebranding
 - [x] https://growthinsight.com.br/p/reputacao-relacionamento-alcance-resultado-marketing-b2b
-- [ ] https://growthinsight.com.br/p/retrospectiva-2025
+- [x] https://growthinsight.com.br/p/retrospectiva-2025
 - [x] https://growthinsight.com.br/p/reunioes-rotinas-rituais
 - [x] https://growthinsight.com.br/p/saaspocalypse-agentes-ia
 - [x] https://growthinsight.com.br/p/sales-buyer-enablement

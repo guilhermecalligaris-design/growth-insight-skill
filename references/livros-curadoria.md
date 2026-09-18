@@ -24,3 +24,24 @@ Referência/livros · [fonte](https://growthinsight.com.br/p/melhores-livros-por
 **Vendas & negociação:** SPIN Selling (Neil Rackham) · The Challenger Sale (Dixon & Adamson) · Getting to Yes (Fisher & Ury).
 **Startups & estratégia:** Entendendo Michael Porter (Joan Magretta) · Zero to One (Peter Thiel) · The Innovator's Dilemma (Clayton Christensen) · The Lean Startup (Eric Ries).
 **Takeaway:** "a batalha de marketing acontece na mente do cliente" — curadoria por linha de competência (Premium: database Notion com 211+ livros, com sinopse e link).
+
+## 8 podcasts de impacto (2025)
+Referência/podcasts · [fonte](https://growthinsight.com.br/p/8-podcasts-impacto-2025) · Felipe Collins
+
+**Curadoria de episódios internacionais + o insight de cada:**
+1. **Graham Weaver (Stanford GSB)** — sair do piloto automático; "se o sucesso fosse garantido, o que escolheria?" (Genie Goal).
+2. **Ivan Zhao (Notion)** — os "anos perdidos"; cobrir visão complexa com feature simples ("brócolis com açúcar"); time enxuto.
+3. **Rahul Vohra (Superhuman)** — ignorar feedback genérico; priorizar só o usuário apaixonado; viralidade é mito.
+4. **Sebastian Barrios (Mercado Livre)** — cultura engineering-led; observar comportamento > perguntar.
+5. **Ben Horowitz (a16z)** — psicologia da liderança; correr na direção do medo.
+6. **Nan Yu (Linear)** — velocidade + competência = qualidade; deadline P0 corta escopo (não estima).
+7. **David Placek (Lexicon)** — nome polarizador é bom; rejeição inicial é sinal positivo.
+8. **Stewart Butterfield (Slack)** — reduzir carga cognitiva (não cliques); líder de produto perpetuamente insatisfeito.
+**Takeaway:** os melhores insights de produto/growth de 2025 convergem em foco no usuário apaixonado, time enxuto e simplicidade cognitiva.
+
+## Growth Insight Podcast — episódios (copywriting, PMF)
+Referência/podcasts · [#004 copywriting](https://growthinsight.com.br/p/podcast-004-copywriting) · [#005 PMF](https://growthinsight.com.br/p/podcast-005-product-market-fit) · Felipe Collins & Felipe Witt
+
+**#004 — o abismo entre "escrever bem" e "escrever pra vender":** a boa copy começa antes da 1ª palavra (quem, onde, qual decisão); rejeita tanto o feature-centrismo quanto a promessa genérica → "capacidade ancorada em caso de uso concreto"; especificidade (número/contexto) > hipérbole/jargão; gatilho mental é arquitetura de argumento, não truque. (Aprofunda Good/Bad Copy.)
+**#005 — PMF de verdade:** dá pra crescer e faturar **sem** PMF, mas a empresa fica frágil; validar a hipótese de valor (por que usaria + qual mercado tem a dor + qual cobrança funciona) antes de perseguir PMF; Sean Ellis Test + segmentar feedback (foco no "muito decepcionado"); PMF é temporário, exige monitoramento. (Aprofunda o Guia de PMF e o PMF mensurável.)
+**Takeaway:** os episódios reforçam os pilares do corpus — copy = promessa + capacidade específica; PMF = hipótese de valor mensurável.

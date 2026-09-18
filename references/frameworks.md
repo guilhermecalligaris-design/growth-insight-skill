@@ -84,3 +84,6 @@
 | Feynman + repetição espaçada + prática deliberada + carga cognitiva | Aprender a aprender | [aprendizado](https://growthinsight.com.br/p/aprendizado) | gestao-carreira.md |
 | Arte do não (Voss/Kao/Sivers) + Deep Work (Newport) + LNO | Produtividade & foco | [dizer-nao](https://growthinsight.com.br/p/como-dizer-nao) | gestao-carreira.md |
 | Inversão + competência×satisfação + 4 tipos de transição + 6 dicas | Decidir o próximo passo de carreira | [carreira](https://growthinsight.com.br/p/proximo-passo-carreira) | gestao-carreira.md |
+| 7 apostas de tendência 2025 (IA/branding/creator) | Futurospectiva (previsão auditada) | [futuro](https://growthinsight.com.br/p/futurospectiva-o-acerto-de-contas-de-2025) | tendencias.md |
+| Formatos + 3 modelos de monetização de newsletter | Newsletter como canal e negócio | [newsletter](https://growthinsight.com.br/p/newsletter-business) | canais-taticas.md |
+| Risco×Retorno + armadilha do otimismo + 3 opções | Decisão de carreira sob incerteza | [demissao](https://growthinsight.com.br/p/pedi-demissao-esmagado) | gestao-carreira.md |
