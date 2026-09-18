@@ -107,3 +107,29 @@ Canais/conteúdo · [fonte](https://growthinsight.com.br/p/marketing-de-conteudo
 **Tese (parte visível):** O marketing de conteúdo passa por transformação radical (tecnologia, algoritmo, comportamento) e virou commodity — as barreiras de entrada caíram, exigindo reposicionamento estratégico.
 **Contexto (visível):** fatores de mudança = internet móvel, social, busca, fim dos cookies; players históricos Rock Content (1ª onda) e RD Station (maior inbound BR).
 **Takeaway:** entender a trajetória histórica é pré-requisito pra navegar a saturação atual (o desenvolvimento estratégico é premium — **lacuna**).
+
+## O fim do fim dos cookies — medir num mundo sem atribuição perfeita
+Canais/mensuração · [fonte](https://growthinsight.com.br/p/o-fim-do-fim-dos-cookies) · Felipe Collins
+
+**Tese:** O Google desistiu de matar o cookie de terceiro, mas a direção não muda: com privacidade crescente, ganha quem equilibra **dado próprio + diversificação + criatividade**, aceitando ambiguidade na medição.
+**Frameworks:** *First-party × third-party* (dado do próprio site × de plataforma externa). *Banda de verba pra teste* (alocar pra experimento com hipótese e grupo de controle, sem exigir atribuição precisa). *Marketing do século XX* (voltar a decidir com menos atribuição granular).
+**Táticas:** construir base first-party pra acionar em plataformas; diversificar além de Google/Meta; testar com hipótese + controle em vez de perseguir atribuição; investir em criatividade/ressonância no lugar da hiper-segmentação; analytics alternativo (HockeyStack, RB2B).
+**Exemplos:** iOS 14/ATT (2021) derrubou ação de Meta/Google · QuintoAndar (campanha com ATT ligado × desligado).
+**Anti-padrões:** depender 100% de um canal; usar "falta de atribuição" como desculpa pra inação; apostar só em startup cookieless (maioria não sobrevive); confundir banda de teste com gasto irresponsável.
+**Takeaway:** aceite a ambiguidade de medição e ganhe com **dado próprio + diversificação + criatividade**. (Ecoa a atribuição quebrada do funil-allu.)
+
+## Âncoras e elétrons — poucas ações-chave, muitos desdobramentos
+Canais/distribuição · [fonte](https://growthinsight.com.br/p/ancoras-e-eletrons) · Felipe Collins
+
+**Tese:** Concentre esforço em poucas **âncoras** (ações-chave) e desdobre cada uma em vários **elétrons** (formatos/canais) — mais impacto com menos dispersão.
+**Frameworks:** *Âncoras & elétrons* (estratégia central sustentada por muitas pequenas ações adaptadas). *Fórmula "Já que… e se…"* pra achar desdobramento de uma ação-mãe. *Antítese "cabeça de executor"* — trabalhar por volume sem conexão estratégica.
+**Táticas:** gravar 1 evento e virar vídeo curto + post + blog + podcast + PR + material; 1 report proprietário distribuído em evento + imprensa + trilha educativa + social; coordenar social/conteúdo/mídia/vendas sob a mesma âncora (não silo); repurpose (1 fonte → dezenas de peças, à la Gary Vee).
+**Exemplos:** Pulso RH (Alice), Calendário RH (Swile), Detention Zero (ElloX) — report/ferramenta como âncora, imprensa/influenciador/parceria como elétrons.
+**Anti-padrões:** 5+ eventos internos iguais sem diferenciação; enterrar esforço num PDF genérico mal distribuído; patrocinar evento caro sem ativação; silo entre canais; spray-and-pray de coisinhas desconexas.
+**Takeaway:** foco em poucas atividades-chave bem exploradas rende mais que dezenas de iniciativas soltas.
+
+## Marketing de conteúdo — a prática (parte 2)
+Canais/conteúdo · [fonte](https://growthinsight.com.br/p/marketing-de-conteudo-2) · Felipe Collins *(premium 👑 — corpo pago; lacuna)*
+
+**Tese (parte visível):** Conteúdo que funciona em 2025 depende de capturar atenção, nutrir relacionamento e montar uma "máquina de conteúdo" com métrica clara — via teste contextualizado, não fórmula universal ("se houvesse jeito infalível, teria zeros a mais na conta").
+**Takeaway:** a execução prática (frameworks e o "o que funciona/não funciona") é premium — **lacuna** (complementa Marketing de conteúdo pt1 acima).

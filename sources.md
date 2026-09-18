@@ -5,14 +5,14 @@
 - [ ] https://growthinsight.com.br/p/100-edicoes-growth-insight
 - [ ] https://growthinsight.com.br/p/2024-retrospectiva
 - [ ] https://growthinsight.com.br/p/3-duvidas-marketing-4000-empresarios
-- [ ] https://growthinsight.com.br/p/5-skills-para-claude
+- [x] https://growthinsight.com.br/p/5-skills-para-claude
 - [ ] https://growthinsight.com.br/p/6-dicas-proposta-emprego
 - [P] https://growthinsight.com.br/p/7-licoes-5-anos-diretor-marketing-swile
 - [ ] https://growthinsight.com.br/p/8-podcasts-impacto-2025
 - [ ] https://growthinsight.com.br/p/abandone-resolucoes-ano-novo
 - [x] https://growthinsight.com.br/p/agile-marketing
 - [x] https://growthinsight.com.br/p/ai-overview-seo
-- [ ] https://growthinsight.com.br/p/ancoras-e-eletrons
+- [x] https://growthinsight.com.br/p/ancoras-e-eletrons
 - [ ] https://growthinsight.com.br/p/aprendendo-a-pensar-e-aprender-deep-growth
 - [ ] https://growthinsight.com.br/p/aprendizado
 - [x] https://growthinsight.com.br/p/arroz-feijao-mkt-2026
@@ -20,14 +20,14 @@
 - [P] https://growthinsight.com.br/p/b2boring-parte2
 - [x] https://growthinsight.com.br/p/bowling-pin-strategy
 - [x] https://growthinsight.com.br/p/branding-como-criar-uma-marca-do-zero-ou-mudar-a-sua
-- [ ] https://growthinsight.com.br/p/campanha-cancelamento-havaianas
+- [x] https://growthinsight.com.br/p/campanha-cancelamento-havaianas
 - [x] https://growthinsight.com.br/p/canais-de-marketing
 - [P] https://growthinsight.com.br/p/case-notion-clg-parte3
 - [P] https://growthinsight.com.br/p/case-notion-parte1
 - [P] https://growthinsight.com.br/p/case-notion-plg-parte2
 - [ ] https://growthinsight.com.br/p/ceo-nao-confia
 - [ ] https://growthinsight.com.br/p/checklist-arroz-feijao
-- [ ] https://growthinsight.com.br/p/claude-code
+- [x] https://growthinsight.com.br/p/claude-code
 - [x] https://growthinsight.com.br/p/cmo-as-a-service
 - [x] https://growthinsight.com.br/p/cmo-interino-teste-real-diminui-o-risco-de-contrata-es-erradas
 - [ ] https://growthinsight.com.br/p/combinado-founders
@@ -45,11 +45,11 @@
 - [x] https://growthinsight.com.br/p/confianca-13-comportamentos-1
 - [x] https://growthinsight.com.br/p/confianca-parte-3
 - [x] https://growthinsight.com.br/p/contextual-outbound
-- [ ] https://growthinsight.com.br/p/criacao-da-marca
+- [P] https://growthinsight.com.br/p/criacao-da-marca
 - [x] https://growthinsight.com.br/p/criar-programa-de-indicacao
 - [x] https://growthinsight.com.br/p/criar-time-marketing-zero
-- [ ] https://growthinsight.com.br/p/criatividade
-- [ ] https://growthinsight.com.br/p/crise-reputacional-marketing
+- [x] https://growthinsight.com.br/p/criatividade
+- [x] https://growthinsight.com.br/p/crise-reputacional-marketing
 - [x] https://growthinsight.com.br/p/cro-tedio-psych-fomu
 - [ ] https://growthinsight.com.br/p/curadoria-7-temas
 - [ ] https://growthinsight.com.br/p/cyberpunk2077
@@ -77,19 +77,19 @@
 - [P] https://growthinsight.com.br/p/hubspot-fundacao
 - [P] https://growthinsight.com.br/p/hubspot-parcerias-educacao
 - [P] https://growthinsight.com.br/p/hubspot-plg-global
-- [ ] https://growthinsight.com.br/p/ia-onboarding-cro
-- [ ] https://growthinsight.com.br/p/ia-vibe-marketing
+- [x] https://growthinsight.com.br/p/ia-onboarding-cro
+- [x] https://growthinsight.com.br/p/ia-vibe-marketing
 - [x] https://growthinsight.com.br/p/loop-marketing-hubspot
 - [ ] https://growthinsight.com.br/p/manifesto
 - [P] https://growthinsight.com.br/p/marketing-de-conteudo-1
-- [ ] https://growthinsight.com.br/p/marketing-de-conteudo-2
+- [P] https://growthinsight.com.br/p/marketing-de-conteudo-2
 - [x] https://growthinsight.com.br/p/marketing-de-guerrilha-emboscada
-- [ ] https://growthinsight.com.br/p/melhore-resultados-gen-ia
+- [x] https://growthinsight.com.br/p/melhore-resultados-gen-ia
 - [ ] https://growthinsight.com.br/p/melhores-livros-por-especialidade-de-marketing
 - [ ] https://growthinsight.com.br/p/mentira
 - [ ] https://growthinsight.com.br/p/mentoria-premium-high-ic-zero-click
 - [ ] https://growthinsight.com.br/p/metodo-meyvn-consultoria
-- [ ] https://growthinsight.com.br/p/mito-growth-hacker
+- [x] https://growthinsight.com.br/p/mito-growth-hacker
 - [x] https://growthinsight.com.br/p/moats-defensibilidade-2026
 - [x] https://growthinsight.com.br/p/modelo-competencias-growth
 - [x] https://growthinsight.com.br/p/monetizacao-parte1
@@ -99,7 +99,7 @@
 - [ ] https://growthinsight.com.br/p/newsletter-business
 - [x] https://growthinsight.com.br/p/nichos-novo-oceano-azul
 - [x] https://growthinsight.com.br/p/novo-marketing-ia-gen-marketer
-- [ ] https://growthinsight.com.br/p/o-fim-do-fim-dos-cookies
+- [x] https://growthinsight.com.br/p/o-fim-do-fim-dos-cookies
 - [ ] https://growthinsight.com.br/p/os-melhores-livros-para-profissionais-de-marketing
 - [ ] https://growthinsight.com.br/p/papo-de-gestao-g4-witt
 - [x] https://growthinsight.com.br/p/patrocinio-paixao
@@ -125,7 +125,7 @@
 - [ ] https://growthinsight.com.br/p/reunioes-rotinas-rituais
 - [x] https://growthinsight.com.br/p/saaspocalypse-agentes-ia
 - [x] https://growthinsight.com.br/p/sales-buyer-enablement
-- [ ] https://growthinsight.com.br/p/say-name-tcnicas-para-construir-o-nome-de-marca-ideal
+- [x] https://growthinsight.com.br/p/say-name-tcnicas-para-construir-o-nome-de-marca-ideal
 - [x] https://growthinsight.com.br/p/scorecard-icp
 - [ ] https://growthinsight.com.br/p/semanas-caoticas
 - [ ] https://growthinsight.com.br/p/time-de-marketing

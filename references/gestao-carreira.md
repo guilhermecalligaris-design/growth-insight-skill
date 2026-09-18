@@ -74,3 +74,13 @@ Gestão/carreira · [fonte](https://growthinsight.com.br/p/7-licoes-5-anos-diret
 
 **Tese (parte visível):** Quase 5 anos (2020-2025) liderando marketing num unicórnio que cresceu ~50× renderam 7 lições de liderança — cujo detalhe é premium.
 **Takeaway:** escala exponencial forma o líder; as 7 lições específicas são conteúdo pago (**lacuna**).
+
+## Fortalecer a posição do marketing em 2026 (de tático a arquiteto de receita)
+Gestão/liderança · [fonte](https://growthinsight.com.br/p/crise-reputacional-marketing) · Felipe Witt
+
+**Tese:** O marketing sofre crise reputacional por ser "ilegível" pra liderança — recupera credibilidade ao falar a língua do negócio, assumir meta de receita e liderar a transformação com IA.
+**Frameworks:** *BIC (Business, Innovation, Customer)* — armadilha que rebaixa o marketing a suporte. *3 pilares de fortalecimento* — (a) novo idioma (falar receita/margem, não CAC/CPL/CTR) + (b) skin in the game (assumir meta de receita/assinatura, não de lead) + (c) vanguarda em IA. *Engenharia reversa do funil* — ligar meta de marketing a métrica comercial.
+**Táticas:** 1-1 quinzenal com Finanças (métrica conjunta); entrar nas weeklies comerciais; planejamento trimestral junto de Vendas; bônus atrelado a receita+assinatura; pilotar IA em sprint de 2-3 semanas focado em produtividade e descartar sem apego.
+**Exemplos:** Swile (marketing gerava 90% da demanda mas era visto como suporte) · STLFLIX (bônus 85% receita + assinatura) · Gartner (só 45% dos CEO/CFO acham que o marketing fez bom trabalho) · McKinsey (só 50% dos CMOs no planejamento estratégico).
+**Anti-padrões:** reportar em métrica de marketing em vez de receita; meta só de lead; IA por hype sem produtividade; marketing isolado em "caixa-preta".
+**Takeaway:** marketer ganha credibilidade virando **arquiteto de receita**, não produtor de tática. (Casa com Finanças para marketing acima.)

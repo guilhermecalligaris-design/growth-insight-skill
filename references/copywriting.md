@@ -52,3 +52,13 @@ Posicionamento/copy · [fonte](https://growthinsight.com.br/p/positioning-messag
 **Exemplos:** Swile (onde o autor foi diretor de marketing); "all-in-one sales platform" / "AI-powered revenue orchestration" como headlines genéricas/vazias a evitar.
 **Anti-padrões:** tratar posicionamento/mensagem/copy como a mesma coisa; sair testando A/B e criativo sem diagnosticar o tipo de problema; headline genérica; negativa que confunde ("não é feito com..."); iterar copy sem âncora estratégica (deriva após 4-5 ciclos).
 **Takeaway:** **posicionamento e mensagem vêm muito antes da copy** — e são os mais ignorados.
+
+## Criatividade não é dom — é habilidade treinável
+Craft/criatividade · [fonte](https://growthinsight.com.br/p/criatividade) · Felipe Collins
+
+**Tese:** Criatividade é habilidade treinável (repertório + confiança + ambiente), não dom inato.
+**Frameworks:** *Modelo sistêmico (Csikszentmihalyi)* — Domínio (conhecimento da área) × Indivíduo (quem combina) × Campo (comunidade que valida). *4 P's (Mel Rhodes, ampliado)* — Pessoa, Processo (preparação→incubação→insight→verificação), Produto, Pressão/ambiente (+Potencial, +Persuasão).
+**Táticas:** manter ~12 perguntas abertas na cabeça; swipefile de referências; tédio intencional 15 min/dia (ativa o modo difuso); método Seinfeld (criar todo dia, marcar o progresso); restrição artificial no projeto; sparring partner pra feedback honesto; proteger a motivação intrínseca.
+**Exemplos:** estudo NASA/George Land (98% das crianças criativas aos 5 anos → 2% aos 25) · Gmail/Maps (os "20% do Google") · Frozen/Pixar (Elsa era vilã até o Braintrust) · Seinfeld (2h/dia).
+**Anti-padrões:** rotina sem espaço reflexivo; medo de julgamento; excesso de estímulo (mata o modo difuso); pressa por resultado imediato; ambiente hierárquico e punitivo.
+**Takeaway:** desbloquear criatividade = **acúmulo intencional de referência + ambiente seguro + prática disciplinada**. (Complementa "quem escreve bem, pensa bem" acima.)

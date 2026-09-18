@@ -58,3 +58,14 @@
 | Foto Zero + V2MOM + Microscópio×Luneta (30-60-90) | Onboarding de líder de marketing | [30-60-90](https://growthinsight.com.br/p/plano-306090-como-se-dar-bem-no-incio-como-cmo) | gestao-carreira.md |
 | Matriz 3×2 GTM×fase + funil 5 etapas + 4 competências | Contratar e entrevistar em marketing | [contratar](https://growthinsight.com.br/p/como-contratar-time-marketing) | gestao-carreira.md |
 | 4 quadrantes de competência em growth | Desenvolver time (vs T-shape) | [competencias](https://growthinsight.com.br/p/modelo-competencias-growth) | gestao-carreira.md |
+| Vibe Marketing + engenharia como marketing | IA cria ferramenta de aquisição | [vibe](https://growthinsight.com.br/p/ia-vibe-marketing) | ia-marketing.md |
+| SSR/SSR+/SSR++ + RAG + formatação de prompt | Multiplicar resultado com GenIA | [genia](https://growthinsight.com.br/p/melhore-resultados-gen-ia) | ia-marketing.md |
+| 3 passos (transcrição/projeto/prompt) + estrutura Brockman | IA como think partner no onboarding | [ia-onboarding](https://growthinsight.com.br/p/ia-onboarding-cro) | ia-marketing.md |
+| 5 skills do Claude (grill-me/ADHD/caveman/…) + Claude Code | IA operacional no marketing | [claude](https://growthinsight.com.br/p/5-skills-para-claude) | ia-marketing.md |
+| 7 critérios (Neumeier) + matriz de tipos (Kolenda) + técnicas de geração | Naming de marca | [naming](https://growthinsight.com.br/p/say-name-tcnicas-para-construir-o-nome-de-marca-ideal) | branding.md |
+| Marca democrática + boicote invertido | Crise/cancelamento como amplificador | [havaianas](https://growthinsight.com.br/p/campanha-cancelamento-havaianas) | branding.md |
+| Modelo sistêmico (Csikszentmihalyi) + 4 P's da criatividade | Treinar criatividade | [criatividade](https://growthinsight.com.br/p/criatividade) | copywriting.md |
+| First-party + banda de verba pra teste | Medir sem atribuição perfeita | [cookies](https://growthinsight.com.br/p/o-fim-do-fim-dos-cookies) | canais-taticas.md |
+| Âncoras & elétrons + "Já que… e se…" | Concentrar + desdobrar/repurpose | [ancoras](https://growthinsight.com.br/p/ancoras-e-eletrons) | canais-taticas.md |
+| BIC + 3 pilares (idioma/skin-in-game/IA) | Marketing como arquiteto de receita | [posicao-2026](https://growthinsight.com.br/p/crise-reputacional-marketing) | gestao-carreira.md |
+| Sistema de crescimento (aq/ret/eng/mon) vs growth hacker | Growth é processo, não pessoa | [mito](https://growthinsight.com.br/p/mito-growth-hacker) | growth.md |

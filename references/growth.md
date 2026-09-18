@@ -58,3 +58,13 @@ Growth/case · [fundação 👑](https://growthinsight.com.br/p/hubspot-fundacao
 **Frameworks:** *Separação editorial × monetização* (desacoplar engajamento de demanda imediata) · *Precificação evolutiva* (único → volume → híbrido → modular por Hub → "core seat" 2024) · *Buy-or-build + tier system* (Gold/Silver/Platinum/Elite).
 **Anti-padrões:** ler queda de um canal como falência ("gráfico caindo ≠ empresa quebrando"); modelo "vending machine" (ROI imediato por campanha); depender de canal único; medir só ranking/keyword em vez de "minutos de atenção".
 **Takeaway:** em mercado saturado com tráfego orgânico em colapso, **relacionamento contínuo via mídia própria confiável + empilhamento de canais** vence a caça por volume (ticket médio US$10.486→US$11.343 de 2021 a 2024). Deep-dives de fundação, parcerias e PLG são premium (lacuna).
+
+## O mito do growth hacker — growth é processo, não pessoa
+Growth/cultura · [fonte](https://growthinsight.com.br/p/mito-growth-hacker) · Felipe Witt
+
+**Tese:** O growth hacker individual é mito; crescimento exponencial vem de **processo coletivo e sistemático**, não de tática isolada.
+**Frameworks (armadilhas):** *Mágico de Oz* (contratar alguém esperando mágica) · *Pó de Pirlimpimpim* (copiar tática dos outros) · *João e o Pé de Feijão* (spray-and-pray). *Sistema de crescimento* — aquisição + retenção + engajamento + monetização, movido por experimentação rápida.
+**Táticas:** experimentação entre as jornadas do cliente; teste A/B; referral; integração com plataforma externa; lembrar que capital/financiamento costuma ser o enabler principal.
+**Exemplos:** Hotmail (assinatura viral no rodapé) · Dropbox (referral) · Airbnb (listagem via Craigslist).
+**Anti-padrões:** contratar "growth hacker" como solução mágica; aplicar tática sem entender o contexto; confundir mentalidade com processo; ignorar o papel do capital.
+**Takeaway:** "é bom que suas unhas estejam sujas de terra" — o trabalho real de growth é processo fora das ferramentas. (Complementa o modelo de competências em growth.)

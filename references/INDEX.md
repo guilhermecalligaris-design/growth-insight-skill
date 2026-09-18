@@ -60,3 +60,16 @@
 | [como-contratar / guia-entrevista](https://growthinsight.com.br/p/guia-entrevista-marketing) | Contratar + entrevista estruturada | gestao-carreira.md |
 | [modelo-competencias-growth](https://growthinsight.com.br/p/modelo-competencias-growth) | Modelo de competências em growth | gestao-carreira.md |
 | [7-licoes-swile](https://growthinsight.com.br/p/7-licoes-5-anos-diretor-marketing-swile) | 7 lições Swile (lacuna premium) | gestao-carreira.md |
+| [ia-vibe-marketing](https://growthinsight.com.br/p/ia-vibe-marketing) | Vibe Marketing (IA cria ferramentas) | ia-marketing.md |
+| [melhore-resultados-gen-ia](https://growthinsight.com.br/p/melhore-resultados-gen-ia) | Prompt engineering (SSR/RAG) | ia-marketing.md |
+| [ia-onboarding-cro](https://growthinsight.com.br/p/ia-onboarding-cro) | IA no onboarding executivo | ia-marketing.md |
+| [5-skills-para-claude / claude-code](https://growthinsight.com.br/p/5-skills-para-claude) | Claude no fluxo de marketing | ia-marketing.md |
+| [say-name (naming)](https://growthinsight.com.br/p/say-name-tcnicas-para-construir-o-nome-de-marca-ideal) | Naming (7 critérios + técnicas) | branding.md |
+| [criacao-da-marca](https://growthinsight.com.br/p/criacao-da-marca) | Criação da marca GI (lacuna premium) | branding.md |
+| [campanha-cancelamento-havaianas](https://growthinsight.com.br/p/campanha-cancelamento-havaianas) | Havaianas: marca democrática | branding.md |
+| [criatividade](https://growthinsight.com.br/p/criatividade) | Criatividade é treinável (4 P's) | copywriting.md |
+| [o-fim-do-fim-dos-cookies](https://growthinsight.com.br/p/o-fim-do-fim-dos-cookies) | Fim do fim dos cookies (medição) | canais-taticas.md |
+| [ancoras-e-eletrons](https://growthinsight.com.br/p/ancoras-e-eletrons) | Âncoras & elétrons (repurpose) | canais-taticas.md |
+| [marketing-de-conteudo-2](https://growthinsight.com.br/p/marketing-de-conteudo-2) | Marketing de conteúdo pt2 (lacuna premium) | canais-taticas.md |
+| [crise-reputacional-marketing](https://growthinsight.com.br/p/crise-reputacional-marketing) | Marketing: de tático a arquiteto de receita | gestao-carreira.md |
+| [mito-growth-hacker](https://growthinsight.com.br/p/mito-growth-hacker) | O mito do growth hacker | growth.md |
