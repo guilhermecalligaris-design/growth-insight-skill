@@ -10,7 +10,7 @@
 - [ ] https://growthinsight.com.br/p/7-licoes-5-anos-diretor-marketing-swile
 - [ ] https://growthinsight.com.br/p/8-podcasts-impacto-2025
 - [ ] https://growthinsight.com.br/p/abandone-resolucoes-ano-novo
-- [ ] https://growthinsight.com.br/p/agile-marketing
+- [x] https://growthinsight.com.br/p/agile-marketing
 - [ ] https://growthinsight.com.br/p/ai-overview-seo
 - [ ] https://growthinsight.com.br/p/ancoras-e-eletrons
 - [ ] https://growthinsight.com.br/p/aprendendo-a-pensar-e-aprender-deep-growth
@@ -18,7 +18,7 @@
 - [x] https://growthinsight.com.br/p/arroz-feijao-mkt-2026
 - [ ] https://growthinsight.com.br/p/b2boring-parte1
 - [ ] https://growthinsight.com.br/p/b2boring-parte2
-- [ ] https://growthinsight.com.br/p/bowling-pin-strategy
+- [x] https://growthinsight.com.br/p/bowling-pin-strategy
 - [x] https://growthinsight.com.br/p/branding-como-criar-uma-marca-do-zero-ou-mudar-a-sua
 - [ ] https://growthinsight.com.br/p/campanha-cancelamento-havaianas
 - [ ] https://growthinsight.com.br/p/canais-de-marketing
@@ -31,10 +31,10 @@
 - [ ] https://growthinsight.com.br/p/cmo-as-a-service
 - [ ] https://growthinsight.com.br/p/cmo-interino-teste-real-diminui-o-risco-de-contrata-es-erradas
 - [ ] https://growthinsight.com.br/p/combinado-founders
-- [ ] https://growthinsight.com.br/p/community-led-growth
-- [ ] https://growthinsight.com.br/p/como-competir-contra-incumbentes
+- [x] https://growthinsight.com.br/p/community-led-growth
+- [x] https://growthinsight.com.br/p/como-competir-contra-incumbentes
 - [ ] https://growthinsight.com.br/p/como-contratar-time-marketing
-- [ ] https://growthinsight.com.br/p/como-criar-um-plano-de-marketing-que-funciona-em-8-etapas
+- [x] https://growthinsight.com.br/p/como-criar-um-plano-de-marketing-que-funciona-em-8-etapas
 - [ ] https://growthinsight.com.br/p/como-dizer-nao
 - [ ] https://growthinsight.com.br/p/como-escrever-bem
 - [ ] https://growthinsight.com.br/p/como-surgiu
@@ -44,35 +44,35 @@
 - [ ] https://growthinsight.com.br/p/confianca
 - [ ] https://growthinsight.com.br/p/confianca-13-comportamentos-1
 - [ ] https://growthinsight.com.br/p/confianca-parte-3
-- [ ] https://growthinsight.com.br/p/contextual-outbound
+- [x] https://growthinsight.com.br/p/contextual-outbound
 - [ ] https://growthinsight.com.br/p/criacao-da-marca
 - [ ] https://growthinsight.com.br/p/criar-programa-de-indicacao
 - [x] https://growthinsight.com.br/p/criar-time-marketing-zero
 - [ ] https://growthinsight.com.br/p/criatividade
 - [ ] https://growthinsight.com.br/p/crise-reputacional-marketing
-- [ ] https://growthinsight.com.br/p/cro-tedio-psych-fomu
+- [x] https://growthinsight.com.br/p/cro-tedio-psych-fomu
 - [ ] https://growthinsight.com.br/p/curadoria-7-temas
 - [ ] https://growthinsight.com.br/p/cyberpunk2077
-- [ ] https://growthinsight.com.br/p/demand-gen-95-5
+- [x] https://growthinsight.com.br/p/demand-gen-95-5
 - [ ] https://growthinsight.com.br/p/derrubando-gigantes-rd-summit
 - [ ] https://growthinsight.com.br/p/diversificar-canais-aquisicao
-- [ ] https://growthinsight.com.br/p/economia-comportamental-neuromarketing
-- [ ] https://growthinsight.com.br/p/elmr-framework
+- [x] https://growthinsight.com.br/p/economia-comportamental-neuromarketing
+- [x] https://growthinsight.com.br/p/elmr-framework
 - [ ] https://growthinsight.com.br/p/especial-rebranding-material-sem-cortes
 - [ ] https://growthinsight.com.br/p/estrategia-de-pr-e-imprensa
-- [ ] https://growthinsight.com.br/p/estudo-softbank-performance-vs-branding
+- [x] https://growthinsight.com.br/p/estudo-softbank-performance-vs-branding
 - [ ] https://growthinsight.com.br/p/eventos-podcast
 - [ ] https://growthinsight.com.br/p/feliz-ano-novo-2026
 - [ ] https://growthinsight.com.br/p/financas-para-marketing
-- [ ] https://growthinsight.com.br/p/fuel-engine-framework
+- [x] https://growthinsight.com.br/p/fuel-engine-framework
 - [ ] https://growthinsight.com.br/p/futurospectiva-2025-parte-2
 - [ ] https://growthinsight.com.br/p/futurospectiva-2025-redes-sociais
 - [ ] https://growthinsight.com.br/p/futurospectiva-o-acerto-de-contas-de-2025
 - [ ] https://growthinsight.com.br/p/good-copy-bad-copy
-- [ ] https://growthinsight.com.br/p/gotomarket-slg-mlg-plg
+- [x] https://growthinsight.com.br/p/gotomarket-slg-mlg-plg
 - [ ] https://growthinsight.com.br/p/growth-insight-advisory
 - [ ] https://growthinsight.com.br/p/guia-entrevista-marketing
-- [ ] https://growthinsight.com.br/p/guia-product-market-fit
+- [x] https://growthinsight.com.br/p/guia-product-market-fit
 - [ ] https://growthinsight.com.br/p/hubspot-conteudo-ia
 - [ ] https://growthinsight.com.br/p/hubspot-fundacao
 - [ ] https://growthinsight.com.br/p/hubspot-parcerias-educacao

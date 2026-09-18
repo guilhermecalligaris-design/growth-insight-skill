@@ -16,6 +16,18 @@
 | 4 blocos do PMM + Matriz do Mandato | Papel estratégico de product marketing | [product-marketing](https://growthinsight.com.br/p/product-marketing) | gtm.md |
 | Venn do Gen Marketer + Matriz 2×2 | Perfil de marketing com IA (expertise×IA) | [gen-marketer](https://growthinsight.com.br/p/novo-marketing-ia-gen-marketer) | ia-marketing.md |
 | Trilema (crescimento×orçamento×IA) | Restrição tripla + maturidade de IA | [trilema](https://growthinsight.com.br/p/trilema-marketing-ia) | ia-marketing.md |
-| Loop Marketing ELMR (Express/Tailor/Amplify/Evolve) + AEO | Funil vira ciclo; otimizar p/ citação de LLM | [loop-marketing](https://growthinsight.com.br/p/loop-marketing-hubspot) | ia-marketing.md |
+| Loop Marketing (Express/Tailor/Amplify/Evolve) + AEO | Funil vira ciclo; otimizar p/ citação de LLM | [loop-marketing](https://growthinsight.com.br/p/loop-marketing-hubspot) | ia-marketing.md |
 | Estratégia Barbell + Matriz de posse de mídia | Zero-click, disponibilidade mental | [zero-click](https://growthinsight.com.br/p/zero-click-marketing) | canais-taticas.md |
 | Guerrilha: 3 efeitos + 5 ferramentas + Matriz Materialização/Amplificação | Marketing de guerrilha/emboscada | [guerrilha](https://growthinsight.com.br/p/marketing-de-guerrilha-emboscada) | canais-taticas.md |
+| ELMR (Emoção·Lógica·Motivação·Recompensa) | Sequência de persuasão da decisão | [elmr](https://growthinsight.com.br/p/elmr-framework) | copywriting.md |
+| Sistema 1×2 / Nudge / Ancoragem / Cialdini 6 | Economia comportamental aplicada | [neuromkt](https://growthinsight.com.br/p/economia-comportamental-neuromarketing) | copywriting.md |
+| 3 elementos de PMF + Teste de Sean Ellis (40%) | Validar product-market fit | [pmf](https://growthinsight.com.br/p/guia-product-market-fit) | growth.md |
+| CLG: 4 pilares + 3 modelos + 2 formatos | Community-led growth | [clg](https://growthinsight.com.br/p/community-led-growth) | growth.md |
+| PSYCH + B=MAP + Efeito Comisar (FOMU) | Psicologia de CRO | [cro](https://growthinsight.com.br/p/cro-tedio-psych-fomu) | growth.md |
+| Regra 95-5 (Dawes) | Demand gen vs lead gen | [95-5](https://growthinsight.com.br/p/demand-gen-95-5) | b2b.md |
+| Contextual Outbound (4 componentes) | Outbound sem queimar marca | [ctx-out](https://growthinsight.com.br/p/contextual-outbound) | b2b.md |
+| Lean / Kanban / Scrum (Agile Marketing) | Organizar time de marketing por incerteza | [agile](https://growthinsight.com.br/p/agile-marketing) | gestao-carreira.md |
+| Fuel-Engine | Separar papéis marketing×growth em transição | [fuel](https://growthinsight.com.br/p/fuel-engine-framework) | gestao-carreira.md |
+| Bowling Pin Strategy (3 passos) | Dominar nicho antes de expandir | [bowling](https://growthinsight.com.br/p/bowling-pin-strategy) | gtm.md |
+| GTM SLG/MLG/PLG (Joel York + Balfour) | Escolher modelo por complexidade/ARPU | [gtm-models](https://growthinsight.com.br/p/gotomarket-slg-mlg-plg) | gtm.md |
+| Mapa de alternativas competitivas | Competir contra incumbente (status quo/indecisão) | [incumbentes](https://growthinsight.com.br/p/como-competir-contra-incumbentes) | estrategia.md |

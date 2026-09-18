@@ -22,3 +22,23 @@ Product Marketing · [fonte](https://growthinsight.com.br/p/product-marketing) �
 **Táticas:** atribuir dono explícito do posicionamento (não consenso); embutir PMM no discovery de produto (não pós-lançamento); avaliar reporte pelo nível de mandato, não pelo organograma; KPI ligado a receita.
 **Anti-padrões:** PMM virar "apoio de campanha" sob Marketing sem influência no produto; PMM virar "PM sem roadmap" sob Produto, perdendo a voz do mercado; tratar PMM como execução tática, não arbitragem estratégica.
 **Takeaway:** a pergunta real não é onde o PMM se senta — é se o **próprio Marketing ocupa uma cadeira estratégica** na mesa.
+
+## Bowling Pin Strategy — dominar o nicho antes de expandir
+GTM/posicionamento · [fonte](https://growthinsight.com.br/p/bowling-pin-strategy) · Felipe Witt
+
+**Tese:** Domine um segmento estreito **completamente** antes de expandir — o caminho contraintuitivo que Amazon, Facebook e Salesforce de fato usaram.
+**Framework (3 passos):** 1) **Vencer os argumentos anti-nicho** ("mercado grande = mais venda" → necessidades fragmentadas conflitam; "nicho me trava" → expansão funciona se adjacente; "nicho é pequeno" → receita ≠ tamanho de mercado) · 2) **Escolher o segmento inicial** por ≥1 fator: comunidade forte (confiança/boca-a-boca) OU proposta de valor desproporcional · 3) **Expandir:** Caminho A = novos segmentos, mesmo caso de uso (Facebook: Harvard→universidades→massa) · Caminho B = novos casos, mesmo segmento (Salesforce: CRM→marketing/serviço).
+**Táticas:** mapear comunidades de alto engajamento (não tamanho); achar a feature que o concorrente despreza mas o segmento valoriza; narrativa segmentada (não mensagem "média"); dominar o 1º pino antes do adjacente.
+**Exemplos:** Tesla Roadster (esportivo de luxo → sedan → massa) · Janna Systems (CRM p/ investment banking → adquirida pela Siebel) · Porch Pumpkins (decoração de Halloween US$1.350+ em Dallas → Natal).
+**Anti-padrões:** expandir o TAM antes de dominar o segmento; misturar feedback de segmentos incompatíveis; "vision alignment" sobre dor do cliente; nicho como trampolim em vez de fundação (Colgate lasanha).
+**Takeaway:** **estreitar o mercado aumenta a velocidade** — coerência de produto, posicionamento defensável e crescimento por comunidade.
+
+## Escolher o GTM: SLG × MLG × PLG
+GTM · [fonte](https://growthinsight.com.br/p/gotomarket-slg-mlg-plg) · Felipe Witt
+
+**Tese:** Escolha entre Sales-Led, Marketing-Led ou Product-Led pela **complexidade do produto e ARPU** — os que dão certo em geral combinam abordagens.
+**Frameworks:** *Joel York (2010)* — Enterprise (preço+complexidade altos → força de vendas) · Transactional (médio → vendas guiam) · Self-Service (baixo+simples → aquisição automatizada). *Brian Balfour (Channel-Model Fit)* — mapeia ARPU e fricção pra canais e papéis viáveis.
+**Táticas:** avaliar complexidade e receita por cliente; identificar quais sinais do seu mercado batem com cada modelo; usar as forças do modelo e mitigar fraquezas; considerar híbrido; usar GTM como lente, não blueprint copiado.
+**Exemplos:** SLG (EmCasa, Oracle, Salesforce) · MLG (Gympass, HubSpot, RD Station) · PLG (Arc, Calendly, Canva, Slack, Notion).
+**Anti-padrões:** derivar pra mistura de GTM sem estratégia consciente; copiar empresa de contexto diferente; ignorar dependência de pessoas (risco SLG) ou de plataforma (risco MLG/PLG).
+**Takeaway:** seleção deliberada de GTM alinhada à economia do produto sustenta o crescimento — avalie seus sinais antes de comprometer recurso.

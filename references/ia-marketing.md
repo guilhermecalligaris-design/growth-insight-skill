@@ -22,7 +22,7 @@ IA/gestão · [fonte](https://growthinsight.com.br/p/trilema-marketing-ia) · Fe
 **Anti-padrões:** jogar orçamento fixo em licença de IA sem cortar outras frentes; tratar economia individual de tempo como produtividade organizacional; pular avaliação de maturidade antes de escalar piloto; IA no pensamento inicial (atrofia decisão).
 **Takeaway:** o gargalo não é a capacidade da IA — é a **competência organizacional**. Redirecione ~15% do gasto de IA pra upskilling e governança. "Fazer mais com mais", não com o mesmo.
 
-## Loop Marketing (HubSpot) — o funil vira ciclo (ELMR/ETAE)
+## Loop Marketing (HubSpot) — o funil vira ciclo (Express·Tailor·Amplify·Evolve)
 IA/growth ops · [fonte](https://growthinsight.com.br/p/loop-marketing-hubspot) · Felipe Witt
 
 **Tese:** O funil linear morreu; **Loop Marketing** troca a jornada linear por um ciclo com IA adaptado a zero-click, pesquisa via LLM e personalização em tempo real.
